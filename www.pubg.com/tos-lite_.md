@@ -196,7 +196,7 @@ Attn: Legal Affair Department Agent
 
 6, 7, 8F 12, Seocho-daero 38-gil Seocho-gu, Seoul, the Republic of Korea
 
-Email: [\[email protected\]](/cdn-cgi/l/email-protection#a5d5d0c7c2fad5d7ccd3c4c6dce5d5d0c7c28bc6cac8)
+Email: [\[email protected\]](/cdn-cgi/l/email-protection#d1a1a4b3b68ea1a3b8a7b0b2a891a1a4b3b6ffb2bebc)
 
 16.  **Amendments**
 
