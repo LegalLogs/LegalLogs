@@ -137,7 +137,7 @@ We give permission to third parties, including service providers which process p
 
 We operate globally and transfer your data to countries and other regions outside of where you are located. If your personal information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of personal information.
 
-Additionally, when information is transferred from the European Union, we will also take steps to ensure that your information a receives the same level of protection as if it remained within the EU, including by entering into data transfer agreements using the European Commission approved Standard Contractual Clauses, obtaining your explicit consent, or by relying on certification schemes such as the EU – US Privacy Shield. You have a right to obtain details of the mechanism under which your information is transferred outside of the EU by contacting [\[email protected\]](/cdn-cgi/l/email-protection#cebebbaca991bebca7b8afadb78ebebbaca9e0ada1a3).
+Additionally, when information is transferred from the European Union, we will also take steps to ensure that your information a receives the same level of protection as if it remained within the EU, including by entering into data transfer agreements using the European Commission approved Standard Contractual Clauses, obtaining your explicit consent, or by relying on certification schemes such as the EU – US Privacy Shield. You have a right to obtain details of the mechanism under which your information is transferred outside of the EU by contacting [\[email protected\]](/cdn-cgi/l/email-protection#aededbccc9f1dedcc7d8cfcdd7eededbccc980cdc1c3).
 
 **8\. Retaining and Deleting Personal Information**
 
@@ -165,9 +165,9 @@ Subject to limitations in applicable law, you are entitled to object to or reque
 
 If you are a California resident, you may have these additional rights:
 
-– California residents have the right to receive 1) information identifying any third party company to whom we may have disclosed (within the previous calendar year) his/her personal information for that company’s direct marketing purposes; and 2) a description of the categories of personal information disclosed. If you are a California resident and wish to obtain such information, please send a request email to [\[email protected\]](/cdn-cgi/l/email-protection#07777265605877756e7166647e47777265602964686a).
+– California residents have the right to receive 1) information identifying any third party company to whom we may have disclosed (within the previous calendar year) his/her personal information for that company’s direct marketing purposes; and 2) a description of the categories of personal information disclosed. If you are a California resident and wish to obtain such information, please send a request email to [\[email protected\]](/cdn-cgi/l/email-protection#89f9fcebeed6f9fbe0ffe8eaf0c9f9fcebeea7eae6e4).
 
-– California residents under the age of 18 have the right to request removal of any content or information that they have posted on our Site, such as forum or message board. To make such a request, please send an email to [\[email protected\]](/cdn-cgi/l/email-protection#98e8edfaffc7e8eaf1eef9fbe1d8e8edfaffb6fbf7f5). Please be aware that the removal of your information or content may not be complete or comprehensive, and residual copies of such removed information or content may remain on our servers. In addition, we are not obligated to remove any posted content or information that has been copied or reposted by a third party, that has been rendered anonymous, or that we are required to keep by law.
+– California residents under the age of 18 have the right to request removal of any content or information that they have posted on our Site, such as forum or message board. To make such a request, please send an email to [\[email protected\]](/cdn-cgi/l/email-protection#8efefbece9d1fefce7f8efedf7cefefbece9a0ede1e3). Please be aware that the removal of your information or content may not be complete or comprehensive, and residual copies of such removed information or content may remain on our servers. In addition, we are not obligated to remove any posted content or information that has been copied or reposted by a third party, that has been rendered anonymous, or that we are required to keep by law.
 
 14.  **Amendments**
 
@@ -177,6 +177,6 @@ You will be deemed to have accepted such amendments by continuing to use the Ser
 
 15.  **Contact Us**
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us by sending an email at [\[email protected\]](/cdn-cgi/l/email-protection#70000512172f0002190611130930000512175e131f1d) or by writing us at 6, 7, 8F 12, Seocho-daero 38-gil Seocho-gu, Seoul, the Republic of Korea. You can also contact our Data Protection Officer by sending an email at [\[email protected\]](/cdn-cgi/l/email-protection#1d594d525d6d687f7a337e7270).
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us by sending an email at [\[email protected\]](/cdn-cgi/l/email-protection#ccbcb9aeab93bcbea5baadafb58cbcb9aeabe2afa3a1) or by writing us at 6, 7, 8F 12, Seocho-daero 38-gil Seocho-gu, Seoul, the Republic of Korea. You can also contact our Data Protection Officer by sending an email at [\[email protected\]](/cdn-cgi/l/email-protection#7e3a2e313e0e0b1c19501d1113).
 
 This Privacy Policy has been translated into other languages for the convenience of the players. In case of any discrepancies between the English version and the other versions, the English version shall prevail. However, Korean Privacy Policy shall prevail for Korean players.

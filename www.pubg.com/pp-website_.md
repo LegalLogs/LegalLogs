@@ -165,4 +165,4 @@ We may amend, at our discretion, any portion of this Privacy Policy at any time 
 
 15.  **Contact Us**
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us by sending an email at [\[email protected\]](/cdn-cgi/l/email-protection) or by writing us at 6, 7, 8F 12, Seocho-daero 38-gil Seocho-gu, Seoul, the Republic of Korea. You can also contact our Data Protection Officer by sending an email at [\[email protected\]](/cdn-cgi/l/email-protection#0c485c434c7c796e6b226f6361).
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us by sending an email at [\[email protected\]](/cdn-cgi/l/email-protection) or by writing us at 6, 7, 8F 12, Seocho-daero 38-gil Seocho-gu, Seoul, the Republic of Korea. You can also contact our Data Protection Officer by sending an email at [\[email protected\]](/cdn-cgi/l/email-protection#8cc8dcc3ccfcf9eeeba2efe3e1).
