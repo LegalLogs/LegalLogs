@@ -1,0 +1,2 @@
+RIOT GAMES PRIVACY NOTICE
+=========================
