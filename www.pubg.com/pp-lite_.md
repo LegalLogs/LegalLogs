@@ -149,7 +149,7 @@ We give permission to third parties, including service providers which process p
 
 We operate globally and transfer your data to countries and other regions where you are located. If your personal information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of personal information.
 
-Additionally, when information transferred from the European Union, we will also take steps to ensure that your information a receives the same level of protection as if it remained within the EU, including by entering into data transfer agreements using the European Commission approved Standard Contractual Clauses, obtain your explicit consent, or by relying on certification schemes such as the EU – US Privacy Shield. You have a right to obtain details of the mechanism under which your information is transferred outside of the EU by contacting [\[email protected\]](/cdn-cgi/l/email-protection#51212433360e2123382730322811212433367f323e3c).
+Additionally, when information transferred from the European Union, we will also take steps to ensure that your information a receives the same level of protection as if it remained within the EU, including by entering into data transfer agreements using the European Commission approved Standard Contractual Clauses, obtain your explicit consent, or by relying on certification schemes such as the EU – US Privacy Shield. You have a right to obtain details of the mechanism under which your information is transferred outside of the EU by contacting [\[email protected\]](/cdn-cgi/l/email-protection#ea9a9f888db59a98839c8b8993aa9a9f888dc4898587).
 
 **8\. Retaining and Deleting Personal Information**
 
@@ -177,7 +177,7 @@ Subject to limitations in applicable law, you are entitled to object to or reque
 
 If you are a California resident, you may have these additional rights:
 
-– California residents have the right to receive 1) information identifying any third party company to whom we may have disclosed (within the previous calendar year) his/her personal information for that company’s direct marketing purposes; and 2) a description of the categories of personal information disclosed. If you are a California resident and wish to obtain such information, please send a request email to [\[email protected\]](/cdn-cgi/l/email-protection#25555047427a55574c5344465c65555047420b464a48).
+– California residents have the right to receive 1) information identifying any third party company to whom we may have disclosed (within the previous calendar year) his/her personal information for that company’s direct marketing purposes; and 2) a description of the categories of personal information disclosed. If you are a California resident and wish to obtain such information, please send a request email to [\[email protected\]](/cdn-cgi/l/email-protection#fd8d889f9aa28d8f948b9c9e84bd8d889f9ad39e9290).
 
 – California residents under the age of 18 have the right to request removal of any content or information that they have posted on our Site, such as forum or message board. To make such a request, please send an email to [\[email protected\]](/cdn-cgi/l/email-protection#48383d2a2f17383a213e292b3108383d2a2f662b2725). Please be aware that the removal of your information or content may not be complete or comprehensive, and residual copies of such removed information or content may remain on our servers. In addition, we are not obligated to remove any posted content or information that has been copied or reposted by a third party, that has been rendered anonymous, or that we are required to keep by law.
 
@@ -189,4 +189,4 @@ You will be deemed to have accepted such amendments by continuing to use the Ser
 
 15.  **Contact Us**
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us by sending an email at [\[email protected\]](/cdn-cgi/l/email-protection#1f6f6a7d78406f6d76697e7c665f6f6a7d78317c7072) or by writing us at 6, 7, 8F 12, Seocho-daero 38-gil Seocho-gu, Seoul, the Republic of Korea. You can also contact our Data Protection Officer by sending an email at [\[email protected\]](/cdn-cgi/l/email-protection#7236223d32020710155c111d1f).
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us by sending an email at [\[email protected\]](/cdn-cgi/l/email-protection#d1a1a4b3b68ea1a3b8a7b0b2a891a1a4b3b6ffb2bebc) or by writing us at 6, 7, 8F 12, Seocho-daero 38-gil Seocho-gu, Seoul, the Republic of Korea. You can also contact our Data Protection Officer by sending an email at [\[email protected\]](/cdn-cgi/l/email-protection#5014001f10202532377e333f3d).
