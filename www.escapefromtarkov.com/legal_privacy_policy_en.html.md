@@ -19,7 +19,7 @@ Battlestate Games Limited has the right to periodically amend and/or supplement 
 
 2.  **About us**
 
-If you have any questions about processing of personal data within the scope of using the games posted on the Websites or about the Policy, you may contact Battlestate Games Limited, legal address: Wework Spitalfield, 1, Primrose St, London, United Kingdom, EC2A 2EX (hereinafter “**Battlestate Games Limited**”, “**we**”, “**our**” and ”**us**”) by email: [\[email protected\]](/cdn-cgi/l/email-protection)
+If you have any questions about processing of personal data within the scope of using the games posted on the Websites or about the Policy, you may contact Battlestate Games Limited, legal address: Wework Spitalfield, 1, Primrose St, London, United Kingdom, EC2A 2EX (hereinafter “**Battlestate Games Limited**”, “**we**”, “**our**” and ”**us**”) by email: support@battlestategames.com.
 
 We respect your right to confidentiality of personal data and process such data and other information provided by you or gathered about you exclusively in accordance with the given Policy and the applicable law.
 
@@ -185,7 +185,7 @@ You have the right, at any time, to exercise the following rights in relation to
 *   You may request that any information received by us from third-party resources to be deleted.
 *   If you decide to opt out from receiving advertisements from us by email, you may do so as described above. You may also refuse any advertisements from us by following the instructions in the letter.
 
-If you wish to exercise one of the above rights, please contact us at [\[email protected\]](/cdn-cgi/l/email-protection) Please note that, even if you send us a request to delete personal data about you from our information systems, we may retain all the information required for us to prevent fraud and abuse, perform analysis or fulfil legal obligations, or if we have grounds to believe there is a lawful reason to do so.
+If you wish to exercise one of the above rights, please contact us at support@battlestategames.com. Please note that, even if you send us a request to delete personal data about you from our information systems, we may retain all the information required for us to prevent fraud and abuse, perform analysis or fulfil legal obligations, or if we have grounds to believe there is a lawful reason to do so.
 
 Please also note that, if you opt out or restrict the number of advertisements received from us, we will need up to 10 (ten) working days to process your request and update our mail-out settings. In addition, even after you opt out from receiving commercial message, you will continue to receive administrative announcements relating to the Websites and the Games from us until the Agreement is terminated.
 

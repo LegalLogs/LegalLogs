@@ -51,7 +51,7 @@ The Rules of the Game constitute a Key Document in accordance with the Licence A
 
 2.2.5. If you download and use the Game with the help of your Account created by the Platform, the Licensor automatically sets up an Account for you inthe Game on the basis of the data transmitted by the Platform. All the rules andinstructions contained in this document also apply to an Account set up in this way. The Licensor is not liable for any problems connected with your Account on the Platform, including ones with using your Account on the Platform, and does not consider any claims in relation to the Account on the Platform.
 
-2.2.6. Should questions arise concerning setting up an Account, please contact the Licensor by email at: [\[email protected\]](/cdn-cgi/l/email-protection)
+2.2.6. Should questions arise concerning setting up an Account, please contact the Licensor by email at: support@battlestategames.com.
 
 2.2.7. In addition, in order to use the Game, the User needs, depending on the technical specifics of the Game, to install independently the Game Client on the PC or other device with the necessary technical characteristics or log in to the Game online or perform other required actions. The Game Client may be distributed by Battlestate Games Limited and (or) persons authorised thereby via the Internet.
 
@@ -73,7 +73,7 @@ The Rules of the Game constitute a Key Document in accordance with the Licence A
 
 2.4.3. You are liable for any deeds and actions performed using your Account and for all violations of these Rules of the Game committed using your Account as a result of deliberate omission or action in relation to the information on your Account. We bear no liability toward you for any losses or harm incurred as a result of unsanctioned use of your Account, or unsanctioned access, use, amendment, adjustment and/or disclosure of your personal information as a consequence of actions or omissions in relation to information on your Account.
 
-2.4.4. You are required to ensure protection of your Account and hardware against access by third parties. The User shall promptly notify Battlestate Games Limited and/or the Licensor by email to: [\[email protected\]](/cdn-cgi/l/email-protection), if they become aware of:
+2.4.4. You are required to ensure protection of your Account and hardware against access by third parties. The User shall promptly notify Battlestate Games Limited and/or the Licensor by email to: support@battlestategames.com, if they become aware of:
 
 *   unsanctioned use of their Account or other security breaches;
 *   any actual or potential use in relation to the Game of tools for gaining unlawful access to the information resources.
@@ -204,7 +204,7 @@ The Rules of the Game constitute a Key Document in accordance with the Licence A
 
 3.5. Battlestate Games Limited and/or the Licensor closes your Account and cancels the Licence Agreement only for weighty reasons, when Battlestate Games Limited and/or the Licensor considers temporary measures to be inadequate. Such reasons might include, for instance, gross violation of these Rules of the Game, the Forum Rules or the Confidentiality Policy, as well as multiple violation of these Rules of the Game, the Forum Rules, the Confidentiality Policy or any of these documents. Analogous terms might be applied in the event of a gross violation or multiple violation of (i) the Licence Agreement or (ii) individual Rules of Game.
 
-3.6. If, in your opinion, Battlestate Games Limited and/or the Licensor has suspend or closed your Account in error, please email: [\[email protected\]](/cdn-cgi/l/email-protection)
+3.6. If, in your opinion, Battlestate Games Limited and/or the Licensor has suspend or closed your Account in error, please email: support@battlestategames.com.
 
 4.  AMENDMENTS AND ADDENDA TO THE RULES OF THE GAME
 
@@ -214,4 +214,4 @@ The Rules of the Game constitute a Key Document in accordance with the Licence A
 
 5.  CONTACT DETAILS
 
-In the event of any questions, claims or comments arising in relation to these Rules of the Game, please contact Battlestate Games Limited by email at: [\[email protected\]](/cdn-cgi/l/email-protection)
+In the event of any questions, claims or comments arising in relation to these Rules of the Game, please contact Battlestate Games Limited by email at: support@battlestategames.com.

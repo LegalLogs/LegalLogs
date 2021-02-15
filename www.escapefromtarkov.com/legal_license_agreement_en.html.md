@@ -190,7 +190,7 @@ The User understands and hereby acknowledges that the given actions constitute a
 
 7.3. The User (their legal representatives, guardian) agrees to control their own state of health and limit access to the Game in the event of any contraindications.
 
-7.4. The Licensor is not liable for unlawful actions by third parties claiming to be the Licensor, including for unsanctioned receipt thereby of any User data (Account details and the like) the User enters in performance hereof or use of the Game. The User undertakes to notify promptly the Licensor and/or Battlestate Games Limited at [\[email protected\]](/cdn-cgi/l/email-protection) about such actions (or threat thereof).
+7.4. The Licensor is not liable for unlawful actions by third parties claiming to be the Licensor, including for unsanctioned receipt thereby of any User data (Account details and the like) the User enters in performance hereof or use of the Game. The User undertakes to notify promptly the Licensor and/or Battlestate Games Limited at support@battlestategames.com about such actions (or threat thereof).
 
 7.5. The Licensor does not guarantee that:
 
