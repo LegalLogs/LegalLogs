@@ -274,11 +274,11 @@ Moderators are not allowed to engage in public discussion of their actions.
 
 Such actions are considered as offense hereof and the Administration and Moderators may impose a relevant penalty at their discretion.
 
-Complaints on the actions of Moderators should only be sent to support@battlestategames.com.
+Complaints on the actions of Moderators should only be sent to [\[email protected\]](/cdn-cgi/l/email-protection)
 
 8.  **Feedback**
 
-If you have certain issues or questions you cannot find a solution for on the Forum or in the FAQ section, you may contact Administration at support@battlestategames.com.
+If you have certain issues or questions you cannot find a solution for on the Forum or in the FAQ section, you may contact Administration at [\[email protected\]](/cdn-cgi/l/email-protection)
 
 9.  **Limitation of liability**
 

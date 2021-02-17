@@ -24,7 +24,7 @@ Using PLAYERUNKNOWN’S BATTLEGROUNDS in Player-Created Content
 
 PUBG CORPORATION also reserves the right to monitor and revoke any and all use of PUBG CORPORATION’s intellectual property at any time and for any or no reason, at its sole discretion.
 
-By making player-created content based on or inspired by PLAYERUNKNOWN’S BATTLEGROUNDS, you agree to PLAYERUNKNOWN’S BATTLEGROUNDS’s EULA, Terms of Service, Privacy Policy of PUBG CORPORATION, and the conditions listed above. Furthermore, you agree to indemnify PUBG CORPORATION from any legal claims or fees that arise in relation to your player-created content. For any player-created content inquiries not covered by above, please contact battlegrounds@pubg.com
+By making player-created content based on or inspired by PLAYERUNKNOWN’S BATTLEGROUNDS, you agree to PLAYERUNKNOWN’S BATTLEGROUNDS’s EULA, Terms of Service, Privacy Policy of PUBG CORPORATION, and the conditions listed above. Furthermore, you agree to indemnify PUBG CORPORATION from any legal claims or fees that arise in relation to your player-created content. For any player-created content inquiries not covered by above, please contact [\[email protected\]](/cdn-cgi/l/email-protection)
 
 Effective Date: 28th of June 2019
 

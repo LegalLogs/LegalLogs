@@ -1,6 +1,6 @@
 **PUBG Global Account & Website Privacy Policy**
 
-**Effective Date: 2nd of December**
+**Effective Date: 2nd of December 2020**
 
 1.  **Introduction**
 
@@ -131,7 +131,7 @@ We give permission to third parties, including service providers which process p
 
 We operate globally and transfer your data to countries and other regions where you are located. If your personal information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of personal information.
 
-Additionally, when information transferred from the European Union, we will also take steps to ensure that your information a receives the same level of protection as if it remained within the EU, including by entering into data transfer agreements using the European Commission approved Standard Contractual Clauses, obtain your explicit consent, or by relying on certification schemes such as the EU – US Privacy Shield. You have a right to obtain details of the mechanism under which your information is transferred outside of the EU by contacting pubg\_privacy@pubg.com.
+Additionally, when information transferred from the European Union, we will also take steps to ensure that your information a receives the same level of protection as if it remained within the EU, including by entering into data transfer agreements using the European Commission approved Standard Contractual Clauses, obtain your explicit consent, or by relying on certification schemes such as the EU – US Privacy Shield. You have a right to obtain details of the mechanism under which your information is transferred outside of the EU by contacting [\[email protected\]](/cdn-cgi/l/email-protection)
 
 8.  **Retaining and Deleting Personal Information**
 
@@ -165,4 +165,4 @@ We may amend, at our discretion, any portion of this Privacy Policy at any time 
 
 15.  **Contact Us**
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us by sending an email at pubg\_privacy@pubg.com or by writing us at 6, 7, 8F 12, Seocho-daero 38-gil Seocho-gu, Seoul, the Republic of Korea. You can also contact our Data Protection Officer by sending an email at [DPO@pubg.com](mailto:DPO@pubg.com).
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us by sending an email at [\[email protected\]](/cdn-cgi/l/email-protection) or by writing us at 6, 7, 8F 12, Seocho-daero 38-gil Seocho-gu, Seoul, the Republic of Korea. You can also contact our Data Protection Officer by sending an email at [\[email protected\]](/cdn-cgi/l/email-protection#0d495d424d7d786f6a236e6260).

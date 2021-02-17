@@ -196,7 +196,7 @@ Attn: Legal Affair Department Agent
 
 6, 7, 8F 12, Seocho-daero 38-gil Seocho-gu, Seoul, the Republic of Korea
 
-Email: [pubg\_privacy@pubg.com](mailto:pubg_privacy@pubg.com)
+Email: [\[email protected\]](/cdn-cgi/l/email-protection#f181849396ae81839887909288b181849396df929e9c)
 
 16.  **Amendments**
 
