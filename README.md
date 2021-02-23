@@ -24,6 +24,5 @@ Current tracked sites and legal stuff:
 * [www.pubg.com](www.pubg.com)
 * [www.riotgames.com](www.riotgames.com)
 * [www.rockstargames.com](www.rockstargames.com)
-* [www.twitch.tv](www.twitch.tv)
 
 Idea from and based on: https://github.com/SteamDatabase/SteamTracking-GDPR
