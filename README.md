@@ -3,7 +3,6 @@ Tracking things, so you don't have to.
 
 Current tracked sites and legal stuff:
 * [bethesda.net](bethesda.net)
-* [cdprojektred.com](cdprojektred.com)
 * [discord.com](discord.com)
 * [euw.leagueoflegends.com](euw.leagueoflegends.com)
 * [facepunch.com](facepunch.com)
