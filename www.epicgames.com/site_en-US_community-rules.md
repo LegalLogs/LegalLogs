@@ -65,7 +65,7 @@ If your account is permanently banned, you may lose all rights to games, virtual
 
 We are all a part of this community, and it is up to us to keep it friendly, fun, and free of negativity.
 
-If you encounter a player not respecting the Community Rules, [Content Guidelines](https://docs.google.com/document/d/1t9RYVkx5rLWT_nVw381grLcbE5mM4BJQnL4GRDHRNa0/edit#), and other players, you can report them via [in-game reporting](https://www.epicgames.com/help/en-US/fortnite-c75/battle-royale-c93/how-do-i-report-bad-player-behavior-in-fortnite-a3276). We will take action against players we observe not following the Community Rules and escalate based upon the offense.
+If you encounter a player not respecting the Community Rules, [Content Guidelines](https://www.epicgames.com/site/en-US/content-guidelines), and other players, you can report them via [in-game reporting](https://www.epicgames.com/help/en-US/fortnite-c75/battle-royale-c93/how-do-i-report-bad-player-behavior-in-fortnite-a3276). We will take action against players we observe not following the Community Rules and escalate based upon the offense.
 
 If you meet someone you don’t like but aren’t violating the Community Rules, you can [block the person](https://www.epicgames.com/help/en-US/fortnite-c75/battle-royale-c93/how-do-i-manage-my-party-and-voice-chat-options-from-the-fortnite-lobby-a3477).
 
