@@ -33,6 +33,6 @@ If the problem persists, please contact us directly so we can investigate the is
   
 **How do I cancel my GOG account?**
 
-We have no idea why you'd want to do that, but if you ever want to cancel your GOG user account, please contact our support team. After verifying you are the owner of the account in question and confirming that you want your account to be permanently deleted, our support will mark your account for deletion. From this moment on, the account will be inaccessible, and after 24 hours it will be irreversibly removed from our database.
+We have no idea why you'd want to do that, but if you ever want to cancel your GOG user account, please contact our [support team](https://support.gog.com/hc/en/requests/new?form=account&product=gog). After verifying you are the owner of the account in question and confirming that you want your account to be permanently deleted, our support will mark your account for deletion. From this moment on, the account will be inaccessible, and after 24 hours it will be irreversibly removed from our database.
 
 Please remember that without an account, you won't be able to re-download your purchased games as well as any additional content available, including updates and patches. Also, we don't store your payment information and, if you don't want to receive newsletters from us, you can always unsubscribe in the [subscription settings](https://www.gog.com/account/settings/subscriptions) of your account.

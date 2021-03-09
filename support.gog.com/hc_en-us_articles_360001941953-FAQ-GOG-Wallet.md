@@ -3,7 +3,7 @@ FAQ: GOG Wallet
 
 **What is the GOG Wallet?**
 
-GOG offers users a digital account balance called the "GOG Wallet" in connection with your user account, which you can use to make purchases of GOG.COM content.
+GOG offers users a digital account balance called the "GOG Wallet" in connection with your user account, which you can use to make purchases of GOG content.
 
   
   
