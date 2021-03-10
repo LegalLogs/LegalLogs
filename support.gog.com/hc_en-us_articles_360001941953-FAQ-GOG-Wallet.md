@@ -5,13 +5,10 @@ FAQ: GOG Wallet
 
 GOG offers users a digital account balance called the "GOG Wallet" in connection with your user account, which you can use to make purchases of GOG content.
 
-  
-  
 **How can I add money to GOG Wallet?**
 
 GOG Wallet top-ups are separated from regular purchases. You can top-up your GOG Wallet using payment methods accepted by GOG by going into the "[Wallet](https://www.gog.com/wallet)" section, after logging in. You can also check your current GOG Wallet balance and history there. We may also add funds to your GOG Wallet as part of our [Voluntary Refund Policy](https://support.gog.com/hc/en-us/articles/360006129837-GOG-COM-Voluntary-Refund-Policy?product=gog) (also see our [User Agreement](https://support.gog.com/hc/en-us/articles/212632089-GOG-User-Agreement?product=gog)).
 
-  
   
 **What are the rules of using GOG Wallet?**
 
@@ -28,28 +25,20 @@ GOG Wallet top-ups are separated from regular purchases. You can top-up your GOG
 (vi) GOG Wallet or its funds cannot be gifted, sold, transferred or otherwise disposed of, but you can use your GOG Wallet to purchase gift copies of GOG games for other GOG users.  
 (vii) GOG Wallet funds are used based on a ‘first in first out’ rule, meaning that the oldest funds will be used first for your purchases.
 
-  
-  
 **What currency is available for GOG Wallet?**
 
 GOG Wallet is available in all currencies available to you after login depending on your current location. However, for legal reasons, we cannot mix two currencies in one purchase. So, if you top-up your GOG Wallet in USD, you'll have a wallet balance in USD and, for purchases made in your local currency, you’ll have a separate GOG Wallet balance in the local currency.
 
 Please keep in mind that funds cannot be transferred from one wallet balance to another (which also means from one currency to another).
 
-  
-  
 **Can I combine GOG Wallet with another payment method?**
 
 Yes, if the funds in your GOG Wallet are insufficient to purchase what you want, you can complete the payment with one of our other payment methods, using the same currency as your GOG Wallet balance.
 
-  
-  
 **Do GOG Wallet have an expiration date?**
 
-GOG Wallet funds have no expiry date.  
-**Old Free Wallet funds** If you still have Free Wallet funds from our Fair Price Package program, they will expire after 12 months from the date these funds were granted, unless they’re combined with GOG Wallet funds purchased by you using real money (in which case there’s no expiry date until that total balance is reduced to zero).
+GOG Wallet funds have no expiry date.
 
-  
   
 **Are GOG Wallet funds themselves refundable?**
 
@@ -57,7 +46,6 @@ You may request a refund for GOG Wallet funds within 30 (thirty) days of purchas
 This refund policy will be subject to a fair use policy: as long as you use it reasonably, you should be fine. However, if we believe that you are acting unreasonably or are abusing the program, then we reserve the right to refuse to grant you further refunds.  
 Technical limitations may apply to some payment methods, namely pre-paid cards where we may not be able to provide you with GOG Wallet refunds.
 
-  
   
 **I added funds to my GOG Wallet but they have not appeared, what do I do?**
 
