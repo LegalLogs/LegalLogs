@@ -21,7 +21,7 @@ EA Play subscriptions are purchased from the following platforms ("Platforms"):
 
 *   [https://www.xbox.com/legal/livetou](https://www.xbox.com/legal/livetou)
 *   [https://www.xbox.com/games/ea-play](https://www.xbox.com/games/ea-play)
-*   Xbox Live Gold membership required to access certain Play List title online features.
+*   Xbox Live Gold subscription required to access certain Play List title online features.
 
 *   PlayStation®4 and PlayStation®5 (Sony\*)
 
