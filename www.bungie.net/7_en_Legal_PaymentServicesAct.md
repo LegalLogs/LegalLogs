@@ -14,7 +14,7 @@ Silver
   
 **Publishing & Inquiries:**  
 Bungie Japan G.K.  
-7th Floor Hirakawacho Bldg., 2-6-1, Hirakawacho, Chiyoda-ku, Tokyo  
+4F Meiji Yasuda Seimei Meidaimae Bldg., 2-41-11, Matsubara, Setagaya-ku, Tokyo  
 (For Support [https://www.bungie.net/en/Support](https://www.bungie.net/en/Support))
 
   
