@@ -12,7 +12,7 @@ Please follow the links above to learn more about which games you can reclaim, a
 **/reclaim/ games program frequently asked questions**
 
 **Important Notes:**  
-The game you redeem here is subject to the EULA provided with the GOG.COM version of the game.  
+The game you redeem here is subject to the EULA provided with the GOG version of the game.  
 If a similar campaign is made available elsewhere, your key won't be redeemable again.
 
 **Is every game code redeemable here?**  
