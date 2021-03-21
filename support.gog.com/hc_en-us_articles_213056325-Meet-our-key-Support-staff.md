@@ -84,8 +84,8 @@ Newly found passion for indie games: Hollow Knight, Dead Cells, Darkest Dungeon 
 
 **watvin (Wiktoria)  
 ****Customer Support Representative**  
-**Hobbies:** Video games, content creation, Warhammer  
-**Favorite games:** DUSK, Blood: Fresh Supply, Kingdom Come Deliverance, Diablo, Wasteland 3, Half Life, Silent Hill 2, Rainbow Six Siege
+**Hobbies:** Video games preservation, content creation, warhammer, cosplay  
+**Favorite games:** DUSK, Blood, Kingdom Come Deliverance, Diablo, Heretic, Hexen, Half Life, Silent Hill 2.  
 
 **crazy\_pixie (Anastasiya)**  
 **Customer Support Representative**  
