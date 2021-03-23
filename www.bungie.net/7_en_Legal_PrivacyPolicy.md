@@ -1,4 +1,4 @@
-### Bungie.net Privacy Policy(Last updated September 25, 2020)
+### Bungie.net Privacy Policy(Last updated March 23, 2021)
 
 **1\. Introduction.**   
   
@@ -216,7 +216,9 @@ The ad partners we work with to provide you with Interest-based Advertising are 
   
 To opt out of us sharing your hashed email for Matched Ads, please contact us as set out in the “Contact Us” section below and specify that you wish to opt out of Matched Ads. We will remove your email address from any subsequent lists shared with ad partners for purposes of Matched Ads.  
   
-You may also limit your receipt of targeted ads by going to your device settings and selecting “Limit Ad Tracking” (for iOS devices) or “Opt out of Ads Personalization” (for Android devices).   
+You may also limit your receipt of targeted ads by going to your device settings and selecting “Limit Ad Tracking” (for iOS devices) or “Opt out of Ads Personalization” (for Android devices). 
+
+We work with Gamesight, [https://console.gamesight.io/](https://console.gamesight.io/ "https://console.gamesight.io/"), to collect information about players’ game purchase activity and in-game DLC purchases in order to measure the impact of our marketing campaigns on player engagement. Gamesight obtains this information based on the use of a Measurement API. The data stored by the API includes information such as hashed IP address, API version, anonymized User ID, timestamp, Developer API Key, OS version, screen resolution, timezone, system language, and in-game events. To opt out of tracking provided via Gamesight, please follow the steps laid out at [https://console.gamesight.io/optout](https://console.gamesight.io/optout "https://console.gamesight.io/optout"). For more information about the privacy policy of Gamesight, please visit [https://console.gamesight.io/privacy-policy](https://console.gamesight.io/privacy-policy "https://console.gamesight.io/privacy-policy").   
   
 Please note that if you opt out using any of these methods, the opt out will only apply to the specific browser or device from which you opt out. We are not responsible for the effectiveness of, or compliance with, any opt out options or programs, or the accuracy of any ad partner statements regarding their opt out options or programs.  
   
@@ -226,11 +228,11 @@ We implement technical and organizational measures designed to ensure a level of
   
 If you choose to create an account through certain parts of the Bungie Services, you will be required to select a password. This password can be changed once you have logged into the service. It is your responsibility to keep your password confidential. Do not share this information with anyone. If you are sharing a computer with anyone you should always choose to log out before leaving the Bungie Services to help protect access to your information from subsequent users.  
   
-Please be aware that despite our security measures, no data transmissions over the Internet can be guaranteed to be completely secure. We cannot, therefore, ensure or warrant the security of any information you transmit to Bungie, and you do so at your own risk.   
+Please be aware that despite our security measures, no data transmissions over the Internet can be guaranteed to be completely secure. We cannot, therefore, ensure or warrant the security of any information you transmit to Bungie, and you do so at your own risk.   
   
-**9\. Data Retention**.   
+**9\. Data Retention**.   
   
-We take measures to delete your information or aggregate or de-identify your information when it is no longer necessary for the purposes for which we collected it, unless we are required to keep this information for a longer period in accordance with this Privacy Statement. When determining the retention period, we take into account various criteria, such as maintaining access to products you have purchased, the type of products and services requested by or provided to you, the nature and length of our relationship with you, possible re-enrollment with our products or services, the impact on the services we provide to you if we delete some information from or about you, mandatory retention periods provided by law, and the statute of limitations.   
+We take measures to delete your information or aggregate or de-identify your information when it is no longer necessary for the purposes for which we collected it, unless we are required to keep this information for a longer period in accordance with this Privacy Statement. When determining the retention period, we take into account various criteria, such as maintaining access to products you have purchased, the type of products and services requested by or provided to you, the nature and length of our relationship with you, possible re-enrollment with our products or services, the impact on the services we provide to you if we delete some information from or about you, mandatory retention periods provided by law, and the statute of limitations.   
   
 **10\. Changes to this Privacy Statement.**  
   
@@ -250,7 +252,7 @@ If you are a parent or legal guardian and discover that your child under the age
   
 If you have any questions or comments regarding this Privacy Statement or require additional information, please contact us:  
   
-By email: privacyrequests@bungie.com  
+By email: privacyrequests@bungie.com  
   
 By mail:  
   
@@ -260,11 +262,11 @@ Bungie, Inc.
 Suite 207  
 Bellevue, WA 98004-5088  
   
-If you have a disability and would like to access this Privacy Statement in an alternative format, please contact us at privacyrequests@bungie.com.  
+If you have a disability and would like to access this Privacy Statement in an alternative format, please contact us at privacyrequests@bungie.com.  
   
 **14\. Additional Disclosures for California Residents.**  
   
-These additional disclosures apply only to California residents. The California Consumer Privacy Act of 2018 (“CCPA”) provides additional rights to know, delete and opt out, and requires businesses collecting or disclosing personal information to provide notices and means to exercise rights.    
+These additional disclosures apply only to California residents. The California Consumer Privacy Act of 2018 (“CCPA”) provides additional rights to know, delete and opt out, and requires businesses collecting or disclosing personal information to provide notices and means to exercise rights.   
   
 **a. Notice of Collection.**  
   
