@@ -1,9 +1,9 @@
-Fan Content Policy
+FAN CONTENT POLICY
 ==================
 
 Everyone at Epic Games is extremely honored by the interest shown by our fans in our games and our company, and we think it’s cool that you want to create artwork, websites, and other stuff based on our intellectual property. At the same time, we spend a lot of time, thought, and money creating our intellectual property and need to protect it.  
   
-In most cases, using our games, artwork, videos, music, characters, logos, and other intellectual property (“Epic IP”) without our permission is illegal and a violation of our rights. So we created this Policy to explain what you may do regarding your Fan Content. In this Policy, “Fan Content” means: (i) your fan art (such as artwork, photographs, videos, and other materials) that is based on the Epic IP; and (ii) your Epic IP-related personal, non-commercial websites and apps that are freely accessible to the public.  
+In most cases, using our games, artwork, videos, music, characters, logos, and other intellectual property (“Epic IP”) without our permission is illegal and a violation of our rights. So we created this Policy to explain what you may do regarding your Fan Content. In this Policy, “Fan Content” means: your personal, non-commercial (i) fan art (such as artwork, photographs, videos, and other materials) that is based on the Epic IP; and (ii) Epic IP-related websites and apps that are freely accessible to the public.  
   
 Please read this Policy carefully before creating any Fan Content. We reserve the right to change this Policy at any time by posting the revised Policy to our website. Any existing Fan Content that no longer complies with this Policy due to a change in the Policy must be modified to be compliant with the Policy.  
  
@@ -17,7 +17,7 @@ Section 1 – General Rules
   
 1.3 All Fan Content must be appropriate for the audience of the Epic IP and consistent with the spirit and tone of the Epic IP (as determined by Epic). Fan Content must comply with applicable law, may not violate the rights of others, and must not be obscene, sexually explicit, defamatory, offensive, objectionable, or harmful to others.  
   
-1.4 Fan Content must have no commercial (i.e., monetary) objective. As an exception to this, fans are permitted to monetize web videos (such as YouTube) with advertisements, so long as those videos otherwise meet the requirements of this Policy.  
+1.4 Fan Content must have no commercial (i.e., monetary) objective. As an exception to this, individual fans are permitted to monetize web videos (such as YouTube) with advertisements, so long as those videos otherwise meet the requirements of this Policy.  
   
 1.5 Epic, in its sole discretion, can revoke your permission to create Fan Content at any time and for any reason.  
   
