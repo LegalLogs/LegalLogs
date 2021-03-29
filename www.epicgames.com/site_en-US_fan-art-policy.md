@@ -29,11 +29,13 @@ Section 1 – General Rules
   
 1.9 You may not use any Epic IP in any manner that is derogatory to Epic or that may damage the value, reputation, or goodwill of Epic or its products or brands (as determined by Epic).  
   
-1.10 You must display the following disclaimer on or in connection with your Fan Content, including on any web page containing your Fan Content:
+1.10 You must display the following disclaimer on or in connection with your Fan Content, including on any web page containing your Fan Content:  
+ 
 
 *   Portions of the materials used are trademarks and/or copyrighted works of Epic Games, Inc. All rights reserved by Epic. This material is not official and is not endorsed by Epic.
 
-1.11 If you use Epic brands, logos, game titles, character names, or other trademarks (“Marks”) in connection with your Fan Content, you must follow these rules:
+1.11 If you use Epic brands, logos, game titles, character names, or other trademarks (“Marks”) in connection with your Fan Content, you must follow these rules:  
+ 
 
 *   Marks must be used only in connection with discussion of the Epic products or business they represent. Do not use Marks to identify or promote you, your Fan Content, or any other products or business.
 *   Marks must be used in a manner that will enhance and not damage the reputation and goodwill associated with the Marks.
