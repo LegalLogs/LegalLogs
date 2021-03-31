@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Effective Date: 2nd of December 2020
+Effective Date: 31st of March 2021
 
 1.  Introduction
 2.  Who We Are
@@ -45,7 +45,7 @@ We automatically collect certain information when you play our Games and/or Serv
 
 – Player statistics(e.g. Number of games played, Kill/Death, headshot ratio, game playtime, etc.)
 
-– Information about your computer, device, hardware and operating system
+– Information related to users computers, devices, operating systems, hardware, and software
 
 4.  **How We Use Your Information**
 
