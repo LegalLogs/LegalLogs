@@ -1,0 +1,260 @@
+Privacy Policy
+--------------
+
+#### Updated on 29/12/2020
+
+#### Introduction
+
+**ANYBRAIN**, we, our and us refers to ANYBRAIN, S.A.
+
+ANYBRAIN, S.A. (“ANYBRAIN”) is a company dedicated to the development of software products, providing software solutions for security, safety and fraud prevention for online services such as online gaming.
+
+We take the processing of personal data very seriously and will only use that information under the terms of this Privacy Policy and in accordance with the General Data Protection Regulation 2016/679, of 27th April (hereinafter GDPR), with the Law n.º. 58/2019 of 8th August, and other applicable legislation.
+
+This Privacy Policy, together with the Cookies Policy and the Terms and Conditions, applies to personal data collected in the course of ANYBRAIN's activity, including online websites and other services and products managed by ANYBRAIN. Personal data made available during the interaction with the various services will be treated with the guarantees of security and confidentiality required by the legal framework regarding the protection of personal data.
+
+We may act as Data Controller (see the definition bellow) – including but not limited to information collected through our websites and information collected in order to subscribe ANYBRAIN’s services (see Seccion I).
+
+In some situations, we may act as a Processor (see the definition bellow) on behalf of the Client, namely when processing information collected within the scope of the software products developed and services provided by ANYBRAIN (see Seccion II).
+
+We encourage you to review our Privacy Policy whenever you use our services, as the provision of your personal data implies knowledge and acceptance of the conditions contained herein.
+
+Please [www.anybrain.gg/privacy](https://www.anybrain.gg/privacy) at any time to obtain the latest version of our Privacy Policy.
+
+#### Definitions
+
+For the purposes of this Privacy Policy, it is important to take into account the following concepts, under the terms defined by the GDPR:
+
+*   **Personal data:** means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;
+*   **Processing:**
+*   **Controller:** means the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data; where the purposes and means of such processing are determined by Union or Member State law, the controller or the specific criteria for its nomination may be provided for by Union or Member State law;
+*   **Processor:** means a natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller;
+
+#### Third Party Websites
+
+ANYBRAIN’s Privacy Policy applies exclusively to the collection and processing of personal data under its responsibility. Some pages and features of the ANYBRAIN Services include links to access other websites and/or services for the use of third party websites/providers unrelated to ANYBRAIN. These sites are governed by their own Privacy Policies, for that reason ANYBRAIN cannot be held responsible for the processing of personal data carried out by such websites, including, but not limited to, its information practices. Users of these third party sites, therefore, should inquire about the privacy policies of those sites before providing them with their Personal Data.
+
+I. ANYBRAIN - as controller
+---------------------------
+
+While acting as a controller, we ensure that the collection and processing of personal data performed by it respects the applicable legal rules and principles, taking place under the terms described below.
+
+#### 1\. Contact details: Data Controller and Data Protection Officer
+
+ANYBRAIN, S.A. is the entity responsible for data processing resulting from the websites managed by ANYBRAIN (anybrain.gg and performetric.gg), covered by Section I of this Privacy Policy, acting as a controller. Therefore, ANYBRAIN is responsible for determining the purposes and means of processing them. Being able, in the scope of its activity, to resort to entities as processors for the pursuit of the purposes indicated here.
+
+Thus, for any question related to this Privacy Policy, the data subject may contact us directly through the contact means below:
+
+Anybrain, S.A.
+
+Edifício GNRATION, Praça Conde Agrolongo, nº 123
+
+4700-312, Braga
+
+Telephone: +351 253 216 254
+
+E-mail: dpo@anybrain.gg
+
+The holders of personal data may also refer any question related to the treatment of their personal data to the Data Protection Officer (DPO) designated by ANYBRAIN, through the following email address: [dpo@anybrian.gg](mailto:dpo@anybrian.gg).
+
+#### 2\. Personal data collected and processed
+
+We will proceed with the processing of personal data provided by the user/client when using our websites, as well as personal data that we collect automatically, in the terms that follow.
+
+#### 2.1 Personal Data you provide to us
+
+#### When you subscribe to our newsletter and/or when you use our chat and/or blog to ask questions
+
+When subscribing to our newsletter, we will ask you for your email address. When writing a comment on our blog and/or when using our chat to clarify questions regarding ANYBRAIN’s products and services, you may be asked to provide contact information (name and/or email address) and, additionally, other information necessary to clarify your questions. We will use this data for the purpose of contacting you about your specific request or, if you have subscribed to our newsletter or commercial communication, for marketing purposes. The legal basis for the processing of this data is the consent of the data subject.
+
+The data submitted in order to clarify questions about our products will be kept for a period of 1 (one) year after their collection.
+
+On the other hand, the personal data submitted in order to subscribe to newsletters, news, research, events, among other products and/or services, will be kept in order to pursue the described purposes, for as long as the data subject's consent is maintained. The personal data subject has the right to withdraw his consent at any time, however, this does not compromise the lawfulness of the treatment already carried out. You can cancel your consent to receive the newsletter at any time, and it will be provided a link for that purpose in every newsletter email.
+
+#### When applying for a job at Anybrain
+
+We process applicant’s personal data who submit applications for job openings at ANYBRAIN, whether through the application form available on ([https://anybrain.gg/careers](https://anybrain.gg/careers)) and/or in person at our facilities. Throughout the recruitment process, we may ask you for the following personal data: identification data, contact information (email address and telephone contact), information on the certificate of qualifications, academic training and professional experience.
+
+The processing of the applicant’s personal data is carried out on the basis of his/her voluntary consent, under the terms of subheading a), paragraph 1 of article 6 of the GDPR. The data subject has the right to withdraw your consent at any time, however it does not compromise the lawfulness of the treatment carried out before.
+
+The applicant’s personal data will be kept for a period of 1 (one) year after its upload, unless specific legislation or legal proceedings require it to be kept for a longer period.
+
+#### When you subscribe ANYBRAIN’s services/products
+
+When you contact us with a view to subscribe our available software services/products, we will process the data necessary for the performance of a contract to which the data subject is a party, or for pre-contractual steps at the request of the data subject, with a view to negotiating and possibly contracting our software services/products, under the following terms.
+
+Thus, when subscribing and/or subscribing our services/products, namely software products, a Customer account will be created. For this purpose, we may ask you for the following data necessary for contracting and billing our services: personal data of the company representative (name, telephone contact, professional email address and position held in the company); company Name; company location; designating a billing representative and payment card details, which we collect through secure payment processing services. You may additionally, if you wish, provide the following data for billing purposes: VAT number and tax address. The Client also has the option of providing, through his Client account, additional information such as a display name, profile picture and other details on the profile information to be displayed on our Services. The mandatory information required to process the order will be marked separately, the rest of the information is voluntary.
+
+During the execution of the contract signed between ANYBRAIN and the Client, we also ensure a customer support service. Whether you choose to open a support ticket, speak directly with one of our representatives or get involved with our support team, we may ask you for the following details: name, contact information (telephone contact and / or email address), a summary of the problem you're experiencing, and any other documentation, screenshots, or information needed to solve the problem. This data will be kept by our company to answer your questions. We will delete any data that appears in this context, if it is no longer necessary to store it to respond to your request.
+
+We keep a record of your preferences when selecting settings within your Customer Account. The data you provide and the preferences you select within your Customer Account are stored for direct marketing purposes (including the delivery of personalized content within the newsletter but also on our websites) and can be associated with other data that ANYBRAIN has kept on you. We use the data mentioned above to create a user profile and personalize our digital offers, such as newsletters or websites according to your individual interests.
+
+The aforementioned personal data will be stored for the period of time necessary for the pursuit of its purposes. Thus, if you choose not to hire any of our services/products, the period of conservation of the personal data submitted for this purpose will be up to 1 (one) year after the collection of that information, after which we will proceed to eliminate them. If you choose to contract our services/products, these data will be kept for a period of up to 2 (two) years after the cancellation or cessation of the use of our services, unless specific legislation or legal proceedings require you to keep them for a longer period.
+
+The processing of the remaining additional data (not mandatory) provided by the Client, including, but not limited to, the data provided and stored for the purposes of direct marketing, is carried out based on the voluntary consent of the data subject, pursuant to subheading a), paragraph 1 of article 6 of the GDPR. Therefore, the data subject shall have the right to withdraw his or her consent at any time, nevertheless, the withdrawal of consent shall not affect the lawfulness of processing based on consent before its withdrawal.
+
+#### 2.2 Personal Data we collect automatically
+
+#### When you visit our website
+
+When visiting our websites, the following personal data are automatically collected: type of device used (computer, mobile phone, tablet or other); connection type; settings selected when installing, accessing, updating and using our services; operating system used; IP address; browser type; Referral/exit page URL’s; crash data; visited links. The amount of information collected depends on the type and settings of the device you use to access the Services.
+
+Like any other website manager, we may retain this data for a limited period of time. We also use other external traffic analysis services, such as Google Analytics and Adobe Analytics.
+
+The collected data is processed in order to pursue purposes related to the improvement of the website and/or statistical purposes, but also to provide you with a better web service experience. We also use the data collected to assess and guarantee the security and stability of the system, to ensure the correct operation of our website, to determine the correct country and other administrative purposes related to the functioning of our website. The processing of the aforementioned data is necessary for the pursuit of the purposes described above, finding legal basis in the legitimate interests pursued by ANYBRAIN as controller, under the terms of paragraph f), paragraph 1 of article 6 of the GDPR. The storage period of this data will be up to 1 (one) year after its collection.
+
+#### Cookies
+
+Our website uses cookies. Cookies are collections of text information that a website transfers to the browser cookie file on the hard drive of your access equipment so that the website can recognize you when you revisit and remember certain information about you. This can include which pages you visited, choices you made from the menus, any specific information you entered on the forms and the time and date of your visit. The cookie does not identify the individual user, as it only identifies the device used to access the Website. It is important to clarify that cookies do not collect any personal data stored on your hard drive or computer.
+
+We advise you to read our Cookie Policy, to find out more information about the processing of your personal data carried out through this functionality.
+
+#### 3\. Our Privacy Policy for Children
+
+Our website is not directed to minors. We do not knowingly collect personal data from children under the age of 13 through our websites. If we learn that a child under the age of 13 has provided us with personal information, we will take steps to delete that information. If you know that a child has provided us with personal information, please contact us at [dpo@anybrian.gg](mailto:dpo@anybrian.gg).
+
+We take the processing of personal data very seriously, and for that reason if you are under 18 years old, and you want to understand more about our role in the processing of your personal data, please see the Children’s Privacy Policy at [\_\_\_\_](https://anybrain.gg/privacy).
+
+II. ANYBRAIN - as processor
+---------------------------
+
+ANYBRAIN is foccused on the development of software products, providing software solutions for security, safety and fraud prevention for online services such as online gaming.
+
+When subscribing our services/products, the Client requests that We process the Users' Personal Data on behalf of the Client. Thus, unless otherwise provided by contract, we will treat the data collected within the scope of the software products developed by it, as a processor. We commit to comply with the terms established on the privacy and treatment of personal data agreements contracted with the Client, the latter being considered the controller.
+
+#### 1\. Subject-matter of the processing
+
+ANYBRAIN is software product developed and service provided by ANYBRAIN, S.A. ANYBRAIN is a company dedicated to the development of software products, providing software solutions for security, safety and fraud prevention for online services such as online gaming.
+
+Software products developed by ANYBRAIN function as an SDK independent of the client app (e.g: the game client, or an external app) in which they will be inserted. Therefore, the Software and Services provided to the Customer will collect personal data from those users, which will be processed in the terms set in the Agreement (Particular Terms).
+
+#### 2\. Roles and responsibilities
+
+The Client acts as a controller regarding processing the personal data collected through the Software and Services, according to article 24 of the General Data Protection Regulation (GDPR), being subject to legal obligations arising from such quality.
+
+We act as processor regarding processing the personal data collected through the ANYBRAIN Services (according to article 28 of the GDPR), caring out the processing on the behalf of the Customer, in strict compliance with the instructions from the Customer.
+
+#### 3\. Personal data collected
+
+ANYBRAIN’s software and services function as an SDK independent of the client app (e.g: the game client, or an external app) in which they will be inserted. ANYBRAIN’s services aims the collection of the user’s personal data related to the use of keyboards and mouse and all interactions with the computer during the usage of the Client’s software and applications, collecting: device ID, MAC address, IP address. And biometric data to identify patterns of the user’s behaviour, namely: speed and number of clicks on the mouse and keyboard.
+
+#### 4\. Nature, purpose and legal basis of the processing
+
+The legal basis for the processing of this data is the legitimate interest pursued by Client as controller, under the terms of subheading f), paragraph 1 of article 6 of the GDPR. The legitimate interest stems accrue from the Client's purposes, as controller and owner of the client app, in ensuring a safe and fair gaming environment, namely: detecting and preventing fraud/cheating situations, controlling the age of users (blocking the access to individuals under the imposed age) and monitoring user’s fatigue.
+
+#### 5\. Processing of special categories of personal data - Children
+
+ANYBRAIN’s software and services function as an SDK independent of the client app (e.g: the game client, or an external app) in which they will be inserted. The personal data collected in the game environment is processed to ensure a safe and fair game environment, including but no limited to, controll the age of users (blocking the access to individuals under the imposed age).
+
+For that reason ANYBRAIN’s software and services may collect and process personal data of children, for the sole purpose of recognize that individual as under the age of 13, blocking his/her access to the game, that being the legitimate interest pursued by the Client as controller as described above.
+
+We remind you that we process this data as a processor, on behalf of the Client who acts as a controller regarding processing the personal data collected through the Software and Services.
+
+Nevertheless, we take the processing of personal data very seriously, and for that reason if you are under 18 years old, and you want to understand more about our role as a processor please see the Children’s Privacy Policy at [\_\_\_\_](https://anybrain.gg/privacy).
+
+#### 6\. Duration of the processing
+
+The processing shall be carried out for as long as the ANYBRAIN Services are provided by Us to the Client.
+
+Upon termination of ANYBRAIN Services, we will return Customer Personal Data and immediately erase or make immediately inaccessible all copies of Personal Data from the ANYBRAIN Services environment, unless required by law.
+
+#### 7\. Client’s obligations as a controller
+
+The Customer will remain controller (article 24 of the GDPR) for the purposes of the treatment provided for in this section, therefore the Customer is obliged to comply with all legal duties and obligations arising from that quality, including but not limited to:
+
+*   The legal obligation to inform the data subject on the information required by GDPR with an information notice in which will mention the data subject of which third parties collect information through its software, providing an easily access to the Company’s Privacy Policy and Cookies Policy, also available in the Company’s website;
+
+*   The legal obligation to inform the data subjects about their own data processing practices according to GDPR at the time of data collection;
+
+*   Provide the relevant notifications to the competent Authority, and for the justification of any transmission of personal data to ANYBRAIN (including submission any notifications and obtaining any necessary consents);
+
+*   Make decisions regarding the processing and use of the data.
+
+#### 8\. ANYBRAIN obligations as a processor
+
+We undertake to comply with the Client's instructions regarding the Processing of Personal Data.
+
+When collecting data from ANYBRAIN Services, We apply the GDPR’s “data minimization”, principle by strictly collecting only relevant data for the Software to work properly. Therefore, most of the data collected is being anonymized by default. In most of cases, the user and technical data can’t lead to direct or indirect identification of a person in any circumstance, but in some very specific cases computer specialists might be able to use some specific parts of the information to identify a specific user, with the help of other public or private databases.
+
+Due to the quality we assume as a processor, we declare that:
+
+*   When processing personal data, we will obey the documented instructions of the Controller, including with regard to data transfers to third countries or international organizations, unless when required to do so by Union or Member State law to which it’s subject, in that case informing the processor about this requirement, before proceeding to such transfer, unless such information is prohibited for reasons of public interest;
+
+*   We will treat this personal data, as a processor, and exclusively for the supply of ANYBRAIN Services and we will not process and use Personal Data for purposes other than those fixed in the contract signed between us and the Client or in accordance with the Client's instructions;
+
+*   We will not disclose this Personal Data to third parties that are not our subsidiaries or processors for the purposes mentioned above or as required by law;
+
+*   We ensure that the people authorized to process personal data have made a commitment to confidentiality or are subject to appropriate legal obligations of confidentiality;
+
+*   We shall apply to the processing all security measures, namely:
+
+*   Pseudonymization and encryption of personal data;
+*   The ability to ensure the confidentiality, integrity, availability and permanent resilience of treatment systems and services;
+*   Ability to restore availability and access to personal data in a timely manner in the event of a physical or technical incident;
+*   Have a process to test, assess and regularly evaluate the effectiveness of technical and organizational measures to ensure safe treatment.
+
+*   We will only hire another processor if the Data Controller authorizes it or, in case of prior authorization, we will inform the Data Controller that a processor has been contracted, who must respect all treatment obligations arising from the GDPR and the LPDP;
+
+*   We will assist the controller with appropriate technical and organizational measures to enable him to fulfill his obligation to respond to requests from data subjects with a view to exercising their rights;
+
+*   We will assist the controller in order to ensure compliance with the security obligations in the processing, notification to the supervisory authority and data subjects in case of personal data breach, impact assessment on data protection and prior consultation, as provided for articles 32 to 36 from the GDPR, taking into account the nature of treatment and the information available to the subcontractor;
+
+*   Depending on the option of the controller, we will erase or return all personal data at the end of the provision of services, erasing existing copies, unless data retention is required under Union or States law Member States; and
+
+*   We will provide the controller with all necessary information to demonstrate compliance with the obligations imposed on the processor; we also commit to facilitate and contribute to audits, including inspections, conducted by the controller or another auditor; and
+
+*   We undertake to inform the controller immediately if we consider that any instruction violates the GDPR or other data protection provisions of Union or Member State law.
+
+*   Unless otherwise provided by law, ANYBRAIN will promptly notify the Customer of any judicial, administrative or arbitration order from an executive or administrative agency or other governmental authority that it receives and which relates to the Personal Data that ANYBRAIN processes as a processor, on behalf of the Customer.
+
+III. Transfer of data
+---------------------
+
+If transfer of personal data to third countries that do not belong to the European Union or the European Economic Area may occur, we will comply with the law, namely regarding to the suitability of the country of destination and with regard to the protection of personal data and the requirements that are applicable to these transfers, with no personal data being transferred to jurisdictions that do not offer guarantees of security and protection.
+
+IV. Period of storage of personal data
+--------------------------------------
+
+The period of time during which the personal data is stored and preserved may vary according to the purpose for which the information is processed and according to the legal obligations and requirements that may apply, and which may oblige the data to be kept for a period of minimum time. Your information will be deleted whenever the reasons for collecting information no longer apply and there is no legal basis for its storage.
+
+Thus, and whenever there is no specific legal requirement, the data will be stored and preserved only for the minimum period necessary for the pursuit of the purposes that motivated its collection or its further treatment, under the terms defined by law. After this period, we will proceed to the destruction or total anonymization of the data.
+
+V. Use of Statistical and Other Information
+-------------------------------------------
+
+At the end of the storage period, We reserve the right to preserve the data, completely anonymized, using it, namely, for software improvement purposes. Thus, we may:
+
+*   **i.** compile statistical and other information related to the performance, operation and use of our Services, and;
+*   **ii.** use data from the ANYBRAIN Services environment in aggregated form for security and operations management, to create statistical analyses, and for research and development purposes; and;
+*   **iii.** use the information and data collected under (i) and (ii), in order to create and market products and services, which will not incorporate Client's content, confidential information or other data in a form that could serve to identify any data subject.
+
+We shall retain all Intellectual Property Rights (as defined in the our Terms and Conditions and also in the Contracts signed between us and the Client) in relation to the products and services mentioned in (iii) above.
+
+VI. Confidentiality
+-------------------
+
+We commit to treat the Personal Data as absolutely confidential and to use it exclusively for the stated purposes. We also guarantee that it has taken appropriate technical, administrative and organizational facilities, systems and processes necessary to ensure the safety of personal data and avoid its alteration, loss, theft, or unauthorized disclosure, in accordance with the provisions of GDPR. To that effect, we implemented and maintains measures such as:
+
+*   system access control, such as: authentication via passwords, documented authorization processes, and logging of access on several levels;
+*   logical access to the data centers is restricted and protected by firewall;
+*   security processes such as intrusion detection system, centralized logging and alerting, and firewalls;
+*   personal data is accessible and manageable only by properly authorized staff, direct database query access is restricted, and application access rights are established and enforced;
+*   transfers of data outside the ANYBRAIN Service environment are encrypted.
+
+VII. Rights of the personal data subject
+----------------------------------------
+
+To the personal data subjects are guaranteed, whenever applicable, and under the terms set out in the GDPR: i) the right to request, rectify and erase their personal data (except for the data essential to the provision of services by ANYBRAIN); ii) the right to limit the processing with respect to the data subject; iii) the right to object to the processing of your personal data for the purpose of marketing and sending informational communications; iv) the right to data portability; v) the right to complain to the competent supervisory authority - in Portugal, the National Data Protection Commission (CNPD).
+
+In situations in which the processing of personal data is based on the consent of the data subject, the subject has the right to withdraw his consent at any time, without compromising the lawfulness of the treatment carried out based on the consent previously given.
+
+We take the processing of your personal data very seriously, so the rights described above can be exercised by sending written communication to the e-mail address dpo@anybrain.gg; or by registered letter to the postal address: Edifício GNRATION, Praça Conde Agrolongo, nº 123, 4700-312, Braga.
+
+VIII. Updates and changes to our Privacy Policy
+-----------------------------------------------
+
+We reserve the right to change or update the Privacy Policy according to the legal requirements or when new features added to our Services justify to do so. We will post any changes to the privacy policy on this page. The revised version will take effect on the date established by us in that version and published on the ANYBRAIN.GG website, API and SDK. We will also keep previous versions of this Privacy Policy on file for your review. Please check the [www.anybrain.gg/privacy](https://www.anybrain.gg/privacy) page at any time to obtain the latest version of our Privacy Policy.
+
+#### Contact ANYBRAIN about this Privacy Policy
+
+If you have any questions or comments about this Privacy Policy, please contact us: [dpo@anybrian.gg](mailto:dpo@anybrian.gg).

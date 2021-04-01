@@ -2,6 +2,7 @@
 Tracking things, so you don't have to.
 
 Current tracked sites and legal stuff:
+* [anybrain.gg](anybrain.gg)
 * [bethesda.net](bethesda.net)
 * [cdprojektred.com](cdprojektred.com)
 * [discord.com](discord.com)
