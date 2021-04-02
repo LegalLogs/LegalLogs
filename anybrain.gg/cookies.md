@@ -70,6 +70,14 @@ This cookie is installed by Google Analytics. The cookie is used to store inform
 
 Analytics
 
+\_lfa
+
+This cookie is set by the provider Leadfeeder. This cookie is used for identifying the IP address of devices visiting the website. The cookie collects information such as IP addresses, time spent on website and page requests for the visits.
+
+2 years
+
+Analytics
+
 \_gat
 
 This cookie is installed by Google Universal Analytics to throttle the request rate to limit the collection of data on high traffic sites.
