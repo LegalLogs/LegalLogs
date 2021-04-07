@@ -45,7 +45,7 @@ If a creator does not specify the outcome of the Question within 24 hours of the
 
 #### Spectator Mode
 
-Spectator mode is a way to participate in the Predictions Product without using Points (“Spectator Mode”). Spectator Mode is available to viewers who are located in countries or geographic regions where the Predictions Product is not otherwise available. Spectator Mode is also available on certain types of content in certain countries or regions. Broadcasters and channel moderators are not eligible to participate in Spectator Mode.
+Spectator mode is a way to participate in the Predictions Product without using Points (“**Spectator Mode**”). Spectator Mode is available to viewers who are located in countries or geographic regions where the Predictions Product is not otherwise available. Spectator Mode is also available on certain types of content in certain countries or regions. Broadcasters and channel moderators are not eligible to participate in Spectator Mode.
 
 Spectator Mode works the same way described above, except that viewers participating in Spectator Mode do not use Points to make their Predictions and do not receive any Points for submitting a correct Prediction. For clarity, viewers participating in Spectator Mode are not included when the Points are divided proportionately between the viewers who submitted a correct Prediction. If all viewers participating in a Prediction are in Spectator Mode, 0 points will be distributed.
 
