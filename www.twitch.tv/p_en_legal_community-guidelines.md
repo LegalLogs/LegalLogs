@@ -117,3 +117,11 @@ Any activity, such as cheating, hacking, botting, or tampering, that gives the a
 #### Closed Alphas/Betas and Pre-Release Games
 
 We ask that you respect all publisher/developer-enforced release dates, embargoes, and NDAs by waiting to broadcast these games until everyone else gets to. Unless given prior approval, your channel may be subject to DMCA takedown by a rights holder. Rights holders should report violations in accordance with our [DMCA Guidelines](/p/en/legal/dmca-guidelines). We ask that users refrain from reporting possible violations via the user report tool.
+
+#### **Off-Service Conduct**
+
+Twitch is committed to facilitating vibrant and dynamic communities, which can only happen if our users feel secure and protected. In order to achieve this goal, Twitch enforces against severe offenses committed by members of the Twitch community that occur outside of our services, such as hate group membership, terrorist recruitment, sexual assault, and child grooming. We will investigate reports that include verifiable evidence of these behaviors and, if we are able to confirm, issue enforcements against the relevant users. We will also consider allegations of similarly severe conduct by those wishing to join the Twitch community and, if substantiated, we will terminate the account.
+
+We will do our best to ensure that our enforcement decisions are accurate, which in some cases will necessitate us bringing in a third party investigator for thorough and impartial review. If we are able to verify reports of off-service statements or behaviors that relate to an incident that took place on Twitch, we will use this evidence to support and inform our enforcement decisions.
+
+[Learn more](/p/en/legal/community-guidelines/off-service-conduct-policy) about our Off-Service Conduct Policy.
