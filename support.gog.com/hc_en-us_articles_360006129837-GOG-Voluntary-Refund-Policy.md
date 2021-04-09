@@ -22,7 +22,7 @@ GOG Voluntary Refund Policy
     If you refund the base game, but also purchased DLCs separately, we would also refund the DLCs linked to that base game.
 7.  **How often can I refund my games? Is there some sort of limit?**  
     We trust that you're making informed purchasing decisions and will use this updated voluntary Refund Policy only if something doesn't work as you expected.  
-    This is why there are no limits but instead, we reserve the right to refuse refunds in individual cases.  
+    We reserve the right to refuse refunds, or only offer Wallet Funds conversions, in individual cases.  
     Please respect all the time and hard work put into making the games you play and remember that refunds are not reviews. If you finished the game and didn't like it, please consider sharing your opinion instead. Also, please don't take advantage of our trust by asking for an unreasonable amount of games to be refunded. Don't be that person. No one likes that person.
 8.  **What if my country provides additional rights?**  
     Just let us know. We respect regional laws, to learn more see sections 7.1. and 7.2. of the [GOG User Agreement.](https://support.gog.com/hc/en-us/articles/212632089-GOG-COM-User-Agreement)
