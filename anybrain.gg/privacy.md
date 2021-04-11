@@ -136,7 +136,7 @@ We act as processor regarding processing the personal data collected through the
 
 #### 3\. Personal data collected
 
-ANYBRAIN’s software and services function as an SDK independent of the client app (e.g: the game client, or an external app) in which they will be inserted. ANYBRAIN’s services aims the collection of the user’s personal data related to the use of keyboards and mouse and all interactions with the computer during the usage of the Client’s software and applications, collecting: device ID, MAC address, IP address. And biometric data to identify patterns of the user’s behaviour, namely: speed and number of clicks on the mouse and keyboard.
+ANYBRAIN’s software and services function as an SDK independent of the client app (e.g: the game client, or an external app) in which they will be inserted. ANYBRAIN’s services aims the collection of the user’s personal data related to the use of keyboards and mouse and all interactions with the computer during the usage of the Client’s software and applications, collecting: device information, MAC address, IP address. And biometric data to identify patterns of the user’s behaviour, namely: speed and number of clicks on the mouse and keyboard.
 
 #### 4\. Nature, purpose and legal basis of the processing
 
