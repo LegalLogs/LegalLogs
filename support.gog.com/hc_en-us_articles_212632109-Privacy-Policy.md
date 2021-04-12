@@ -91,7 +91,7 @@ If you use GOG GALAXY and choose to link your accounts from other platforms to G
 
 ### 6\. COOKIES
 
-We also collect information about you via cookies. You can find out more about this in our Cookie Policy [here](https://support.gog.com/hc/fr/articles/115000498685-Politique-des-Cookies). The Cookie Policy forms part of this Privacy Policy.
+We also collect information about you via cookies. You can find out more about this in our Cookie Policy [here](https://support.gog.com/hc/en-us/articles/115000498685-Cookie-Policy). The Cookie Policy forms part of this Privacy Policy.
 
 Read our cookie policy too (link opposite).
 
