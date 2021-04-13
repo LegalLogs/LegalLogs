@@ -1,4 +1,4 @@
-### Cookie Policy(Last updated January 29, 2021)
+### Cookie Policy(Last updated April 9, 2021)
 
 We (meaning Bungie Inc.) use technologies on our website and online services (which we'll call the ‘Services’) to collect information that helps us improve your online experience. We refer to these technologies, which include cookies, collectively as “cookies.” This policy explains the different types of cookies used on the Services and how you can control them. We hope that this policy helps you understand and feel more confident about our use of cookies. If you have any further queries, please contact us at privacyrequests@bungie.com. Please also see our Privacy Policy ([https://www.bungie.net/privacy](https://www.bungie.net/privacy)) and our Terms of Use ([https://www.bungie.net/terms](https://www.bungie.net/terms)). 
 
@@ -52,9 +52,9 @@ Bunglefrogblastventcore
 
 Used to determine content cache expiration  
 
-Bungleme  
+Bungleme, Bunglesight  
 
-Used to store authenticated user account identifier  
+Used to store authenticated user account identifiers  
 
 Bunglemsa, bunglebliz, bunglesteam, bungleyeti, bunglesony  
 
@@ -261,6 +261,30 @@ Tik Tok
 https://analytics.tiktok.com/i18n/pixel/events.js  
 
 The TikTok Pixel enables us to retarget you with products and services you have viewed on our Digital Property on TikTok, and to measure when you have clicked through to our Digital Property after seeing one of our advertisements on TikTok. Information about how TikTok collects, uses and protects information collected using the TikTok Pixel is available in TikTok's advertising privacy policy at [https://www.tiktok.com/legal/privacy-policy?lang=en](https://www.tiktok.com/legal/privacy-policy?lang=en )  
+
+Amazon  
+
+Conversion Pixel – Button Click - \[Wm\_global\_floodlight\_reveal\_all\_conversion\_pre-order\_link\_click\_de\]; \[Wm\_global\_floodlight\_reveal\_all\_conversion\_pre-order\_link\_click\_uk\]; \[Wm\_global\_floodlight\_reveal\_all\_conversion\_pre-order\_link\_click\_fr\]  
+
+Priority - will allow you to track when CRM users have converted (button clicked). Also, this will enable the DSP bidding algorithm to gather learnings and insights towards people who are more likely to convert.  
+
+Amazon  
+
+Sitewide Pixel – Site Actions - Pre-order\_landing\_page\_lands\_page\_view\_de; Pre-order\_landing\_page\_lands\_page\_view\_uk; Pre-order\_landing\_page\_lands\_page\_view\_fr  
+
+Secondary – This helps WM to create audience targeting segment based on site behaviours, i.e. people more interested to spend more time on site and etc.  
+
+Hybrid Theory  
+
+Conversion Pixel - Button Click - "https://go.affec.tv/j/605875b5bdb18900675b3533"  
+
+Priority - will allow you to track when CRM users have converted (button clicked). Also, this will enable optimisation around button clickers such as bidding higher at certain times of day, days of week, understanding what websites work best for the lapsed CRM users, and finally will reduce wasted spend by ensuring once users have clicked on button they're no longer targeted.  
+
+Hybrid Theory  
+
+Conversion Pixel - Button Click - Sitewide Pixel - "https://go.affec.tv/j/605875b3bdb18900675b3532"  
+
+Secondary - Enables further insight into general users across the Bungie site which may provide a useful comparison against what is seen with lapsed user converters, such as overlaps in site browsing behaviour, demographics, interests etc.  
 
 Captify  
 
