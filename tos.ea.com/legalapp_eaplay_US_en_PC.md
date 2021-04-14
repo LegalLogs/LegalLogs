@@ -1,6 +1,6 @@
 **EA PLAY TERMS**  
   
-LAST UPDATED: NOVEMBER 25, 2020  
+LAST UPDATED: APRIL 14, 2021  
   
 These terms describe your rights to access EA Play. EA may revise these terms at any time in its sole discretion. If any revisions are made, we change the "Last Updated" date above and post the revised terms at [https://tos.ea.com/legalapp/eaplay/US/en/PC/](https://tos.ea.com/legalapp/eaplay/US/en/PC/). Revisions to terms affecting existing EA Play subscriptions shall be effective 30 days from posting at [https://tos.ea.com/legalapp/eaplay/US/en/PC/](https://tos.ea.com/legalapp/eaplay/US/en/PC/).  
   
@@ -49,4 +49,4 @@ Play List titles require an internet connection to confirm an active EA Play sub
   
 **Member Benefits:** Limited trials require persistent internet connection. Where applicable, free trials allow temporary free access to certain Play List titles. Payment method may be required to participate. After the free trial period, the selected EA Play monthly, annual or other time period membership fee will be billed. Cancel during the trial period without charge. Certain trials may be restricted to one per EA Account per game across multiple Platform memberships. When your EA Play subscription or any trial ends, you will no longer have access to the membership benefits, including Play List titles, game upgrades, or in-game purchases made in a Play List title, unless you separately have access to that Play List title for the applicable Platform. Recurring rewards offered are by title and require an active EA Play subscription and game installed from The Play List on the last day of the month for the next recurring reward to be available in-game the following month. Content benefits are not guaranteed, and may be switched, added or removed at any time. **Member 10% Discounts:** excludes Star Wars: The Old Republic, certain partner titles distributed by EA, game time codes and subscriptions on PC. Also excludes backwards compatible Xbox 360 titles on Xbox.  
   
-EA may retire the EA Play subscription service after 30 days' notice posted on [www.ea.com/service-updates](https://www.ea.com/service-updates).
+EA may retire the EA Play subscription service after at least 30 days’ notice posted on [www.ea.com/service-updates](https://www.ea.com/service-updates) and [https://www.ea.com/ea-play/terms/service-games-updates](https://www.ea.com/ea-play/terms/service-games-updates).
