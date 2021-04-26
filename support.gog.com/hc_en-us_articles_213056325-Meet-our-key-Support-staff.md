@@ -7,13 +7,13 @@ Meet our key Support staff
 **Favorite games:** Commandos series, GTA series, Uncharted series, The Witcher 3: Wild Hunt.
 
 **Firek (Piotr)**  
-**Support Team Lead**  
+**Support Team Leader**  
 **Hobbies:** Driving, cycling, Kyudo (traditional Japanese archery), story-driven games.  
 **Favorite games:** Mass Effect series, Ultima Online, Tribes: Ascend.
 
 **chandra (Gabriela)**  
-**Customer Relations Lead**  
-**Hobbies:** Books, binge-watching tv series, beekeeping, witchy stuff and embroidering/knitting.  
+**Customer Relations Supervisor**  
+**Hobbies:** Books, games, cinammon topography aka movies, beekeeping, witchy stuff and embroidering/knitting.  
 **Favorite games:** Dragon Age, Mass Effect, Portal, KotOR, old point'n'clicks.
 
 **Genoan (Paweł)**  
@@ -21,13 +21,8 @@ Meet our key Support staff
 **Hobbies:** Playing video games on PC and PS4, watching movies and TV series.  
 **Favorite game:** The original Deus Ex.
 
-**Lue (Karolina)**  
-**General Support Supervisor**  
-**Hobbies:** board games, cartoons, crime books and tv series.  
-**Favorite games:** The Last of Us, The Wolf Among Us, Heavy Rain, The Witcher 3, The Walking Dead series, TFT, Two Point Hospital and other managerial sims.
-
 **Cwaniak (Maciej)**  
-**Software Support Specialist**  
+**Tech Support Representative**  
 **Hobbies:** Games, ethical hacking.  
 **Favorite games:** The Elder Scrolls V: Skyrim, Counter-Strike: Global Offensive, The Witcher, DOTA 2.
 
@@ -53,24 +48,23 @@ Meet our key Support staff
 
 **Irrehaare (Michał)**  
 **Customer Support Representative**  
-**Hobbies:** Books, games (seriously), movies, Witcher lore, American politics and history, astrophysics, avid Lego builder.  
-**Favorite games:** Gwent (current CDPR champion, not to brag), Red Dead Redemption 2, Mass Effect series, Assassin's Creed series, The Witcher series, Theme Hospital (though Two Point Hospital is slowly taking it's place), Populous 3.  
-Newly found passion for indie games: Hollow Knight, Dead Cells, Darkest Dungeon or Baba is You, just to name a few.
+**Hobbies:** Books, games (seriously), movies, Witcher lore, American politics and history, astrophysics.  
+**Favorite games:** Mass Effect series, GTA V, Skyrim, The Witcher series, Dead Cells, Theme Hospital, Populous 3.
 
-**LexRust (Aleksei)**  
-**Customer Relations Representative**  
-**Hobbies:** Boardgames, Pen&Paper games, Videogames, (I like games), Movies and other geeky stuff.  
-**Favorite games:** TableTopSimulator, Factorio, The Binding of Isaac, Countless RPGs.
+**Lue (Karolina)**  
+**Customer Support Representative**  
+**Hobbies:** board games, cartoons.  
+**Favorite games:** Hearthstone, The Last of Us, The Wolf Among Us, Heavy Rain, The Witcher 3, The Walking Dead series.
 
 **Mali1338 (Matthias)**  
 **Customer Support Representative**  
-**Hobbies:** Gaming, Traveling, Sports (Skiing, weightlifting).  
-**Favorite games:** Thief 1+3, Imperialism 1+2, Operation Flashpoint, Gears of War 2, Banner Saga 2, Uncharted 4, Red Orchestra 2, Fallout New Vegas, Splinter Cell 3, Populous: The Beginning.
+**Hobbies:** Gaming, Traveling, Photography, Sports (Skiing, weightlifting).  
+**Favorite games:** Thief 1+3, Gears of War 2, Banner Saga 2, Uncharted 4, Red Orchestra 2: Rising Storm, Fallout New Vegas, Splinter Cell 3, Deus Ex: Human Revolution, Populous: The Beginning.
 
 **ponczo\_ (Julia)**  
 **Customer Support Representative**  
 **Hobbies:** fantasy and science fiction, video games, archery, digital art, handicraft, LARP, DnD.  
-**Favorite games:**World of Warcraft, The Witcher series, Overwatch, Dragon Age series, The Last of Us, Uncharted series, Monster Hunter: World, Fallout series, Project Winter
+**Favorite games:** World of Warcraft, The Witcher series, Overwatch, Dragon Age series, The Last of Us, Uncharted series, Monster Hunter: World.
 
 **St.Ross**  
 **Customer Support Representative**  
@@ -84,49 +78,18 @@ Newly found passion for indie games: Hollow Knight, Dead Cells, Darkest Dungeon 
 
 **watvin (Wiktoria)  
 ****Customer Support Representative**  
-**Hobbies:** Video games preservation, content creation, warhammer, cosplay  
-**Favorite games:** DUSK, Blood, Kingdom Come Deliverance, Diablo, Heretic, Hexen, Half Life, Silent Hill 2.  
-
-**crazy\_pixie (Anastasiya)**  
-**Customer Support Representative**  
-**Hobbies:** Dancing, Acting (mostly in theater), Games (of course!), History (especially 18 and 19th centuries), Traveling, Films and Tv-shows  
-**Favorite games:** The Witcher 3, The Last of Us, The Uncharted series, Detroit: Become Human, Firewatch, Ori and the Blind Forest, The Neverhood.
-
-**Sim0nSays (Szymon)**  
-**Customer Support Representative**  
-**Hobbies:** Traditional Karate, Sci-Fi and Fantasy Literature, Everything related to China and Japan, New Hardware Technologies  
-**Favorite games:** Hitman (1 - 4), Splinter Cell series, Call of Duty (up to MW3), Gothic series, Warhammer 40k: Dawn of War, GTA series, Terraria, Prince of Persia, Assassin's Creed (1 - 2)
+**Hobbies:** Video game preservation, content creation, Warhammer, cosplay  
+**Favorite games:** DUSK, Blood, Kingdom Come Deliverance, Diablo, Heretic, Hexen, Half Life, Silent Hill 2.
 
 **Susi  
 ****Customer Relations Representative  
 Hobbies:** Writing, Gaming, learning new things, Pen and Paper Roleplay  
 **Favorite games:** Dragon Age, Mass Effect, FF VII: Crisis Core, FFXIV, Stardew Valley, MonHun
 
-**Jack**  
-**Customer Relations Representative**  
-**Hobbies:** Playing the piano, violin, basketball and flight simulator. Reading psychology related books and research.  
-**Favorite games:** FSX, The Outer Worlds, Witcher series and Cyberpunk 2077 for sure, no doubt
-
-**richard\_3 (Vlad)**  
-**Customer Relations Representative**  
-**Hobbies:** digital art, design, music, reading, workout, football and video games  
-**Favorite games:** Diablo, Doom, Half-Life, S.T.A.L.K.E.R, FIFA and pixel art games
-
-**Beaubergine**  
-**Customer Relations Representative**  
-**Hobbies:** Gaming, Music making, Gastronomy and Coffee stuffs  
-**Favorite games:** FINAL FANTASY IX, Tales of Symphonia, Arkham Asylum, BIOSHOCK, The Elder Scroll 3/4/5, BORDERLANDS, World of Warcraft, League of Legend, SILENT HILL
-
-**poxi\_**  
-**Customer Relations Representative**  
-**Hobbies:** music, gaming, anime, binge-watching tv series, learning new languages, handicraft  
-**Favourite games:** The Elder Scrolls V: Skyrim, Hades, The Witcher 3: Wild Hunt, Until Dawn
-
-  
 **Prealiator**  
 **Tech Support Representative**  
 **Hobbies:** Video games, going to the gym, volleyball, reading books, cooking.  
-**Favorite games:** SoulsBorne series, Assassin's creed games, Jedi Knight series, Disciples series, DMC Series, F.E.A.R. 1 & 2, Warframe and many, many more
+**Favorite games:** SoulsBorne series, Assassin's creed games, Jedi Knight series, Disciples series, DMC Series, F.E.A.R. 1 & 2, Warframe and many, many more.
 
 **Judas**  
 **Technical Customer Support Specialist**  
