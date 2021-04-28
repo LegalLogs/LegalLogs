@@ -342,7 +342,7 @@ We may occasionally update this privacy policy. When we do, we will revise the "
 
 If you have a complaint or question about this policy, please user our [Privacy Portal](https://www.ea.com/privacy-portal) to contact our Data Protection Officer.  
   
-To contact EA, including our Data Protection Officer, you can also use the following address: Electronic Arts Inc., 209 Redwood Shores Parkway, Redwood City, CA 94065. Electronic Arts Inc.'s representative in the European Union is Electronic Arts Ireland Limited, Parkmore West Business Park, 1, Ballybrit, Galway, H91 Y2R5. Ireland. Electronic Arts Inc.'s representative in the United Kingdom is Electronic Arts Limited, Onslow House, Onslow Street, Guildford, GU1 4TN, United Kingdom.  
+To contact EA, including our Data Protection Officer, you can also use the following address: Electronic Arts Inc., 209 Redwood Shores Parkway, Redwood City, CA 94065. Electronic Arts Inc.'s representative in the European Union is Electronic Arts Ireland Limited, Parkmore West Business Park, 1, Ballybrit, Galway, H91 Y2R5, Ireland. Electronic Arts Inc.'s representative in the United Kingdom is Electronic Arts Limited, Onslow House, Onslow Street, Guildford, GU1 4TN, United Kingdom.  
 
 12\. Right to Contact a Data Protection Authority
 -------------------------------------------------
