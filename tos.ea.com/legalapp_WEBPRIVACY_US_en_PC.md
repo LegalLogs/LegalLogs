@@ -10,7 +10,7 @@ Last Updated: April 27, 2021
 [![TRUSTe Privacy Certification](https://privacy-policy.truste.com/privacy-seal/seal?rid=7d587a12-773f-4bf9-a209-d18047ee5f05)](https://privacy.truste.com/privacy-seal/validation?rid=7d587a12-773f-4bf9-a209-d18047ee5f05 "TRUSTe Privacy Certification") [![TRUSTe](https://privacy-policy.truste.com/privacy-seal/seal?rid=e92a8af7-0d1a-4829-979e-35da0a860c6f)](https://privacy.truste.com/privacy-seal/validation?rid=e92a8af7-0d1a-4829-979e-35da0a860c6f)
 
   
-Your privacy is important to EA and we take our responsibility of caring for it seriously. This policy describes how Electronic Arts Inc. ("EA"), as data processor, processes the personal information we collect about you when you use our mobile, online, and downloadable products and services or when you attend live events hosted by or in connection with EA (collectively, "Services"). In some cases, other subsidiaries and/or affiliates of EA may be considered data controllers, either together with EA or by themselves. When that is the case, we will inform you.  
+Your privacy is important to EA and we take our responsibility of caring for it seriously. This policy describes how Electronic Arts Inc. ("EA"), as data controller, processes the personal information we collect about you when you use our mobile, online, and downloadable products and services or when you attend live events hosted by or in connection with EA (collectively, "Services"). In some cases, other subsidiaries and/or affiliates of EA may be considered data controllers, either together with EA or by themselves. When that is the case, we will inform you.  
   
 
 TABLE OF CONTENTS
@@ -340,7 +340,7 @@ We may occasionally update this privacy policy. When we do, we will revise the "
 11\. Contact Us
 ---------------
 
-If you have a complaint or question about this policy, please user our [Privacy Portal](https://www.ea.com/privacy-portal) to contact our Data Protection Officer.  
+If you have a complaint or question about this policy, please use our [Privacy Portal](https://www.ea.com/privacy-portal) to contact our Data Protection Officer.  
   
 To contact EA, including our Data Protection Officer, you can also use the following address: Electronic Arts Inc., 209 Redwood Shores Parkway, Redwood City, CA 94065. Electronic Arts Inc.'s representative in the European Union is Electronic Arts Ireland Limited, Parkmore West Business Park, 1, Ballybrit, Galway, H91 Y2R5, Ireland. Electronic Arts Inc.'s representative in the United Kingdom is Electronic Arts Limited, Onslow House, Onslow Street, Guildford, GU1 4TN, United Kingdom.  
 
