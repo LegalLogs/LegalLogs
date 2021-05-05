@@ -1,7 +1,7 @@
 Visa GOG “Children of Morta” Promotion Terms and Conditions
 ===========================================================
 
-1) **The Visa GOG “Children of Morta”** Promotion **(“Promotion”)** is available from 17 September 2020 and lasts until the total promotional code pool is exhausted (“Promotion Period”). The Promotion is open to all GOG.COM users who are primary card holders of any Visa cards that are approved for payments on GOG.COM, (collectively “Cards”, separately “Card”) in accordance with the GOG User Agreement (collectively “Eligible Card Holders”). In order to participate  in the Promotion, Eligible Card Holders are obligated to abide by these Promotion Terms and Conditions.
+1)****The Visa GOG “Children of Morta” Promotion** (“**Promotion**”) is available from 17 September 2020 and lasts until the total promotional code pool is exhausted or until 5.06.2021, whichever is earlier (“Promotion Period”). The Promotion is open to all GOG.COM users who are primary card holders of any Visa cards that are approved for payments on GOG.COM, (collectively “Cards”, separately “Card”) in accordance with the GOG User Agreement (collectively “Eligible Card Holders”). In order to participate in the Promotion, Eligible Card Holders are obligated to abide by these Promotion Terms and Conditions.**
 
 2) Promotion organizer’s name: GOG sp. z o.o., ul. Jagiellońska 74, 03-301 Warsaw, Poland (hereinafter the “Promotion Organizer”).
 
@@ -77,4 +77,4 @@ J. The personal data of the Data Subject shall not be subject to automated decis
 
 18) Questions? Contact us at [support@gog.com](mailto:support@gog.com).  
   
-**[Download as PDF.](http://files.gog.com/Visa/Visa GOG “Children of Morta” Promotion Terms and Conditions_.pdf)**
+**[Download as PDF.](http://files.gog.com/Visa/Visa%20GOG%20%E2%80%9CChildren%20of%20Morta%E2%80%9D%20Promotion%20Terms%20and%20Conditions%202021.05.05.pdf)**
