@@ -1,16 +1,16 @@
 **Rules of Conduct**
 
-1.  **General Rule**
+**1\. General Rule**
 
-This Rules of Conduct regulate general matters that end users and company should comply with in relation to the services of PLAYERUNKNOWN’S BATTLEGROUNDS (hereinafter referred to as “Game”) provided by KRAFTON, Inc. (“KRAFTON”). It is aimed to regulate necessary requirements in consistent manner to cope with various situations that may arise in the process of using and providing game services.
+These Rules of Conduct regulate general matters that end users and company should comply with in relation to the services of PLAYERUNKNOWN’S BATTLEGROUNDS (hereinafter referred to as “Game”) provided by KRAFTON, Inc. (“KRAFTON”). It is aimed to regulate necessary requirements in consistent manner to cope with various situations that may arise in the process of using and providing game services.
 
 The matters that are not specifically mentioned in the Rules of Conduct shall be treated in accordance with the Terms of Use and relevant jurisdiction.
 
-2.  **Changes in Rules of Conduct**
+**2\. Changes in Rules of Conduct**
 
-If KRAFTON decides to change Rules of Conduct in order to improve quality of game service, KRAFTON will notify effective date, revised contents and reasons for revision at least 7 days prior to the effective date through KRAFTON homepage ([https://www.pubg.com](https://www.pubg.com/)). However, we will notify you from 30 days prior to the changes if such changes are regarded as serious matter or may be unfavorable to you. If a user fails to comply with revised Rules of Conduct after the last revision date, it is not KRAFTON’s responsibility to compensate any loss incurred due to lack of awareness from the user.
+If KRAFTON decides to change Rules of Conduct in order to improve quality of game service, KRAFTON will notify effective date, revised contents and reasons for revision at least 7 days prior to the effective date through KRAFTON homepage ([https://www.pubg.com](https://www.pubg.com)). However, we will notify you from 30 days prior to the changes if such changes are regarded as serious matter or may be unfavorable to you. If a user fails to comply with revised Rules of Conduct after the last revision date, it is not KRAFTON’s responsibility to compensate any loss incurred due to lack of awareness from the user.
 
-3.  **Duties and Responsibilities of KRAFTON**
+**3\. Duties and Responsibilities of KRAFTON**
 
 1) KRAFTON will endeavor to eradicate misconducts described in the Rules of Conduct to ensure that the users can enjoy playing the game.
 
@@ -24,7 +24,7 @@ If KRAFTON decides to change Rules of Conduct in order to improve quality of gam
 
 6) If you or group of users do anything that might interfere with or adversely affect any services provided by KRAFTON) or violates the Rules of Conduct, KRAFTON shall, in accordance with the ‘Penalty criteria for Misconduct specified in the Rules of Conduct, restrict service usage.
 
-4.  **End User’s Responsibilities and Rights**
+**4\. End User’s Responsibilities and Rights**
 
 1) You are obliged to understand and comply with KRAFTON’s Terms of Service and Rules of Conduct.
 
@@ -32,8 +32,7 @@ If KRAFTON decides to change Rules of Conduct in order to improve quality of gam
 
 3) If you are unfairly treated or incurred harm using the game service, you have the right to appeal and correct KRAFTON through legitimate methods and procedures. If you have been unfairly treated or harmed by another customer, you have the right to notify and ask other users to comply with Rules of Conduct.
 
-4) You have an obligation to be fully informed about the information that KRAFTON officially announces, and KRAFTON shall not be responsible for any damages incurred due to lack of awareness about the
-
+4) You have an obligation to be fully informed about the information that KRAFTON officially announces, and KRAFTON shall not be responsible for any damages incurred due to lack of awareness about the  
 announcements.
 
 5) You are not allowed to generate any profit using the game service without prior approval from KRAFTON.
@@ -46,11 +45,11 @@ announcements.
 
 9) You can make inquiries, suggestions and requests related to game services through following channels.
 
-– Customer Support Center: [https://support.pubg.com/hc/en-us](https://support.pubg.com/hc/en-us)
+– Customer Support Center: [https://support.pubg.com/hc/en-us](https://support.pubg.com/hc/en-us)
 
 – As a general rule, we will respond promptly to inquiries, suggestions, requests, feedback you have given through Customer Center. However, the response may be delayed if there is a heavy workload.
 
-5.  **Policies for Misconduct**
+**5\. Policies for Misconduct**
 
 In order to provide a fair and pleasant gaming experience for all users, KRAFTON has defined policies which all users need to comply with when using our service. All users playing the game must comply with the following rules.
 
@@ -80,11 +79,11 @@ Offensive nicknames or those that may provoke negative imagery are considered to
 *   A nickname that may infringe on the trademark or copyright of a third party;
 *   A nickname that is sensitive or causes offence for any other reason not mentioned above;
 
-In addition, if you change a few letters of an inappropriate nickname, or try to construct nicknames that are cleverly inappropriate by mixing other characters before and after the letters, your nickname will be immediately changed without your consent and/or penalty measures will be taken.
+In addition, if you change a few letters of an inappropriate nickname, or try to construct nicknames that are cleverly inappropriate by mixing other characters before and after the letters, penalty measures will be taken.
 
 **6) Do Not Team kill**
 
-Team kill is prohibited as it interferes with normal team gameplay and penalties may be imposed if teamkill is determined to be intentional and reoccurring.
+Team killing is prohibited as it interferes with normal team gameplay and penalties may be imposed if team killing is determined to be intentional and reoccurring.
 
 **7) Do Not Team (Form Teams Outside What is Allowed By The Selected Game Mode)**
 
@@ -126,7 +125,7 @@ If any abnormal gameplaying patterns have been detected that are impossible to b
 
 Any action which is not defined in the Rules of Conduct that negatively impacts the delivery of KRAFTON’s services or negatively affects other players may be subject to warning and penalty through careful review of the circumstances.
 
-6.  **Penalty Criteria for Misconduct**
+**6\. Penalty Criteria for Misconduct**
 
 1) Penalty Criteria is used to protect the customer’s enjoyment while playing the game.
 
@@ -213,57 +212,37 @@ Permanent Ban
 
 5) We define exploiting bugs and glitches as an act which involves acquiring BP and items by exploiting bugs and glitches in the system.
 
-(e.g. Purchasing infinite number of RANDOM CRATES without any BP cost and selling those crates in Steam market for the purpose of earning profit, acquiring BP by exploiting bugs and glitches in a repetitive manner etc.)
-
 6) In principal, the company considers the standard of the most severe penalty to be imposing the banning period stated in the “Penalty Criteria for Misconduct”; however, depending on the seriousness of the misconduct, the imposed penalty may become more or less severe.
 
-7) IThe Company may restrict users from running the game if misconduct was found from specific hardware device in order to maintain fair gaming environment.
+7) The Company may restrict users from running the game if misconduct was found from specific hardware device in order to maintain fair gaming environment.
 
 8) Any BPs, items, and other character-related data can be removed if they have been obtained through misconduct; and depending on the seriousness of the misconduct, not only the character data of what has been obtained, but also the user’s entire character data may be deleted.
 
-7.  **Policy for Custom Game Mode**
+**7\. Policy for Custom Game Mode**
 
 There is a custom game mode where you can set up number of team members, weather, loot limits and various other game options. Through this mode, KRAFTON can authorize only a limited number of people to create custom game mode to provide various game services such as hosting events and/or marketing purposes
 
-8.  **Recovery policy**
+**8\. Recovery policy**
 
 We are unable to recover any losses that arise from not following the rules of conduct, in-game notices, homepage notices, policies, game systems, etc.
 
-9.  **Bonus/Gift Code(“Code”) Policy**
-
-1) KRAFTON may provide Codes to allow customers to redeem and use skins, including costume skins, weapon skins, and other in-game contents (Collectively, “Contents”) either as free of charge or as paid Contents through approved affiliate companies or directly from KRAFTON. “Free Code” means KRAFTON grant customers Codes without any charge, which are used for promotional and marketing purposes. If customers obtain Codes after participating an event and/or a tournament, we still consider these Codes as Free Codes.
-
-2) KRAFTON may provide Codes to allow customers to redeem and use skins, including costume skins, weapon skins, and other in-game contents either as free of charge or as paid Contents.
-
-3) Customers can receive Contents after redeeming Codes on from their own personal accounts. It is strictly prohibited to sell and transfer these Codes under any circumstances.
-
-4) A single Code can only be used once, and after customers use/redeem their Codes, they cannot reuse, return, or refund the Codes.
-
-5) Free Codes have an expiration date of 3 months after they have been issued, and customers cannot redeem Codes if they are expired.
-
-6) Paid Codes have an expiration date of 5 years after they have been issued, and customers cannot redeem Codes if the Codes are expired. However, if the Codes expire within 5 years from the issuing date, customers can ask KRAFTON to extend the validity up to 5 years from the issuing date. Customers cannot extend expiration date of Free Codes under any circumstances.
-
-7) KRAFTON will not be liable for any damage incurred to the customer or to third parties if they have acquired Codes through personal sales or, trades, and end of expiration date.
-
-8) Codes purchased through an approved affiliate company are subject to the terms and conditions set by the affiliate company and any Code related matters (including customer inquiries, refund requests etc.) will be handled by the affiliate company which the purchase was conducted with.
-
-10.  **G-Coin Cash Operation Policy**
+**9\. G-Coin Cash Operation Policy**
 
 G-Coin Cash (hereinafter referred to as “G-Coin”) is an in-game currency used to purchase items serviced by the company.
 
-1) “Paid G-Coin” refers to G-Coin that was purchased using Steam Wallet funds or G-Coin that was included in the bundle product. Users can cancel their purchase in accordance with Paragraph 7 of this Article.
+1) “Paid G-Coin” refers to G-Coin that was purchased using real-world currency or G-Coin that was included in the bundle product. Users can cancel their purchase in accordance with Paragraph 7 of this Article.
 
-2) “Bonus G-Coin” refers to G-Coin that are obtained after completing missions from an event or survival pass in the game and not purchased with Steam Wallet funds. Bonus G-Coin is non-refundable and cannot be canceled.
+2) “Bonus G-Coin” refers to G-Coin that are obtained after completing missions from an event or survival pass in the game and not purchased with real-world currency. Bonus G-Coin is non-refundable and cannot be canceled.
 
-3) G-Coin top-up is available through the Steam®(https://store.steampowered.com/) payment service operated by Valve Corporation. Users can top up G-Coin in the units set by the company.
+3) G-Coin top-up is available through the payment service operated by third-party platform providers. Users can top up G-Coin in the units set by the company.
 
 4) Users can purchase in-game items within the amount of G-Coin they have and item prices will be deducted from G-Coin immediately after making a purchase.
 
-5) “Paid G-Coin” is valid for 5 years from the day of the purchase.
+5) “Paid G-Coin” is valid for 5 years from the day of the purchase.
 
 6) “Bonus G-Coin” is valid for three 3 months from the day of the purchase in principle, but it is subject to change at the discretion of the company.
 
-7) Canceling the purchase of paid G-Coin is applied with Article 17 (Cancellation of the purchase) and Article 18 (Effects of cancelling the purchase, etc.) of the Terms and Conditions. Payments made with bonus G-Coin cannot be canceled. In the case of products purchased with paid or bonus G-Coin, if it has not been used, users can cancel the purchase within 14 days. However, there may be limitation on canceling the purchase if the user falls under one of the following items.
+7) Canceling the purchase of paid G-Coin is applied Refund Policy of the Terms and Conditions. Payments made with bonus G-Coin cannot be canceled. In the case of products purchased with paid or bonus G-Coin, if it has not been used, users can cancel the purchase within 14 days. However, there may be limitation on canceling the purchase if the user falls under one of the following items.
 
 ① If a user’s account is banned in violation of the applicable laws and the company’s Terms and Conditions such as the Terms of Service and Rules of Conduct with illegal acts that have a severe impact on gameplay
 
@@ -275,4 +254,4 @@ G-Coin Cash (hereinafter referred to as “G-Coin”) is an in-game currency use
 
 Supplementary Provision
 
-Effective date = 2nd of December, 2020
+Effective date = May 11th 2021
