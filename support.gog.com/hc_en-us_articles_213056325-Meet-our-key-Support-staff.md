@@ -57,11 +57,6 @@ Meet our key Support staff
 **Favorite games:** Gwent (current CDPR champion, not to brag), Red Dead Redemption 2, Mass Effect series, Assassin's Creed series, The Witcher series, Theme Hospital (though Two Point Hospital is slowly taking it's place), Populous 3.  
 Newly found passion for indie games: Hollow Knight, Dead Cells, Darkest Dungeon or Baba is You, just to name a few.
 
-**LexRust (Aleksei)**  
-**Customer Relations Representative**  
-**Hobbies:** Boardgames, Pen&Paper games, Videogames, (I like games), Movies and other geeky stuff.  
-**Favorite games:** TableTopSimulator, Factorio, The Binding of Isaac, Countless RPGs.
-
 **Mali1338 (Matthias)**  
 **Customer Support Representative**  
 **Hobbies:** Gaming, Traveling, Sports (Skiing, weightlifting).  
