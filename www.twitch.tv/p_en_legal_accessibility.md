@@ -34,9 +34,9 @@ Exceptions
 Photosensitive Seizure Warning
 ------------------------------
 
-Twitch allows you to watch streams of video game play and other types of video content. A very small percentage of individuals may experience epileptic seizures when exposed to certain visual images, including light patterns or flashing lights that may appear in video games or other video content. Exposure to certain patterns or backgrounds on a computer screen, or while watching video games, may induce an epileptic seizure in these individuals. Certain conditions may induce previously undetected epileptic symptoms even in persons who have no history of prior seizures or epilepsy.
+Twitch allows you to watch streams of video game play and other types of visual content. A very small percentage of individuals may experience epileptic seizures when exposed to certain visual images, including light patterns or flashing lights that may appear in video games or other visual content. Exposure to certain patterns or backgrounds on a computer screen, or while watching video games or viewing chat, may induce an epileptic seizure in these individuals. Certain conditions may induce previously undetected epileptic symptoms even in persons who have no history of prior seizures or epilepsy.
 
-If you, or anyone in your family, have an epileptic condition, consult your physician prior to watching video game content on Twitch. If you experience any of the following symptoms while watching – dizziness, altered vision, eye or muscle twitches, loss of awareness, disorientation, any involuntary movement, or convulsions – discontinue use IMMEDIATELY and consult your physician before resuming use of Twitch.
+If you, or anyone in your family, have an epileptic condition, consult your physician prior to watching content on Twitch. If you experience any of the following symptoms while watching – dizziness, altered vision, eye or muscle twitches, loss of awareness, disorientation, any involuntary movement, or convulsions – discontinue use IMMEDIATELY and consult your physician before resuming use of Twitch.
 
 How can you help?
 -----------------
