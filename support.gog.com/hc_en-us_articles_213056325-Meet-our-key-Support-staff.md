@@ -37,8 +37,13 @@ Newly found passion for indie games: Hollow Knight, Dead Cells, Darkest Dungeon 
 
 **ponczo\_ (Julia)**  
 **Customer Support Representative**  
-**Hobbies:** fantasy and science fiction, video games, archery, digital art, handicraft, LARP, DnD.  
-**Favorite games:**World of Warcraft, The Witcher series, Overwatch, Dragon Age series, The Last of Us, Uncharted series, Monster Hunter: World, Fallout series, Project Winter
+**Hobbies:** fantasy and science fiction, video games, archery, digital art, crocheting, LARP, DnD.  
+**Favorite games:**World of Warcraft, The Witcher series, Overwatch, Dragon Age series, The Last of Us, Uncharted series, Monster Hunter: World, Fallout series, Project Winter, Valheim  
+
+**Orcan (Szymon)  
+****Customer Support Representative  
+****Hobbies:** Gaming, live streaming/broadcasting, anime, fantasy/sci-fi movies, space (space is so cool)  
+**Favorite games****:** Mass Effect series (not Andromeda) The Elder Scrolls (Morrowind and Skyrim) Destiny 2, Final Fantasy XIV (MMO), NieR: Automata, Yakuza series and most of the anime fighting games (Dragon Ball, Naruto, My Hero Academia etc etc.)
 
 **Sim0nSays (Szymon)**  
 **Customer Support Representative**  
