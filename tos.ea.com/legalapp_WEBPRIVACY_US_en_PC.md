@@ -288,7 +288,7 @@ When players identify themselves as being children we will:
   
 (2) disable features in certain Services that could allow a child to share information that directly identifies them, unless a parent has provided relevant consent to us or the third-party platform on which their child is playing. For example, we will respect third-party (console) parental controls as they apply to game features that could allow a child to provide personal information (e.g., via free-form chat, audio communications, user generated content) in online or multiplayer games;  
   
-(3) collect and use certain information for limited purposes only. For example, we may send local in-app notifications, which do not rely on collecting personal information. Also, persistent identifiers (e.g., IP address or mobile advertising device identifier) may be collected to support our internal operations, such as:  
+(3) collect and use certain information for limited purposes only. For example, we may send local in-app notifications, which do not rely on collecting personal information. Also, persistent identifiers (e.g., IP address or mobile advertising device identifier) may be collected to support our internal operations, such as:  
 
 *   Delivering the Services;
 *   Maintaining or analyzing the functionality of the Service;
