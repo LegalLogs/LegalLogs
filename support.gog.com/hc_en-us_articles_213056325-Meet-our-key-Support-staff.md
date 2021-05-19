@@ -98,7 +98,7 @@ Technical Support
 **Hobbies:** Video games, going to the gym, volleyball, reading books, cooking.  
 **Favorite games:** SoulsBorne series, Assassin's creed games, Jedi Knight series, Disciples series, DMC Series, F.E.A.R. 1 & 2, Warframe and many, many more
 
-**St.Ross (Rostyslav)**  
+**St.Ross (Ross)**  
 **Customer Support Representative**  
 **Hobbies:** Surfing the web, listening to music, sightseeing and playing games of course 🙂  
-**Favorite games:** The Elder Scrolls IV: Oblivion, Star Wars: Knights of the Old Republic (1, 2), Grand Theft Auto (2, Vice City, San Andreas, IV), Diablo 2, F.E.A.R., Batman: Arkham Asylum, Gun, Half Life 2, Mafia, Mass Effect (1, 2), Max Payne 2, Sid Meier’s Pirates!, Civilization V, S.T.A.L.K.E.R.: Shadow of Chernobyl, Stubbs the Zombie, True Crime: Streets of LA, Need for Speed: Underground 2, Dead Space, Detroit: Become Human, Heavy Rain, Space Rangers 2, The Wolf Among Us, The Walking Dead, Streets of Rage, Battletoads, The Chronicles of Riddick: Escape from Butcher Bay, Star Wars: Republic Commando, Machinarium…
+**Favorite games:** The Elder Scrolls IV: Oblivion, Star Wars: Knights of the Old Republic (1, 2), Grand Theft Auto (2, Vice City, San Andreas, IV), Diablo 2, F.E.A.R., Batman: Arkham Asylum, Gun, Half Life 2, Mafia, Mass Effect (1, 2), Max Payne 2, Sid Meier’s Pirates!, Civilization V, S.T.A.L.K.E.R.: Shadow of Chernobyl, Stubbs the Zombie, True Crime: Streets of LA, Need for Speed: Underground 2, Dead Space, Detroit: Become Human, Heavy Rain, Space Rangers 2, The Wolf Among Us, The Walking Dead, Streets of Rage, Battletoads, The Chronicles of Riddick: Escape from Butcher Bay, Star Wars: Republic Commando, Machinarium and such.
