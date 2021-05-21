@@ -18,7 +18,7 @@ We think transparency is important. In this overview, we summarize the personal 
 
 **Categories of Personal Information Collected.** Generally, we collect the following types of personal information:
 
-*   _Identifiers_: Includes direct identifiers such as name, username and alias; email, billing address, other contact information; UID, BUID, device id, IP address, third-party platform identifiers and account details (e.g., PlayStationÂ®, Xbox, Steam, Facebook), and other online or unique identifiers.
+*   _Identifiers_: Includes direct identifiers such as name, username and alias; email, billing address, other contact information; UID, BUID, device id, IP address, third-party platform identifiers and account details (e.g., PlayStation®, Xbox, Steam, Facebook), and other online or unique identifiers.
 *   _Customer records_: Includes your account and profile information and customer records that contain personal information, such as username, name, demographics and other characteristics or descriptions, email, address, telephone number, and other contact information, account credentials, communications preferences, billing and payment information, customer service and support tickets and records, and other information individuals provide us in order to register for, access or purchase our Services.
 *   _Commercial information_: Includes records of personal property, products or services purchased, obtained, or considered, or other purchasing or use histories or tendencies, such as information about your subscriptions and current and past payments and purchases, and games you play or are interested in.
 *   _Usage data_: Includes browsing history, clickstream data, search history, access logs, information regarding your interactions with our websites, mobile apps and other Services and our marketing emails and online ads, and other usage data related to your use of the Services, such as language and preferences, in-game purchases, game-play statistics, scores, persona, characters, achievements, rankings, time spent playing, click paths, game profile, preferences and friends, as well as your comments, posts and interactions in forums and communities.
@@ -292,7 +292,7 @@ Description
 
 _Identifiers_
 
-Includes direct identifiers such as name, username and alias; email, billing address, other contact information; UID, BUID, device id, IP address, third party platform identifiers and account details (e.g., PlayStationÂ®, Xbox, Steam, Facebook), and other online or unique identifiers.
+Includes direct identifiers such as name, username and alias; email, billing address, other contact information; UID, BUID, device id, IP address, third party platform identifiers and account details (e.g., PlayStation®, Xbox, Steam, Facebook), and other online or unique identifiers.
 
 YES
 
