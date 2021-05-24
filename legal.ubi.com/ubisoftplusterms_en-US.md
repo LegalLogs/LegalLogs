@@ -1,7 +1,7 @@
 **Ubisoft+ Subscription Terms**
 ===============================
 
-Last Updated: NOVEMBER 10, 2020
+Last Updated: May 24, 2021
 
    
 Ubisoft+ is a subscription program provided to you by Ubisoft and, if applicable, purchased from an authorized third party (“Third Party Seller”).  These terms (“Ubisoft+ Terms”) describe your rights and obligations with respect to a Ubisoft+ subscription (“Subscription” or “Ubisoft+”) and any of the Ubisoft content (including, without limitation, Ubisoft games and downloadable content) accessible to you as part of the Subscription (collectively, the “Ubisoft+ Services"). These Ubisoft+ Terms are incorporated by reference into the Ubisoft Terms of Use available at [https://legal.ubi.com/termsofuse](https://legal.ubi.com/termsofuse) (“Terms of Use”) and together make up the entire agreement between Ubisoft and you relating to the Subscription, and replace any prior understandings or agreements (whether oral or written) regarding such.  All capitalized terms used but not defined herein shall have the meaning given to them in the Terms of Use.
@@ -22,9 +22,13 @@ b) as available, the ability to access certain Ubisoft+ Services on third-party
 
 c) inclusion in early access programs, when applicable, giving subscribers the ability to get an early access to certain Ubisoft games prior to the date such games are otherwise generally available to the public (“Early Access”);
 
-d) inclusion in beta programs, when applicable; and
+d) inclusion in beta programs, when applicable; 
 
-e) when applicable, discounts on certain Ubisoft games, merchandise and other content (to be updated from time to time) offered through the Ubisoft Store (“Discounts”).
+e) when applicable, discounts on certain Ubisoft games, merchandise and other content (to be updated from time to time) offered through the Ubisoft Store (“Discounts”); and
+
+f)  enabling Users with an active Subscription to get access to a dedicated roster of rewards (the “Rewards”). Such Rewards may include in-game content drops and/or any other benefit Ubisoft may include as a Reward.
+
+Please note that (i) Rewards may be subject to verification, (ii) Rewards are not transferable, (iii) the availability of Rewards may change; and (iv) unless otherwise specified by Ubisoft, Users who have cancelled their Subscription will be considered to be new Users for the purpose of Rewards if they re-subscribe to UBISOFT+ at a later time (in other words, any status based on subscriber time will be re-set upon cancellation). Additional terms and conditions may apply to how Rewards are granted and/or any Reward.  Ubisoft reserves the right to remove any Reward and/or the ability to receive Rewards in the event of any fraud or abuse as determined in our sole discretion, and reserves the right to change or terminate the way Rewards are provided at any time and in any manner without notice.
 
 The Ubisoft+ Services are subject to change at anytime and limitations and exclusions apply.  For current details on the specific Ubisoft+ Services available as part of your Subscription, please regularly visit [https://support.ubi.com/Faqs/000043786/](https://support.ubi.com/Faqs/000043786/).  **Please note that the Ubisoft+ Services may vary depending on your age and country.**
 
