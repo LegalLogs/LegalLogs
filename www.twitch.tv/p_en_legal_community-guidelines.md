@@ -35,6 +35,8 @@ Twitch does not allow content that depicts, glorifies, encourages, or supports t
 
 In situations where a user has lost control of their broadcast due to severe injury, medical emergency, police action, or being targeted with serious violence, we will temporarily remove the channel and associated content.
 
+In exceptional circumstances, we may preemptively suspend accounts when we believe an individual’s use of Twitch poses a high likelihood of inciting violence. In weighing the risk of harm, we consider an individual’s influence, the level of recklessness in their past behaviors (regardless of whether any past behavior occurred on Twitch), whether or not there continues to be a risk of harm, and the scale of ongoing threats.
+
 #### Hateful Conduct and Harassment
 
 Hateful conduct and harassment are not allowed on Twitch. Hateful conduct is any content or activity that promotes or encourages discrimination, denigration, harassment, or violence based on the following protected characteristics: _race, ethnicity, color, caste, national origin, immigration status, religion, sex, gender, gender identity, sexual orientation, disability, serious medical condition,_ and _veteran status_. We also provide certain protections for _age_. Twitch has zero tolerance for hateful conduct, meaning we act on every valid reported instance of hateful conduct. We afford every user equal protections under this policy, regardless of their particular characteristics.
