@@ -38,8 +38,7 @@ By default, purchases will be refunded to the payment method used to make the pu
 **What about pre-purchases?**
 -----------------------------
 
-You can cancel your pre-purchase and get a refund at any time before release. After the game is released, you can request a refund within 14 days if you have not played the game for more than 2 hours. For purposes of this policy, “release” includes any playable version of the game, including early access, beta, and alpha versions.  
- 
+You may cancel your pre-purchase and get a refund at any time before the official release date set by the publisher/developer on the Epic Games Store. After the game is released, you may request a refund within 14 days if you have not played the game for more than 2 hours.
 
 **What if a product I recently purchased goes on sale?**
 --------------------------------------------------------
@@ -50,5 +49,5 @@ If Epic determines you are abusing the refund policy, you may not be eligible fo
 
   
   
-**Last Updated: May 13, 2020**  
+**Last Updated: June 10, 2021**  
 _If Epic revises this policy, any revisions will apply to subsequent purchases._
