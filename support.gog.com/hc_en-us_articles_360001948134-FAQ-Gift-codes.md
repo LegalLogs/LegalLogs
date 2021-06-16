@@ -5,7 +5,11 @@ FAQ: Gift codes
 
 Gifting allows you to purchase an item, or items, available at GOG for your friend. To use the gifting option, proceed like you would with any other purchase, and go to checkout. Make sure to check the "**GIFT THIS ORDER"** option, below the payment options.
 
+**![howtobuyagift__1_.gif](/hc/article_attachments/4402679951249/howtobuyagift__1_.gif)**
+
 This order just became a gift order and, after you input the recipient's e-mail address and pay for it, a gift e-mail will be sent to the indicated recipient.
+
+![gift_conf_EN.PNG](/hc/article_attachments/4402679967377/gift_conf_EN.PNG)
 
 You can either send it directly to the recipient, in a GOG-made e-mail, or send it to yourself, and then forward or PM it to someone. The gift recipient will be able to choose which items from the gift they want to add to their account. By default, if the gift recipient already owns some of the items within the gift, these will remain in that gift, and can later on be redeemed by someone else.  
   
