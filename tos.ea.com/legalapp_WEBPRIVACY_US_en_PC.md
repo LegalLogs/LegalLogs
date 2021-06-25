@@ -104,10 +104,10 @@ The information we collect depends on what Services you use and how you use them
       
     
     *   Identifiers; such as a real name, user name, account name, email, online identifiers, device identifiers, IP address, or mobile device identifiers;
-    *   Purchase information; such as payment card number, payment account details, billing address , and other payment information;
+    *   Purchase information; such as payment card number, payment account details, billing address, and other payment information;
     *   Characteristics of Protected Classifications under state or federal law; such as age or gender;
     *   Commercial Information; such as products or services interaction and purchase history;
-    *   Internet or Electronic Network Activity information; such as ,browsing history, search history, and information regarding interactions with our games, websites, applications, and/or advertisements;
+    *   Internet or Electronic Network Activity information; such as, browsing history, search history, and information regarding interactions with our games, websites, applications, and/or advertisements;
     *   Approximate (coarse) geolocation data; such as location data derived from IP address or device settings;
     *   Audio or Electronic information; such as when you play our games, play certain multiplayer modes, use chat features, or participate in competitive game modes or live events;
     *   Inferences; such as consumer preferences drawn from the above.
