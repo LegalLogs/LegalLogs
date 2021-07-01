@@ -311,6 +311,32 @@ We may not discriminate against you because you have exercised your rights, incl
 **Authorized Agents:**  
 If you would like to designate an authorized agent to make a request on your behalf, please be sure the agent can (i) demonstrate you have provided written permission for the agent to submit the request on your behalf, and (ii) provide proof of his or her own identity. If the agent does not satisfy these requirements, we will deny the request.
 
+**Reporting:**
+
+The reporting information required by the California Consumer Privacy Act Regulations § 999.317 is available below. 
+
+Requests to Know made in the United States: 1,683
+
+Requests completed in whole or in part\*\*: 1,619
+
+Average days to respond: 1 day
+
+Requests to Delete made in the United States: 46,393
+
+Requests completed in whole or in part\*\*: 38,138
+
+Average days to respond: 6 days
+
+Requests to Opt-out made in the United States\*: 10,719
+
+Requests completed in whole or in part\*\*: 10,719
+
+Average days to respond: Immediate
+
+  \*only available to CA and NV
+
+\*\* Requests may be unable to be completed due to factors, such as incorrect topic selection in our support forms, an inability to verify a user’s control of an account from which a request is made, a user ceasing to respond to our messages for identity confirmation, or a user cancelling their request.
+
 ### California Shine the Light Law
 
 Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. We do not share our customer's personal information with unaffiliated third parties for their own direct marketing purposes. For inquiries regarding our disclosure policy, please send us an email to [dataprivacy@blizzard.com](mailto:dataprivacy@blizzard.com) , or write us at: Blizzard Entertainment, One Blizzard Way, Irvine, CA 92618-3616, USA, Attention: Data Protection Team. We will be happy to honor your request.
