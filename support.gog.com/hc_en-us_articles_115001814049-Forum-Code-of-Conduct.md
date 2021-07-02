@@ -1,7 +1,7 @@
 Forum Code of Conduct
 =====================
 
-First of all, welcome to our forums! We hope that you’ll find them enjoyable and you’ll have many fruitful discussions on here. Before you start posting (or if you’ve been posting for a while but feel like you need to refresh the basics), please take a moment to read through our rules of conduct, which are applicable to all forums on [www.gog.com](http://www.gog.com).
+First of all, welcome to our forums! We hope that you’ll find them enjoyable, and you’ll have many fruitful discussions on here. Before you start posting (or if you’ve been posting for a while but feel like you need to refresh the basics), please take a moment to read through our rules of conduct, which are applicable to all forums on [www.gog.com](http://www.gog.com).
 
 The GOG forums are safe online spaces for holding civil, lively discussion. Please do not ever post with the sole purpose and intention to upset other forum users. Negative comments and minority opinions are absolutely welcome, but forum users are expected to be able to substantiate their position without resorting to name-calling and offensive language.
 
@@ -19,7 +19,6 @@ GENERAL RULES:
 WE DON’T TOLERATE:
 ==================
 
-*   Abuse or encouraging abuse of the reputation system and the “report as spam” system - for the explanation of how our forum features work, have a look at the Forum and feedback section in our FAQs [here](https://support.gog.com/hc/en-us/categories/201526109).
 *   Posting your own as well as other people’s personally identifiable information (i.e. name, address, email, phone number, place of work, etc.).
 *   Posting links to phishing sites, malware, or spyware.
 *   Impersonating forum moderators or other users.
@@ -49,6 +48,8 @@ HOW WE MODERATE:
 *   We reserve the right to edit or delete any post that we feel breaks any of the rules stated within the hereby Forum Code of Conduct.
 *   If you are confused about any particular action taken that involves you, please contact us.
 *   Official communication with any member of GOG Staff should be considered as valid as correspondence with all moderating authorities. Abusive and/or aggressive attitude towards GOG Staff may constitute grounds for further penalties.
+
+Please use the reputation system and the “report as spam” system in justified cases. For the explanation of how our forum features work, have a look at the Forum and feedback section in our FAQs [here](https://support.gog.com/hc/en-us/categories/201526109?product=gog). 
 
 These Forum Rules are subject to change at any time, but we will try and inform you via the forum when they do.
 
