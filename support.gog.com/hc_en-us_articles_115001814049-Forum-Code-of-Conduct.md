@@ -49,7 +49,7 @@ HOW WE MODERATE:
 *   If you are confused about any particular action taken that involves you, please contact us.
 *   Official communication with any member of GOG Staff should be considered as valid as correspondence with all moderating authorities. Abusive and/or aggressive attitude towards GOG Staff may constitute grounds for further penalties.
 
-Please use the reputation system and the “report as spam” system in justified cases. For the explanation of how our forum features work, have a look at the Forum and feedback section in our FAQs [here](https://support.gog.com/hc/en-us/categories/201526109?product=gog). 
+Please use the reputation system and the “report as spam” system in justified cases. For the explanation of how our Forum features work, have a look at the Forum and feedback section in our FAQs [here](https://support.gog.com/hc/en-us/categories/201526109?product=gog). 
 
 These Forum Rules are subject to change at any time, but we will try and inform you via the forum when they do.
 
