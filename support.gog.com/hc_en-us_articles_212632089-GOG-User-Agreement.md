@@ -17,7 +17,7 @@ This agreement explains how you can access and use GOG services, like GOG.COM, G
 
 1.2. Additional terms may apply to GOG services and in such a case we will post them for your acceptance. For example, if you would like to use the GOG GALAXY application or play GWENT: The Witcher Card Game, the relevant terms will be posted for your acceptance before you start using these services.
 
-1.3 Also, when we're talking about games, in-game content, virtual items or currency or GOG videos or other content or services which you can purchase or access via GOG services, we’ll just call them “GOG games” or “GOG videos” respectively and when we talk about them all together they are “GOG content”. Simple, eh? Oh, and one more thing – what we say in this Agreement covers our Privacy Policy too (you can read it here), so the Privacy Policy is part of this Agreement.
+1.3 Also, when we're talking about games, in-game content, virtual items or currency or GOG videos or other content or services which you can purchase or access via GOG services, we’ll just call them “GOG games” or “GOG videos” respectively and when we talk about them all together they are “GOG content”. Simple, eh? Oh, and one more thing – what we say in this Agreement covers our Privacy Policy too (you can read it [here](https://support.gog.com/hc/articles/212632109)), so the Privacy Policy is part of this Agreement.
 
 1.4. GOG works with trusted partners, including our related company CD PROJEKT S.A., developers and publishers, payment providers, customer service software providers and others (“Partners”) – more on them later in this Agreement.
 
@@ -28,7 +28,7 @@ If you are not yet 18 years old you need parental/ guardian approval to use GOG 
 
 ### 2\. USING GOG SERVICES AND GOG CONTENT
 
-2.1 We give you and other GOG users the personal right (known legally as a 'licence') to use GOG services and to download, access and/or stream (depending on the content) and use GOG content. This licence is for your personal use. We can stop or suspend this licence in some situations, which are explained later on
+2.1 We give you and other GOG users the personal right (known legally as a 'licence') to use GOG services and to download, access and/or stream (depending on the content) and use GOG content. This licence is for your personal use. We can stop or suspend this licence in some situations, which are explained later on.
 
 You have the personal right to use GOG content and services. This right can be suspended or stopped by us in some situations.
 
@@ -36,13 +36,15 @@ You have the personal right to use GOG content and services. This right can be s
 
 GOG games might have extra EULAs (End User Licensing Agreement) for you to accept.
 
-2.3 With GOG videos, you can also stream purchased video content or download it to watch the way you want. As for the video content, stream or download it and watch the way you want.
+2.3 With GOG videos, you can also stream purchased video content or download it to watch the way you want.
+
+As for the video content, stream or download it and watch the way you want.
 
 2.4 Using certain third-party scripts is recommended for your full use of GOG functionality and, although that usage is optional, we cannot promise full service performance without them.
 
 You can (optionally) use certain third-party scripts to improve website performance – don’t worry, we don’t mean anything fiendish here! Just regular website scripts.
 
-2.5 A quick word about GOG GALAXY, which is our (optional) application which not only allows you to buy and access GOG content but also provides cool features like unified game library, and one friends list across platforms, online multiplayer, achievements, cross-platform chat, game-time tracking, cloud-saves and game overlay. GOG GALAXY also includes GOG GALAXY store that allows you to purchase selected games from different platforms and to access such games directly on a partner gaming platform without the need to redeem any code (we will call it: Keyless Access). You can learn more about it here
+2.5 A quick word about GOG GALAXY, which is our (optional) application which not only allows you to buy and access GOG content but also provides cool features like unified game library, and one friends list across platforms, online multiplayer, achievements, cross-platform chat, game-time tracking, cloud-saves and game overlay. GOG GALAXY also includes GOG GALAXY store that allows you to purchase selected games from different platforms and to access such games directly on a partner gaming platform without the need to redeem any code (we will call it: Keyless Access). You can learn more about it [here](https://www.gog.com/galaxy).
 
 You can use GOG GALAXY, which is optional and contains cool features like bringing all your games and friends in one place, online multiplayer and much more!  
   
@@ -57,7 +59,7 @@ To buy GOG content you will need to set up a GOG account. Make sure to keep your
 
 Your GOG account will have a public profile and you can communicate with other GOG users. Be sensible and careful!
 
-3.3 Your GOG account and GOG content are personal to you and cannot be shared with, sold, gifted or transferred to anyone else. Your access to and use of them is subject to GOG’s rules which are set out here, as updated or amended when necessary
+3.3 Your GOG account and GOG content are personal to you and cannot be shared with, sold, gifted or transferred to anyone else. Your access to and use of them is subject to GOG’s rules which are set out here, as updated or amended when necessary.
 
 Your GOG account and content are for you only – there are rules about how to use them (see opposite).
 
@@ -72,7 +74,7 @@ If you purchase games with Keyless Access to a partner gaming platform you may b
 
 4.2 What we can tell you is that using any GOG game will require a computer, equipped with a mouse and keyboard (touchscreen controls are not supported), with an appropriate operating system (please refer to the relevant GOG product page) with all service packs and important updates installed on it. All GOG games should be natively installed on a computer that meets or exceeds the minimum hardware and software specifications shown on the GOG product page. GOG games are not tested on virtual machine software and therefore we do not support playing through them.
 
-4.3 For GOG videos, please make sure your video player supports the videos’ format specified in the GOG product page..
+4.3 For GOG videos, please make sure your video player supports the videos’ format specified in the GOG product page.
 
 4.4 If you have questions about system requirements, please contact us [here](https://support.gog.com/hc/requests/new?category=info). Just so we're clear, you are responsible for making sure you have sufficient Internet access to download purchased GOG games or GOG videos from us or to stream GOG videos and that your system can play GOG games and watch GOG videos.
 
@@ -100,7 +102,7 @@ We may offer beta access to new releases of GOG software or services. Beta versi
 ### 6\. PAYING FOR GOG CONTENT AND GETTING REFUNDS  
 Paying for GOG content
 
- 6.1 Surprise surprise, after you decide that you like a GOG game, GOG video or other GOG content, you usually will need to pay for it before you can access it (though we do have some free content too!). You can pay in different ways: (i) using a valid debit or credit card; or (ii) using PayPal or any other authorised payment providers. Keep your payment details secure.
+6.1 Surprise surprise, after you decide that you like a GOG game, GOG video or other GOG content, you usually will need to pay for it before you can access it (though we do have some free content too!). You can pay in different ways: (i) using a valid debit or credit card; or (ii) using PayPal or any other authorised payment providers. Keep your payment details secure.
 
 You can use a debit/credit card, PayPal or different local payment methods, to make purchases. Keep your payment details secure.
 
@@ -108,9 +110,9 @@ You can use a debit/credit card, PayPal or different local payment methods, to m
 
 You're responsible for your purchases. Kids – do not forget to get parental approval first.
 
-6.3 You can always pay for GOG content in US Dollars. However if you happen to live in countries where your local currency is supported (see our Support section here for details), you will be able to pay in your local currency. You might have to pay a currency conversion charge if you are not paying in your home currency and some banks might also add other kinds of transaction fees.
+6.3 You can always pay for GOG content in US Dollars. However if you happen to live in countries where your local currency is supported (see our Support section [here](https://support.gog.com/hc/articles/360001947034) for details), you will be able to pay in your local currency. You might have to pay a currency conversion charge if you are not paying in your home currency and some banks might also add other kinds of transaction fees.
 
-You can pay in US Dollars and, depending on where you live, in your local currency (see opposite)
+You can pay in US Dollars and, depending on where you live, in your local currency (see opposite).
 
 6.4. All prices are visible in the product catalogue page. They’re inclusive of legally applicable sales taxes/VAT.  
   
@@ -166,7 +168,7 @@ With some GOG content you can buy virtual items/currency. Opposite are the defau
 
 8.2 Virtual Goods are digital items only with no cash-value or real world existence and cannot be ‘bought’, ‘sold’, gifted, transferred or redeemed, whether or not for other Virtual Goods, ‘real world’ money, goods, services or items of monetary value. Trading Virtual Goods is prohibited (unless you are specifically permitted to do so). Your right to use any Virtual Goods is limited to a limited, nonexclusive, non-assignable, non-transferable, non-sublicensable, revocable licence to use them solely for your personal entertainment and non-commercial use in the applicable GOG content. You have no property interest or right or title in any Virtual Goods, which remains the appropriate publisher’s property. Virtual Goods may be changed, amended or reversed if necessary, including to enforce this Agreement. If necessary, limits may be placed on the use of Virtual Goods (including transaction limits and balance amounts).
 
- 8.3 The existence of a particular offer for Virtual Goods is not a commitment by us to maintain or continue to make the Virtual Goods or that offer available in the future. The scope, variety and type of Virtual Goods that you may obtain can change and we have the right to manage, modify and remove Virtual Goods if we consider necessary for the ongoing operation of GOG or GOG content or for other legitimate reasons, in which case we will have no liability to you or anyone for the exercise of such rights. We will make reasonable efforts to notify you of any such change and to explain the reason for such change.
+8.3 The existence of a particular offer for Virtual Goods is not a commitment by us to maintain or continue to make the Virtual Goods or that offer available in the future. The scope, variety and type of Virtual Goods that you may obtain can change and we have the right to manage, modify and remove Virtual Goods if we consider necessary for the ongoing operation of GOG or GOG content or for other legitimate reasons, in which case we will have no liability to you or anyone for the exercise of such rights. We will make reasonable efforts to notify you of any such change and to explain the reason for such change.
 
 ### 9\. PATCHES, UPDATES AND CHANGES
 
@@ -241,7 +243,7 @@ You click on a link on GOG services taking you outside of our little kingdom = w
 
 You can also use your GOG account to access GOG approved external services, like our sister company CD PROJEKT RED’s cool stuff. It’s totally optional though.
 
-15.3 A quick word about GOG Connect (which you can read more about here)This (optional) feature is provided subject to Valve’s Steam Web API Terms of Use and therefore access to this feature and how it works may change if necessary to reflect those Terms of Use. Please also see section 11.3 of our Privacy Policy, which explains how we use ‘Steam Data’ and contains important liability provisions regarding it. Please also see our GOG Connect FAQs which contain further information about GOG Connect and how to use it.
+15.3 A quick word about GOG Connect (which you can read more about [here](https://www.gog.com/connect)). This (optional) feature is provided subject to Valve’s Steam Web API Terms of Use and therefore access to this feature and how it works may change if necessary to reflect those Terms of Use. Please also see section 11.3 of our Privacy Policy, which explains how we use ‘Steam Data’ and contains important liability provisions regarding it. Please also see our GOG Connect FAQs which contain further information about GOG Connect and how to use it.
 
 We offer an optional GOG Connect service (see link opposite). Check out the GOG Connect section of our Privacy Policy too.  
   
