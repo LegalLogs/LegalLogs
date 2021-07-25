@@ -237,6 +237,24 @@ If we need additional information to verify your identity, we will contact you t
 
 To opt out of having information about you shared with third parties for direct marketing purposes please visit Section 6 “What are your rights and how do you exercise your rights?”
 
+**California Consumers Requests – Metrics Reporting for 2020**:
+
+*   ##### Right to Access:
+    
+    *   Requests made in the United States: 15,655
+    *   Requests denied: 382
+    *   Average completion time: within 24hrs.
+*   ##### Right to Deletion:
+    
+    *   Requests made in the United States: 26,333
+    *   Requests denied: 0
+    *   Average completion time: 30 days
+*   ##### Right to Opt-out from the Sale of Personal Information:
+    
+    *   Requests made in the United States: 10,699
+    *   Requests denied: 0
+    *   Average completion time: within 24hrs.
+
 **California Shine the Light Law:** California Civil Code Section 1798.83 permits users of services that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please submit a verifiable consumer request to us by either:
 
 ·       navigating to [https://support.ubisoft.com/Article/000063467/](https://support.ubisoft.com/Article/000063467/ "https://support.ubisoft.com/article/000063467/") or
