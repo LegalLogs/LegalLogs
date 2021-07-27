@@ -31,7 +31,7 @@ TABLE OF CONTENTS
 1\. Information We Collect
 --------------------------
 
-The information we collect depends on what Services you use and how you use them. Please see below for more details.
+The information we collect depends on what Services you 8.use and how you use them. Please see below for more details.
 
 ### A. Information You Give Us Directly
 
@@ -240,7 +240,7 @@ We may also de-identify, anonymize, or aggregate the information we collect, or 
 4\. Information We Share With Third Parties
 -------------------------------------------
 
-🛈 We may disclose or share your personal information with the third-party recipients and in the circumstances described in this section. We do not "sell" your personal information as the term "sell" is defined under applicable privacy laws, such as California Consumer Privacy Act.
+🛈 We may disclose or share your personal information with the third-party recipients and in the circumstances described in this section.
 
 Except as described below, we do not share, sell, or otherwise disclose personal information to third parties (as these processing activities are defined under applicable privacy laws, such as the California Consumer Privacy Act):
 
@@ -326,9 +326,9 @@ We encourage you to talk with your children about communicating with strangers a
 
 We give you meaningful choices when it comes to our collection and use of your information. For example, if you no longer wish to receive marketing emails from EA, you may click the unsubscribe link included in the footer of any marketing email we send.
 
-To exercise any of the rights listed below, please visit our [Privacy Portal](https://www.ea.com/privacy-portal). To protect your account security and personal information, you may be asked to verify your account ownership before exercising these rights. Once you have verified your account ownership, you may also be required to provide your confirmation authorizing an agent to exercise these rights on your behalf. If you have additional questions or concerns about exercising your privacy rights, you may contact us through [help.ea.com](https://help.ea.com/en/).
+To exercise any of the rights listed below, please visit our [Privacy Portal](https://www.ea.com/privacy-portal). To protect your account security and personal information, you may be asked to verify your account ownership before exercising these rights. Once you have verified your account ownership, you may also be required to provide your confirmation authorizing an agent to exercise these rights on your behalf. If you have additional questions or concerns about exercising your privacy rights, you may contact us through [help.ea.com](https://help.ea.com/en/). If you are a Codemasters player, while we continue to integrate our operations you can learn about how to exercise your rights [here](https://help.ea.com/en-gb/help/account/access-your-ea-account-data/).
 
-**Your right to deletion.** You may deactivate your EA Account or delete the personal information associated with your account by contacting us through [this link](https://help.ea.com/contact-us/new/?product=origin&platform=pc&category=data-privacy&issue=delete-my-data&isChannelSelection=true). If you do so, you will no longer have access to the EA games or Services associated with your account. Note that EA may retain information needed to resolve disputes, enforce our user agreements, protect our legal rights, and comply with technical and legal requirements and constraints related to the security, integrity and operation of our Services. Otherwise, we will retain your personal information for as long as reasonably necessary to provide you with, create, and improve our Services, and to comply with the law.
+**Your right to deletion.** You may deactivate your EA Account or delete the personal information associated with your account by contacting us through [this link](https://help.ea.com/contact-us/new/?product=origin&platform=pc&category=data-privacy&issue=delete-my-data&isChannelSelection=true). If you do so, you will no longer have access to the EA games or Services associated with your account. Note that EA may retain information needed to resolve disputes, enforce our user agreements, protect our legal rights, and comply with technical and legal requirements and constraints related to the security, integrity and operation of our Services. Otherwise, we will retain your personal information for as long as reasonably necessary to provide you with, create, and improve our Services, and to comply with the law. You may also close any account you have registered with Codemasters by logging into your [Codemasters Account](https://accounts.codemasters.com/), accessing your account settings and selecting 'delete account' available within the data management tab.
 
 **Your right to access.** You can access the personal information we hold about you. You can download a copy of your EA Account information by visiting your EA Account and clicking the "Your EA Data" tab, or by visiting [this page](https://myaccount.ea.com/cp-ui/downloaddata/index). To request access to additional data, please contact us through [this link](https://help.ea.com/contact-us/new/?product=origin&platform=pc&category=data-privacy&issue=request-my-data&isLoginForm=true&isChannelSelection=true).
 
