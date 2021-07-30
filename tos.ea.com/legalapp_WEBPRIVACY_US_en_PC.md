@@ -171,7 +171,7 @@ These technologies collect and use information so we can serve appropriate offer
 *   Your interaction, if any, with the ad; and
 *   Advertisement response.
 
-### D.
+### D. Third-Party Advertising Companies
 
 🛈 Third-party advertising companies may collect and combine information about you with information collected from other services to serve you personalized ads. See our privacyappendix.ea.com for a list of third-party companies we use and how to opt out (to the extent applicable).
 
