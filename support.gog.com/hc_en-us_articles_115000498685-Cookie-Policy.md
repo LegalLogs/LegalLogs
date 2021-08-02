@@ -25,12 +25,16 @@ Cookies are small text files that are stored on your computer or mobile device. 
 
 Cookies are small text files stored on your device, which help to make websites/online services work and do this more efficiently.
 
-We also use similar technologies like scripts that are loaded when you visit GOG website or open our emails. We use them to know for example if you clicked on key elements on GOG platform.
+We also use similar technologies like scripts that are loaded when you visit GOG website or open our emails. We use them to know for example if you clicked on key elements on GOG websites or applications.
 
 We also use similar technologies like scripts added to a web page, it tells us f.ex. whether you clicked on key elements on our websites or opened our emails.  
   
 
 ### 3\. WHAT COOKIES ARE USED ON OUR SERVICES?
+
+Section 3 and section 4 of this Cookie Policy apply only to GOG’s websites and applications where there is no Cookie Declaration or in case Cookie Declaration malfunctions and wouldn’t enable you to properly manage your cookie preferences.
+
+If possible, use the Cookie Declaration and don’t bother reading section 3 and 4.
 
 Below we list the different types of cookies we and our service providers may use on the Services.
 
@@ -70,9 +74,9 @@ You can use your browser/device settings to control cookies at any time. Please 
 
 ### 5\. CHANGES TO THIS COOKIE POLICY
 
-We may change this Cookie Policy at any time: please take a look at the “LAST UPDATED” date at the top of this policy to see when it was last revised. Any amendments to this Cookie Policy will come into effect a reasonable period of time after this "LAST UPDATED" date (normally we consider 30 days to be a reasonable time period) unless you contact us before that date to discuss or query any of the amendments.
+We may change this Cookie Policy at any time: please take a look at the “LAST UPDATED” date at the top of this policy to see when it was last revised. Any amendments to this Cookie Policy will come into effect a reasonable period of time after this "LAST UPDATED" date unless you contact us before that date to discuss or query any of the amendments.
 
-We can revise this Cookie Policy if necessary and it will come into effect 30 days later.
+We can revise this Cookie Policy if necessary and it will come into effect after a reasonable period of time.
 
 ### 6\. MORE ABOUT YOUR PRIVACY
 
@@ -80,6 +84,6 @@ Please also check out our [Privacy Policy](http://www.gog.com/support/policies/g
 
 Check out our privacy policy and user agreement too (link opposite).
 
-Last Revised 24.9.2019
+Last Revised 02.08.2021
 
-(in effect from October 19th, 2019; to view currently applicable Cookie Policy click [here](https://support.gog.com/hc/articles/360010039773))
+(See the previous version of the Cookie Policy [here](https://support.gog.com/hc/en-us/articles/360010039773-Cookie-Policy-old-?product=gog))
