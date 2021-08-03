@@ -21,7 +21,7 @@ Hello, we're GOG and we are based in Poland. You can find our contact details he
 
 ### 2\. WHAT THIS PRIVACY POLICY GOVERNS
 
-2.1 This Privacy Policy applies to www.GOG.COM, your GOG user account, GOG GALAXY (including GOG GALAXY store), any games or videos or other content which you purchase, access or use via GOG.COM, the ‘GOG Wallet’, GOG payment methods, the GOG web forums, GOG customer and technical support and any other services we provide to you (we'll just call all this “GOG services” for short). GOG services also include GWENT: The Witcher Card Game for PC's (“GWENT”) from our related company CD PROJEKT together with www.playgwent.com, any other GWENT web sites or accounts and all services related to GWENT, including (but not limited to) user accounts and customer and technical support provided by us.
+2.1 This Privacy Policy applies to GOG.COM, your GOG user account, GOG GALAXY (including GOG GALAXY store), any games or videos or other content which you purchase, access or use via GOG.COM, the ‘GOG Wallet’, GOG payment methods, the GOG web forums, GOG customer and technical support and any other services we provide to you (we'll just call all this “GOG services” for short). GOG services also include GWENT: The Witcher Card Game for PC's (“GWENT”) from our related company CD PROJEKT together with www.playgwent.com, any other GWENT web sites or accounts and all services related to GWENT, including (but not limited to) user accounts and customer and technical support provided by us.
 
 This Privacy Policy explains the different types of information that we collect while you use GOG services or GWENT. We and our Trusted Partners will comply with applicable privacy laws. Btw Geralt says hi.
 
@@ -37,9 +37,9 @@ We will comply with applicable data protection laws. This involves us being resp
 
 ### 3\. PROTECTING CHILDREN
 
-3.1 We recognise we have a special obligation to protect personal information obtained from children. We do not and will not knowingly collect personal information from any child under the age of 16. If for any reason we decide to collect personal information of children between 13 and 16 we will ask for their parent or guardian consent. If you are a parent or guardian and are concerned about the transfer of personal information about your child, please contact privacy@GOG.COM
+3.1 We recognise we have a special obligation to protect personal information obtained from children. We do not and will not knowingly collect personal information from any child under the age of 16. If for any reason we decide to collect personal information of children between 13 and 16 we will ask for their parent or guardian consent. If you are a parent or guardian's and are concerned about the transfer of personal information about your child, please contact privacy@GOG.COM
 
-We cannot and will not knowingly collect personal information about children under 16.  
+We will not knowingly collect personal information about children under 16.  
   
 
 ### 4\. INFORMATION WE COLLECT
@@ -60,7 +60,7 @@ We may also collect additional information when you use other GOG services (see 
 *   (f) if you purchase content via a third party platform which uses our GOG Direct to Account API, the platform may share data with us such as your platform ID, order details or your IP address;
 *   (g) any other information which you supply us via our services;
 
-4.3 GOG GALAXY. If you use GOG GALAXY (including GOG GALAXY store) we will also collect technical logs, information about achievements in games you play and how long you play them; your multiplayer sessions and your activities in the GOG GALAXY app and on other platforms connected to your GOG account for the general operational purposes of GOG GALAXY. If you choose to connect your accounts from other platforms with GOG GALAXY, depending on the features that the particular integration currently supports, GOG will access personal and non-personal information such as your user name and user id, avatar, game list, gametime, game achievements, friend list (user name, user id, avatar) and their status, chat and conversation history. We will not store your account credentials. In addition, if you purchase games using GOG GALAXY store, we will collect information related to your transaction mentioned in point (d) above as well as the relevant product id and product entitlement id. You can read more about this optional account connecting feature in our GOG GALAXY Privacy Notice here. The Privacy Notice forms part of this Privacy Policy.
+4.3 GOG GALAXY. If you use GOG GALAXY (including GOG GALAXY store) we will also collect technical logs, information about achievements in games you play and how long you play them; your multiplayer sessions and your activities in the GOG GALAXY app and on other platforms connected to your GOG account for the general operational purposes of GOG GALAXY. If you choose to connect your accounts from other platforms with GOG GALAXY, depending on the features that the particular integration currently supports, GOG will access personal and non-personal information such as your user name and user id, avatar, game list, gametime, game achievements, friend list (user name, user id, avatar) and their status, chat and conversation history. We will not store your account credentials. In addition, if you purchase games using GOG GALAXY store, we will collect information related to your transaction mentioned in point (d) above as well as the relevant product id and product entitlement id. You can read more about this optional account connecting feature in our GOG GALAXY Privacy Notice [here](https://support.gog.com/hc/articles/360023620554). The Privacy Notice forms part of this Privacy Policy.
 
 When you use GOG GALAXY, GOG collects personal and non-personal information about your activity (specific examples opposite). We need this to run GOG GALAXY and to provide you with its cool features.
 
@@ -91,9 +91,9 @@ If you use GOG GALAXY and choose to link your accounts from other platforms to G
 
 ### 6\. COOKIES
 
-We also collect information about you via cookies. You can find out more about this in our Cookie Policy [here](https://support.gog.com/hc/en-us/articles/115000498685-Cookie-Policy). The Cookie Policy forms part of this Privacy Policy.
+We also collect information about you via cookies. You can find out more about this in our Cookie Policy [here](https://support.gog.com/hc/en-us/articles/115000498685-Cookie-Policy). You can also manage your consents in our Cookie Declaration which you can find in the footnote of our website. The Cookie Policy and Cookie Declaration are a part of this Privacy Policy.
 
-Read our cookie policy too (link opposite).
+Check out our Cookie Policy and Cookie Declaration (links opposite).
 
 ### 7\. WHY DO WE USE YOUR DATA? (LEGAL GROUNDS FOR DATA PROCESSING)
 
@@ -143,7 +143,7 @@ In general, we’ll store your data until you close your GOG account (or GWENT a
 
 We will use your information to run GOG and keep improving it as well as to communicate with you (e.g. with newsletters or emails). Sometimes we may have to share anonymised, non-personal information like operating system types in order to run GOG services.
 
-9.2. Whenever we’re personalizing or targeting our marketing communications, offers and adverts, we may profile your personal information. We do not make however automated decisions (f.ex. via algorithms) that could affect your legal situation. If you decide that you no longer want to receive personalized offers, product recommendations from us, or no advertising news at all, you can object to this at any time. You can also choose whether to receive marketing communication from us, including personalized and targeted marketing emails by managing subscriptions on your GOG Account Subscription page, following the link "unsubscribe" attached to our marketing emails or just contacting us directly here.
+9.2. Whenever we’re personalizing or targeting our marketing communications, offers and adverts, we may profile your personal information. However, we do not make automated decisions (f.ex. via algorithms) that could affect your legal situation. If you decide that you no longer want to receive personalized offers, product recommendations from us, or no advertising news at all, you can object to this at any time. You can also choose whether to receive marketing communication from us, including personalized and targeted marketing emails by managing subscriptions on your GOG Account Subscription page, following the link "unsubscribe" attached to our marketing emails or just contacting us directly here.
 
 9.3 GWENT. If you sign up for, download, use or play GWENT, we will also use your data to: (i) provide access and allow you to play GWENT; (ii) ensure enjoyable gameplay through the analysis of players’ data; (iii) maintain the ranking of Gwent players, (iv) calculate conversion rates and other elements of GWENT performance; (v) maintain technical support services for game users; (vi) identify incidents of game misuse; (vii) target and personalize our marketing communication, offers and advertisements that we display on our websites and services (including in-game marketing) as well as those of third parties based on the combined data we have collected about you.
 
@@ -185,7 +185,7 @@ Our Trusted Partners
 
 In general, we don’t share information about you with third parties. There are exceptions like our Trusted Partners that help us do our thing. They usually help us with things like data analytics, processing payments, internal tools or running a variety of marketing activities.
 
-10.5 During the payment process, we may also share information about you with the following categories of third partners who handle it independently as the so-called data controllers:
+10.5 During the payment process, we may also share information about you with the following categories of third parties who handle it independently as the so-called data controllers:
 
 *   payment-providers for payment processing purposes;
 *   banks and financial institutions to obtain payment;
@@ -205,7 +205,7 @@ You may find links on GOG.COM that lead outside our website. Sometimes we might 
 
 You can use GOG services to access cool stuff from GOG-approved Trusted Partners. We will need to share some personal information with them (which you control). It is up to you if you want to use your GOG account for this or not.
 
-11.3 A quick word about GOG Connect (which you can read more about here). In order for us to provide this (optional) feature to you, we will need access to Valve’s service allowing us to retrieve certain data regarding Steam and games available via Steam (“Steam Data”). We will treat the Steam Data consistent with this Privacy Policy. We will only retrieve Steam Data regarding your Steam account as requested by you and we will notify you what if any Steam Data is stored by us. We will not intercept, store or use your Steam password or login. In accordance with Valve’s requirements, Steam Data is provided: (I) "AS IS," "WITH ALL FAULTS" AND "AS AVAILABLE," AND THE ENTIRE RISK AS TO SATISFACTORY QUALITY, PERFORMANCE, ACCURACY, AND EFFORT IS WITH YOU. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, VALVE, STEAM GAME PUBLISHERS AND DEVELOPERS, AND THEIR SUPPLIERS MAKE NO REPRESENTATIONS, WARRANTIES OR CONDITIONS, EXPRESS OR IMPLIED. VALVE, STEAM GAME PUBLISHERS AND DEVELOPERS, AND THEIR SUPPLIERS EXPRESSLY DISCLAIM ANY AND ALL WARRANTIES OR CONDITIONS, EXPRESS, STATUTORY AND IMPLIED, INCLUDING WITHOUT LIMITATION (A) WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, WORKMANLIKE EFFORT, ACCURACY, TITLE, QUIET ENJOYMENT, NO ENCUMBRANCES, NO LIENS AND NON-INFRINGEMENT, (B) WARRANTIES OR CONDITIONS ARISING THROUGH COURSE OF DEALING OR USAGE OF TRADE, AND (C) WARRANTIES OR CONDITIONS OF UNINTERRUPTED OR ERROR-FREE ACCESS OR USE. (II) IN NO EVENT WILL VALVE OR ANY SUPPLIER BE LIABLE FOR ANY DAMAGES, INCLUDING WITHOUT LIMITATION ANY INDIRECT, CONSEQUENTIAL, SPECIAL, INCIDENTAL, OR PUNITIVE DAMAGES ARISING OUT OF, BASED ON, OR RESULTING FROM ITS API TERMS OF USE OR YOUR USE OF STEAM WEB API, STEAM DATA, OR VALVE BRAND & LINKS, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE EXCLUSION OF DAMAGES UNDER THIS PARAGRAPH IS INDEPENDENT OF YOUR EXCLUSIVE REMEDY AND SURVIVES IN THE EVENT SUCH REMEDY FAILS OF ITS ESSENTIAL PURPOSE OR IS OTHERWISE DEEMED UNENFORCEABLE. THESE LIMITATIONS AND EXCLUSIONS APPLY WITHOUT REGARD TO WHETHER THE DAMAGES ARISE FROM (A) BREACH OF CONTRACT, (B) BREACH OF WARRANTY, (C) NEGLIGENCE, OR (D) ANY OTHER CAUSE OF ACTION, TO THE EXTENT SUCH EXCLUSION AND LIMITATIONS ARE NOT PROHIBITED BY APPLICABLE LAW. IF YOU DO NOT AGREE WITH ANY PART OF THE ABOVE, OR YOU HAVE ANY DISPUTE OR CLAIM AGAINST VALVE OR ITS SUPPLIERS WITH RESPECT TO THE ABOVE, THEN YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE STEAM WEB API, STEAM DATA, AND VALVE BRAND & LINKS.
+11.3 A quick word about GOG Connect (which you can read more about [here](https://www.gog.com/connect)). In order for us to provide this (optional) feature to you, we will need access to Valve’s service allowing us to retrieve certain data regarding Steam and games available via Steam (“Steam Data”). We will treat the Steam Data consistent with this Privacy Policy. We will only retrieve Steam Data regarding your Steam account as requested by you and we will notify you what if any Steam Data is stored by us. We will not intercept, store or use your Steam password or login. In accordance with Valve’s requirements, Steam Data is provided: (I) "AS IS," "WITH ALL FAULTS" AND "AS AVAILABLE," AND THE ENTIRE RISK AS TO SATISFACTORY QUALITY, PERFORMANCE, ACCURACY, AND EFFORT IS WITH YOU. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, VALVE, STEAM GAME PUBLISHERS AND DEVELOPERS, AND THEIR SUPPLIERS MAKE NO REPRESENTATIONS, WARRANTIES OR CONDITIONS, EXPRESS OR IMPLIED. VALVE, STEAM GAME PUBLISHERS AND DEVELOPERS, AND THEIR SUPPLIERS EXPRESSLY DISCLAIM ANY AND ALL WARRANTIES OR CONDITIONS, EXPRESS, STATUTORY AND IMPLIED, INCLUDING WITHOUT LIMITATION (A) WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, WORKMANLIKE EFFORT, ACCURACY, TITLE, QUIET ENJOYMENT, NO ENCUMBRANCES, NO LIENS AND NON-INFRINGEMENT, (B) WARRANTIES OR CONDITIONS ARISING THROUGH COURSE OF DEALING OR USAGE OF TRADE, AND (C) WARRANTIES OR CONDITIONS OF UNINTERRUPTED OR ERROR-FREE ACCESS OR USE. (II) IN NO EVENT WILL VALVE OR ANY SUPPLIER BE LIABLE FOR ANY DAMAGES, INCLUDING WITHOUT LIMITATION ANY INDIRECT, CONSEQUENTIAL, SPECIAL, INCIDENTAL, OR PUNITIVE DAMAGES ARISING OUT OF, BASED ON, OR RESULTING FROM ITS API TERMS OF USE OR YOUR USE OF STEAM WEB API, STEAM DATA, OR VALVE BRAND & LINKS, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE EXCLUSION OF DAMAGES UNDER THIS PARAGRAPH IS INDEPENDENT OF YOUR EXCLUSIVE REMEDY AND SURVIVES IN THE EVENT SUCH REMEDY FAILS OF ITS ESSENTIAL PURPOSE OR IS OTHERWISE DEEMED UNENFORCEABLE. THESE LIMITATIONS AND EXCLUSIONS APPLY WITHOUT REGARD TO WHETHER THE DAMAGES ARISE FROM (A) BREACH OF CONTRACT, (B) BREACH OF WARRANTY, (C) NEGLIGENCE, OR (D) ANY OTHER CAUSE OF ACTION, TO THE EXTENT SUCH EXCLUSION AND LIMITATIONS ARE NOT PROHIBITED BY APPLICABLE LAW. IF YOU DO NOT AGREE WITH ANY PART OF THE ABOVE, OR YOU HAVE ANY DISPUTE OR CLAIM AGAINST VALVE OR ITS SUPPLIERS WITH RESPECT TO THE ABOVE, THEN YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE STEAM WEB API, STEAM DATA, AND VALVE BRAND & LINKS.
 
 If you’d like to use our GOG Connect feature, we’ll require access to your “Steam Data” (more info opposite). There are some legal rules that Valve requires us to follow.  
   
@@ -246,7 +246,7 @@ You may have additional privacy rights (see opposite).
 
 14.1 We may change this Privacy Policy if we think it's necessary for legal reasons or to reflect changes in GOG services. If so, we will make the changed Privacy Policy available online and (if you have a GOG account) we'll email you to explain the changes. We will also update the “Last Updated” date.
 
-We might make changes to our Privacy Policy but whenever we do we’ll display the changes online. These usually take effect after 30 days. Feel free to contact us if you have any questions about the changes.
+We might make changes to our Privacy Policy but whenever we do we’ll display the changes online. Feel free to contact us if you have any questions about the changes.
 
 ### 15\. USER AGREEMENT
 
@@ -254,6 +254,6 @@ We might make changes to our Privacy Policy but whenever we do we’ll display t
 
 Just a reminder to check our User Agreement as well.
 
-Last updated: 05.10.2020
+Last updated: 02.08.2021
 
-(See the previous version of the Privacy Policy [here](%20https://support.gog.com/hc/articles/360009921554))
+(See the previous version of the Privacy Policy [here](https://support.gog.com/hc/en-us/articles/360009921554?product=gog))
