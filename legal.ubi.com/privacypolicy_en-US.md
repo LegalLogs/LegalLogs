@@ -70,6 +70,8 @@ To refuse Cookies or request their deletion as well as obtain the list of partne
 
 You can also adjust your browser settings to understand when these Cookies are stored on your device or to disable the Cookies by consulting your browser’s “Help” menu. Please note that these settings may affect your ability to shop online or to access certain features of our Services whenever these Cookies are needed for the operation of our Services.
 
+*   Ubisoft, may on iOS games, integrate Apple’s TrueDepth API to provide you with the animoji feature. If you choose to use this feature, the TrueDepth API allows the game to use the camera of the Iphone to change your face for a in-game character face. No face data nor any other biometric data is stored or sent to Ubisoft servers or any third party. If you want to opt-out please consult [https://legal.ubi.com/cookies/](https://legal.ubi.com/cookies/). 
+
 #### **e)** **You play a Ubisoft game on your console.**
 
 We may collect Data such as your age, country, user name and email address, which has been provided on your consoles in order to simplify the creation of your Account.
