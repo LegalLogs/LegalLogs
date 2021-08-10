@@ -155,7 +155,7 @@ In some jurisdictions, you may have statutory rights with regards to your purcha
 
 **Our Voluntary Refund Policy**
 
-7.3. We understand that sometimes a purchase doesn't turn out how you expected and we want to be fair to GOG users. This is why on top of your statutory refund rights (described in section 7.1.-7.2. above) we’re may offering you a Voluntary Refund Policy described [here](https://support.gog.com/hc/en-us/articles/360013611798-GOG-GALAXY-store-Voluntary-Refund-Policy?product=gog). In some rare cases if we have reasonable doubts regarding your refund request we may not apply the Voluntary Refund Policy. In no case this will deprive you of any applicable statutory refund rights. A sale is considered final once your refund rights expire (unless we agree otherwise on a case by case basis).
+7.3. We understand that sometimes a purchase doesn't turn out how you expected and we want to be fair to GOG users. This is why on top of your statutory refund rights (described in section 7.1.-7.2. above) we may offer you a Voluntary Refund Policy described [here](https://support.gog.com/hc/en-us/articles/360013611798-GOG-GALAXY-store-Voluntary-Refund-Policy?product=gog). In some rare cases if we have reasonable doubts regarding your refund request we may not apply the Voluntary Refund Policy. In no case this will deprive you of any applicable statutory refund rights. A sale is considered final once your refund rights expire (unless we agree otherwise on a case by case basis).
 
 We're happy to offer you our assistance according to our Voluntary Refund Policy on top of your statutory refund rights (see details opposite).  
   
