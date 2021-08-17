@@ -41,7 +41,7 @@ We may withdraw or amend the Services, and any related service or content, or re
   
 To access certain Services, you will be asked to provide registration details or other information, and in order to use such resources, all the information you provide must be correct, current, and complete. From time to time, in order to access the Services or certain games, services, or functionality, Epic may require some or all users to download updated or additional software. The terms of use of such software may be subject to separate agreement between you and Epic.  
   
-If you choose, or are provided with, a user name, password, or any other piece of information as part of our security procedures, you must treat such information as confidential (other than user name), and you must not disclose it to others. You must immediately notify Epic (via piracy@unrealengine.com) of any unauthorized use of your user name or password or any other breach of security. You should use particular caution when accessing your account from a public or shared computer so that others are not able to view or record your password or other personal information. You may only access the Services through your own account. Users do not own their accounts, and gifting or otherwise transferring of accounts or access keys is prohibited.  
+If you choose, or are provided with, a user name, password, or any other piece of information as part of our security procedures, you must treat such information as confidential (other than user name), and you must not disclose it to others. You must immediately notify Epic (via piracy@support.epicgames.com) of any unauthorized use of your user name or password or any other breach of security. You should use particular caution when accessing your account from a public or shared computer so that others are not able to view or record your password or other personal information. You may only access the Services through your own account. Users do not own their accounts, and gifting or otherwise transferring of accounts or access keys is prohibited.  
   
 We reserve the right to change your display name if we deem it offensive, misleading, potentially infringing the rights of third parties or if you have been inactive for more than a year.  
   
@@ -215,7 +215,7 @@ Epic Games, Inc.
 620 Crossroads Blvd.  
 Cary, NC 27518  
 Telephone: (919) 854-0070  
-Email: dmca@epicgames.com  
+Email: dmca@support.epicgames.com  
   
 Please include all of the following in your DMCA Notice:
 
