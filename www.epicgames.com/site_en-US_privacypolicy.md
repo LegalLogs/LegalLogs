@@ -1,7 +1,7 @@
 EPIC GAMES PRIVACY POLICY
 =========================
 
-Last updated on March 31st, 2020
+Last updated on August 17, 2021
 
 The Epic Games Privacy Policy is designed to help you better understand the information we collect and the different ways we may use or share it. 
 
@@ -186,7 +186,7 @@ How to Contact Us
 
 If you have general questions or concerns about the Epic services (such as game-related issues, trouble accessing your Epic account, bugs or other technical problems, payment matters, or content and entitlement issues), please contact our Player Support team.
 
-To learn more about Epic’s privacy practices or this policy, please email your questions to [privacy@epicgames.com](mailto:privacy@epicgames.com) or send them to us via postal mail (marked “Attn: Legal Department”) at the appropriate address listed below. You can also contact our Data Protection Officer directly at [dpo@epicgames.com](mailto:dpo@epicgames.com). The Epic entity identified below is responsible for providing the Epic services to your region and is the controller of personal data collected under this policy.
+To learn more about Epic’s privacy practices or this policy, please email your questions to [privacy@support.epicgames.com](mailto:privacy@epicgames.com) or send them to us via postal mail (marked “Attn: Legal Department”) at the appropriate address listed below. You can also contact our Data Protection Officer directly at [dpo@support.epicgames.com](mailto:dpo@epicgames.com). The Epic entity identified below is responsible for providing the Epic services to your region and is the controller of personal data collected under this policy.
 
 _If you reside in the United States of America:_
 
