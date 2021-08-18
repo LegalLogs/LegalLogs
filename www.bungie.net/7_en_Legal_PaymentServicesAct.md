@@ -1,10 +1,9 @@
-### Payment Services Act (Japan)(Last updated March 23, 2021)
+### Payment Services Act (Japan)Last Updated: 5 months ago
 
 **Notice in Accordance with the Payment Services Act:**  
 The Payment Services Act applies to the following products from Destiny and Destiny 2. Please refer to each notice when using these products.  
   
 [Destiny 2 – Silver](https://www.bungie.net/7/en/Legal/PaymentServicesAct#silver)  
-
 [Promotion code for Destiny 2: Forsaken Legendary Collection (Includes Expansion I: Curse of Osiris, Expansion II: Warmind and Forsaken)](https://www.bungie.net/7/en/Legal/PaymentServicesAct#forsaken)  
 [Promotion code for Destiny: The Collection (Includes Expansion I, Expansion II, The Taken King, and Rise of Iron)](https://www.bungie.net/7/en/Legal/PaymentServicesAct#collection)  
   
@@ -14,9 +13,7 @@ Silver
 **Publishing & Inquiries:**  
 Bungie Japan G.K.  
 4F Meiji Yasuda Seimei Meidaimae Bldg., 2-41-11, Matsubara, Setagaya-ku, Tokyo  
-(For Support [https://www.bungie.net/en/Support](https://www.bungie.net/en/Support))
-
-  
+(For Support [https://www.bungie.net/en/Support](https://www.bungie.net/en/Support))  
 **Purchase Limit, Etc**  
 No limit  
 **Duration Active**  
@@ -27,7 +24,6 @@ Used for in-game purchases in Destiny 2 (PlayStation®4 version).
 Purchases cannot be refunded except when online service ends  
 [For further information, see the Bungie.net Terms of Use](https://www.bungie.com/7/en/legal/terms)  
 **Viewing Remaining Balance**  
-
 After buying silver, you can check remaining silver within Destiny 2 (PlayStation®4 version) by either a) selecting the "Silver" icon at the top of the character details screen, or b) selecting "Silver" at the top of the screen when accessing Eververse via social spaces such as The Farm or The Tower.  
 **Terms of Service**  
 [See the Bungie.net Terms of Use.](https://www.bungie.com/7/en/legal/terms) **Notice in Accordance with the Payment Services Act (Promotion Codes):**  
