@@ -124,7 +124,7 @@ For example, we will keep the Data associated with your Account until the closur
 
 We may share your Data with:
 
-*   Ubisoft subsidiaries involved in the administration of the Services. You can find more information about the group on our dedicated website: [https://www.ubisoft.com/en-us/company/overview.aspx](https://www.ubisoft.com/en-us/company/overview.aspx)
+*   Ubisoft subsidiaries involved in the administration of the Services (Ketchapp, Green Panda Games, Kolibri Games, ...). You can find more information about the group on our dedicated website: [https://www.ubisoft.com/en-us/company/overview.aspx](https://www.ubisoft.com/en-us/company/overview.aspx)
 
 *   The technical service providers involved in the supply of the Services (for example, product delivery, promotion of the Services, to act against inappropriate conduct, cheating and toxic behaviour). As subcontractors, these service providers are under the same obligations as Ubisoft to comply with applicable personal data protection laws.
 
@@ -243,12 +243,12 @@ To opt out of having information about you shared with third parties for direct 
 
 *   ##### Right to Access:
     
-    *   Requests made in the United States: 15,655
+    *   Requests made in the United States: 15,640
     *   Requests denied: 382
     *   Average completion time: within 24hrs.
 *   ##### Right to Deletion:
     
-    *   Requests made in the United States: 26,333
+    *   Requests made in the United States: 26,309
     *   Requests denied: 0
     *   Average completion time: 30 days
 *   ##### Right to Opt-out from the Sale of Personal Information:
