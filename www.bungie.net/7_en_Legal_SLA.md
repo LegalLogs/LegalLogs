@@ -1,4 +1,4 @@
-### Limited Software License AgreementLast Updated: 2 days ago
+### Limited Software License AgreementLast Updated: 4 days ago
 
 The Agreement prior to August 17, 2021 included a BINDING ARBITRATION clause that, for residents of the United States or users of the Program in the United States, allowed either party to the Agreement to initiate binding arbitration as the sole means to resolve claims arising out of the Agreement, subject to JAMS. “Arising out of the Agreement” means, specifically, claims relating to the interpretation, formation, performance, or breach of the Agreement, the parties’ relationship with each other, and/or your use of the Program. Changes made to this agreement on or after August 17, 2021, go into effect as of the date posted, except that the BINDING ARBITRATION clause located [**at this link**](https://assets.contentstack.io/v3/assets/blte410e3b15535c144/blt9597f6b19732f1a1/611447c95780ae139064381e/SLA_Bungie.net.pdf) will remain in effect until sixty (60) days after August 17, 2021, or until October 16, 2021.
 
