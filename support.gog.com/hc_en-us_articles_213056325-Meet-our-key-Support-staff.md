@@ -24,12 +24,6 @@ General Support
 **Hobbies:** Gaming, anime(Naruto and Gintama forever), reading(fantasy and sci-fi).  
 **Favorite games:** Metal Gear Solid series, Final Fantasy XIV: A Realm Reborn, The Walking Dead Season 1, Yakuza series, NieR:Automata, The Witcher 3.
 
-**Irrehaare (Michał)**  
-**Customer Support Representative**  
-**Hobbies:** Books, games (seriously), movies, Witcher lore, American politics and history, astrophysics, avid Lego builder.  
-**Favorite games:** Gwent (current CDPR champion, not to brag), Red Dead Redemption 2, Mass Effect series, Assassin's Creed series, The Witcher series, Theme Hospital (though Two Point Hospital is slowly taking it's place), Populous 3.  
-Newly found passion for indie games: Hollow Knight, Dead Cells, Darkest Dungeon or Baba is You, just to name a few.
-
 **Mali1338 (Matthias)**  
 **Customer Support Representative**  
 **Hobbies:** Gaming, Traveling, Sports (Skiing, weightlifting).  
@@ -39,16 +33,6 @@ Newly found passion for indie games: Hollow Knight, Dead Cells, Darkest Dungeon 
 **Customer Support Representative**  
 **Hobbies:** fantasy and science fiction, video games, archery, digital art, crocheting, LARP, DnD.  
 **Favorite games:**World of Warcraft, The Witcher series, Overwatch, Dragon Age series, The Last of Us, Uncharted series, Monster Hunter: World, Fallout series, Project Winter, Valheim  
-
-**Orcan (Szymon)  
-****Customer Support Representative  
-****Hobbies:** Gaming, live streaming/broadcasting, anime, fantasy/sci-fi movies, space (space is so cool)  
-**Favorite games****:** Mass Effect series (not Andromeda) The Elder Scrolls (Morrowind and Skyrim) Destiny 2, Final Fantasy XIV (MMO), NieR: Automata, Yakuza series and most of the anime fighting games (Dragon Ball, Naruto, My Hero Academia etc etc.)
-
-**Sim0nSays (Szymon)**  
-**Customer Support Representative**  
-**Hobbies:** Traditional Karate, Sci-Fi and Fantasy Literature, Everything related to China and Japan, New Hardware Technologies  
-**Favorite games:** Hitman (1 - 4), Splinter Cell series, Call of Duty (up to MW3), Gothic series, Warhammer 40k: Dawn of War, GTA series, Terraria, Prince of Persia, Assassin's Creed (1 - 2)
 
 **Tixije (Jérémy)**  
 **Customer Support Representative**  
@@ -67,11 +51,6 @@ Technical Support
 **Tech Support Supervisor**  
 **Hobbies:** Playing video games on PC and PS4, watching movies and TV series.  
 **Favorite game:** The original Deus Ex.
-
-**Cwaniak (Maciej)**  
-**Software Support Specialist**  
-**Hobbies:** Games, ethical hacking.  
-**Favorite games:** The Elder Scrolls V: Skyrim, Counter-Strike: Global Offensive, The Witcher, DOTA 2.
 
 **Cypers (Cyprian)**  
 **Tech Support Representative**  
@@ -102,3 +81,22 @@ Technical Support
 **Customer Support Representative**  
 **Hobbies:** Surfing the web, listening to music, sightseeing and playing games of course 🙂  
 **Favorite games:** The Elder Scrolls IV: Oblivion, Star Wars: Knights of the Old Republic (1, 2), Grand Theft Auto (2, Vice City, San Andreas, IV), Diablo 2, F.E.A.R., Batman: Arkham Asylum, Gun, Half Life 2, Mafia, Mass Effect (1, 2), Max Payne 2, Sid Meier’s Pirates!, Civilization V, S.T.A.L.K.E.R.: Shadow of Chernobyl, Stubbs the Zombie, True Crime: Streets of LA, Need for Speed: Underground 2, Dead Space, Detroit: Become Human, Heavy Rain, Space Rangers 2, The Wolf Among Us, The Walking Dead, Streets of Rage, Battletoads, The Chronicles of Riddick: Escape from Butcher Bay, Star Wars: Republic Commando, Machinarium and such.
+
+Software Support
+----------------
+
+**Cwaniak (Maciej)**  
+**Software Support Specialist**  
+**Hobbies:** Games, ethical hacking.  
+**Favorite games:** The Elder Scrolls V: Skyrim, Counter-Strike: Global Offensive, The Witcher, DOTA 2.
+
+**Irrehaare (Michał)**  
+**Customer Support Representative**  
+**Hobbies:** Books, games (seriously), movies, Witcher lore, American politics and history, astrophysics, avid Lego builder.  
+**Favorite games:** Gwent (current CDPR champion, not to brag), Red Dead Redemption 2, Mass Effect series, Assassin's Creed series, The Witcher series, Theme Hospital (though Two Point Hospital is slowly taking it's place), Populous 3.  
+Newly found passion for indie games: Hollow Knight, Dead Cells, Darkest Dungeon or Baba is You, just to name a few.
+
+**Orcan (Szymon)  
+****Customer Support Representative  
+****Hobbies:** Gaming, live streaming/broadcasting, anime, fantasy/sci-fi movies, space (space is so cool)  
+**Favorite games****:** Mass Effect series (not Andromeda) The Elder Scrolls (Morrowind and Skyrim) Destiny 2, Final Fantasy XIV (MMO), NieR: Automata, Yakuza series and most of the anime fighting games (Dragon Ball, Naruto, My Hero Academia etc etc.)
