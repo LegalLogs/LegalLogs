@@ -1,4 +1,4 @@
-### Limited Software License AgreementLast Updated: 19 hours ago
+### Limited Software License AgreementLast Updated: a day ago
 
 For all purposes, this English language version of this Agreement shall be the original, governing instrument and understanding of the parties. In the event of any conflict between this English language version of the Agreement and any subsequent translation into any other language, this English language version shall govern and control.
 
