@@ -2,7 +2,7 @@ This website is edited by Ubisoft EMEA, a French SAS company registered under th
 
 VAT Number : FR79432573624
 
-Customer support: [http://support.ubi.com](http://support.ubi.com)
+Customer support: http://support.ubi.com 
 
 \-
 
