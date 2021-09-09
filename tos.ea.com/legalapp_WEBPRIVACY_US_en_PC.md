@@ -79,7 +79,7 @@ We may receive information about you contained in third-party user accounts when
 *   **PlayStation®3 System, PlayStation®4 System, & PlayStation®5 Console.** Sony provides information from your account for PlayStation™Network such as your Online ID, email address, country, language, friend list, date of birth, and certain preferences.  
       
     
-*   **Xbox Live.** Microsoft provides information such as your Gamertag, email address, country, language, friend list, date of birth, and certain preferences.  
+*   **Xbox network.** Microsoft provides information such as your Gamertag, email address, country, language, friend list, date of birth, and certain preferences.  
       
     
 *   **Wii / Wii U / Nintendo Switch™.** Nintendo provides (as applicable to the device you have) information such as your Mii character, nickname, Nintendo Network ID, Nintendo Account, email address, country, language, friend list, date of birth, and certain preferences.  
