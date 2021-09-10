@@ -1,4 +1,4 @@
-### Code of ConductLast Updated: a year ago
+### Code of ConductLast Updated: 2 years ago
 
 Here at Bungie, we create worlds that inspire friendship.
 ---------------------------------------------------------
