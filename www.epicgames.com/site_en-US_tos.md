@@ -12,8 +12,7 @@ PLEASE READ THESE TERMS CAREFULLY BEFORE YOU START TO USE THE SERVICES. BY USING
 1.  You are also agreeing to other Epic rules and policies that are expressly incorporated into and a part of these Terms. Please read them carefully:
 
 *   Our [Privacy Policy](https://www.epicgames.com/site/en-US/privacypolicy) [](https://www.epicgames.com/privacypolicy) explains what information we collect from you and how we protect it.
-*   Our [Fan Content Policy](https://www.epicgames.com/site/en-US/fan-art-policy) explains what you can do with Epic’s Intellectual Property in the content you create.  
-*   Our [Terms of Service](https://www.epicgames.com/site/en-US/tos) explain the rules for our websites. 
+*   Our [Fan Content Policy](https://www.epicgames.com/site/en-US/fan-art-policy) explains what you can do with Epic’s Intellectual Property in the content you create.
 
 2.  You and Epic agree to resolve disputes between us in individual arbitration (not in court). We believe the alternative dispute-resolution process of arbitration will resolve any dispute fairly and more quickly and efficiently than formal court litigation. We explain the process in detail below, but we’ve put this up front (and in caps) because it’s important:
 
