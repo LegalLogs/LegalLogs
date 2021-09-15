@@ -31,7 +31,7 @@ TABLE OF CONTENTS
 1\. Information We Collect
 --------------------------
 
-The information we collect depends on what Services you 8.use and how you use them. Please see below for more details.
+The information we collect depends on what Services you use and how you use them. Please see below for more details.
 
 ### A. Information You Give Us Directly
 

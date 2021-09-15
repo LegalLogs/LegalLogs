@@ -35,7 +35,7 @@ The personal information that Twitch disclosed about consumers for a business pu
 
 You may have the right under the California Consumer Privacy Act to request information about the collection of your personal information by Twitch, or access to or deletion of your personal information. If you wish to do any of these things, please visit our [Privacy Choices](https://www.twitch.tv/p/legal/privacy-choices/) page, which provides more information. There you will find the most expedient ways to get a response to your request. However, if you prefer, you may contact us at the following email address: privacy@twitch.tv.
 
-Please note that certain information may be exempt from such requests under California law and that, depending on your data choices, certain services may be limited or unavailable. We will not discriminate against you for exercising your rights.
+Please note that certain information may be exempt from such requests under California law and that, depending on your data choices, certain services may be limited or unavailable. We will not discriminate against you for exercising your rights.  If you do not have an account, or if you are an authorized agent under CCPA, email us [here](mailto:privacy@twitch.tv).
 
 #### D. No Sale of Personal Information
 
