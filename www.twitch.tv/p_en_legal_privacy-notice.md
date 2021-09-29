@@ -27,7 +27,7 @@ Storage and access to cookies that are set in connection with the Twitch Service
 14.  [International Data Transfers](#international-data-transfers)
 15.  [Changes and Updates to This Privacy Notice](#changes-and-updates-to-this-privacy-notice)
 16.  [Twitch Contact Information](#twitch-contact-information)
-17.  [California Privacy Disclosures](#california-privacy-disclosures)
+17.  [Additional Information for Certain Jurisdictions](#additional-information-for-certain-jurisdictions)
 
 #### Personal Information Twitch Collects About You
 
@@ -143,6 +143,12 @@ Please contact Twitch with any questions or comments about this Privacy Notice a
 
 For the purposes of the General Data Protection Regulation, Twitch UK Limited has been designated by Twitch Interactive, Inc. as its representative in the EU to act on its behalf with regard to its obligations under Article 27 of the General Data Protection Regulation. Please contact Twitch UK with any questions (including questions about your rights) or comments about this Privacy Notice at 1 New Oxford Street WC1A 1BA, UK or by email to privacy@twitch.tv.
 
-#### California Privacy Disclosures
+#### Additional Information for Certain Jurisdictions
+
+##### California Privacy Disclosures
 
 [Click here](/p/en/legal/california-privacy-disclosure) to read additional disclosures required under the California Consumer Privacy Act and other California laws.
+
+##### Republic of Korea Privacy Disclosures
+
+[Click here](/p/en/legal/republic-of-korea-privacy-disclosures) to read additional disclosures required under the Personal Information Protection Act.
