@@ -32,7 +32,7 @@ WE DON’T TOLERATE:
 *   Posting cheats, hacks, game exploits, and game spoilers - unless you clearly note that this is what your post is about at the top of it.
 *   Threats of violence, harassment or privacy breach - even as a joke.
 *   Using a third party’s intellectual property (full or partial scans of articles, books, full transcriptions of articles, etc.) unless you have permission to do so.
-*   Selling (including real-life or in-game trading), advertising, referrals, auctioning - unless this applies to giveaways.
+*   Selling (including real-life or in-game trading), advertising, referrals, links to other stores, auctioning - unless this applies to giveaways.
 *   Use of language that is abusive, vulgar, hateful, defamatory, obscene, profane, threatening, privacy-invasive, or law-violating.
 *   Encouraging anyone else to break these rules.
 *   Taking any other actions that are deemed inappropriate by GOG at our sole discretion.
