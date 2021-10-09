@@ -233,29 +233,48 @@ This privacy notice for California Residents supplements the information conta
 
 **Minors:** We may share or “sell” your personal information as described in Minors of our Privacy Policy.
 
-**Your Rights and Choices****:** You have the right to (1) request more information about the categories and specific pieces of Data we have collected, sold and disclosed for a business purpose in the last 12 months, (2) deletion of your Data, and (3) opt out of the sale of your Data, if applicable, and (4) be free from discrimination for exercising your rights under the CCPA. To exercise your rights described above, please submit a verifiable consumer request to us as specified in our Privacy Policy. 
+**Your Rights and Choices****:** You have the right to (1) request more information about the categories and specific pieces of Data we have collected, sold and disclosed for a business purpose in the last 12 months, (2) deletion of your Data, and (3) be free from discrimination for exercising your rights under the CCPA. To exercise your rights described above, please submit a verifiable consumer request to us as specified in our Privacy Policy.
+
+Some US states have enacted laws (including the CCPA) that give you the ability to opt out of the sale of your Data to third parties. In effect, this will disable targeted advertising provided by Ubisoft’s third-party partners, which means that Ubisoft will no longer share your Data with third-party partners to customize your advertising experience.
+
+ Ubisoft enables you to do so by using the following privacy controls. 
+
+*   **On Ubisoft websites**: please find on our [Cookies Page](https://legal.ubi.com/cookies/) the list of third parties that may implement and/or access cookies on your computer or mobile device. You can opt-out from third-party cookies at any time by clicking on the link “Set Cookies” at the bottom of each Ubisoft webpage. Switching the checkbox to “Off” for all cookies other than “Essential cookies” will prevent third parties from using cookies to track your activity on Ubisoft websites.  
+      
+    
+*   **On your Ubisoft Account**: you can opt-out of the sale of your personal data at any time by logging in to your Ubisoft [Account Management Page](https://account.ubisoft.com/en-US/). You can then access the “Privacy and communication” Section, then click “Manage” in the box labeled "Ubisoft advertising on partner websites” and set it to “No”.  
+      
+    
+*   **On mobile games:** to opt out of the sale of your personal information on mobile game, please navigate to the “Privacy Settings” section in the game's Settings menu, then un-check the box “I accept that Ubisoft process my data for its own use and/or shares it with trusted partners for marketing purposes.” You may also opt out of the sale of your personal information directly in the settings menu of your telephone or tablet by activating “Limit Ad Tracking” on Apple telephones, or “Opt-out of Ads Personalization” on Android telephones. Ubisoft games also include mechanism available for players to opt out from the sale of their game data. Please visit the settings menu of each game to learn more.
+
+You can also opt-out of the sale of your Data by contacting our customer support team using [this support form](https://support.ubisoft.com/Cases/New?game=50003&platform=29&category=389&hidefields=all&gf=1&af=1).  
 
 If we need additional information to verify your identity, we will contact you to request that information. If we are not able to verify your identity, we will deny your request. If you would like to designate an authorized agent to make a request on your behalf, you must (i) provide the agent signed permission to do so, (ii) provide proof of your identity, and (iii) directly confirm you provided the authorized agent permission to submit the request. If we do not receive the above, we will deny the request.
 
-To opt out of having information about you shared with third parties for direct marketing purposes please visit Section 6 “What are your rights and how do you exercise your rights?”
+**California Consumers Requests – Metrics Reporting for 2020**:  
+  
 
-**California Consumers Requests – Metrics Reporting for 2020**:
-
-*   ##### Right to Access:
+*   **Right to Access**:
     
     *   Requests made in the United States: 15,640
     *   Requests denied: 382
-    *   Average completion time: within 24hrs.
-*   ##### Right to Deletion:
+    *   Average completion time: within 24hrs.  
+          
+        
+*   **Right to Deletion**:
     
     *   Requests made in the United States: 26,309
     *   Requests denied: 0
-    *   Average completion time: 30 days
-*   ##### Right to Opt-out from the Sale of Personal Information:
+    *   Average completion time: 30 days  
+          
+        
+*   **Right to Opt-out from the Sale of Personal Information**:
     
     *   Requests made in the United States: 10,699
     *   Requests denied: 0
-    *   Average completion time: within 24hrs.
+    *   Average completion time: within 24hrs.  
+          
+        
 
 **California Shine the Light Law:** California Civil Code Section 1798.83 permits users of services that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please submit a verifiable consumer request to us by either:
 
