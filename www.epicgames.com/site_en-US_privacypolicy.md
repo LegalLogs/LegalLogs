@@ -186,7 +186,7 @@ How to Contact Us
 
 If you have general questions or concerns about the Epic services (such as game-related issues, trouble accessing your Epic account, bugs or other technical problems, payment matters, or content and entitlement issues), please contact our Player Support team.
 
-To learn more about Epic’s privacy practices or this policy, please email your questions to [privacy@support.epicgames.com](mailto: privacy@support.epicgames.com) or send them to us via postal mail (marked “Attn: Legal Department”) at the appropriate address listed below. You can also contact our Data Protection Officer directly at [dpo@support.epicgames.com](mailto:dpo@epicgames.com). The Epic entity identified below is responsible for providing the Epic services to your region and is the controller of personal data collected under this policy.
+To learn more about Epic’s privacy practices or this policy, please email your questions to [privacy@support.epicgames.com](mailto: privacy@support.epicgames.com) or send them to us via postal mail (marked “Attn: Legal Department”) at the appropriate address listed below. You can also contact our Data Protection Officer directly at [dpo@support.epicgames.com](mailto:dpo@support.epicgames.com). The Epic entity identified below is responsible for providing the Epic services to your region and is the controller of personal data collected under this policy.
 
 _If you reside in the United States of America:_
 
