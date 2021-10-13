@@ -2,7 +2,7 @@
   
 LAST UPDATED: APRIL 14, 2021  
   
-These terms describe your rights to access EA Play. EA may revise these terms at any time in its sole discretion. If any revisions are made, we change the "Last Updated" date above and post the revised terms at [https://tos.ea.com/legalapp/eaplay/US/en/PC/](https://tos.ea.com/legalapp/eaplay/US/en/PC/). Revisions to terms affecting existing EA Play subscriptions shall be effective 30 days from posting at [https://tos.ea.com/legalapp/eaplay/US/en/PC/](https://tos.ea.com/legalapp/eaplay/US/en/PC/).  
+These terms describe your rights to access EA Play. EA may revise these terms at any time in its sole discretion. If we make any revisions, we will change the "Last Updated" date above and post the revised terms at [https://tos.ea.com/legalapp/eaplay/US/en/PC/](https://tos.ea.com/legalapp/eaplay/US/en/PC/). Revisions to terms affecting existing EA Play subscriptions shall be effective 30 days from posting at [https://tos.ea.com/legalapp/eaplay/US/en/PC/](https://tos.ea.com/legalapp/eaplay/US/en/PC/).  
   
 EA Play subscriptions are purchased from the following platforms ("Platforms"):
 
@@ -39,7 +39,7 @@ EA Play subscriptions are purchased from the following platforms ("Platforms"):
     [https://playstation.com/en-gb/legal/playstation-store-and-sony-entertainment-network-store-cancellation-policy/](https://playstation.com/en-gb/legal/playstation-store-and-sony-entertainment-network-store-cancellation-policy/) for purchases from SIENE.
 
   
-To subscribe, complete your selected Platform’s purchase process; Platform account and acceptance of applicable Platform terms and conditions required. Recurring renewal payments will be taken from your selected payment method according to your subscription purchase. See Platform retailer site for more information including cancellation rights. Purchase of an EA Play subscription on one Platform does not enable a user to access the EA Play services on another platform. After cancellation, you can continue to play until the end of the current subscription period.  
+To subscribe, complete your selected Platform’s purchase process; Platform account and acceptance of applicable Platform terms and conditions required. Recurring renewal payments will be taken from your selected payment method according to your subscription purchase. See Platform retailer site for more information including cancellation rights. Purchase of an EA Play subscription on one Platform does not enable a user to access the EA Play services on another Platform. After cancellation, you can continue to play until the end of the current subscription period.  
   
 Conditions, limitations and exclusions may apply. Availability of member benefits and Play List titles may vary by platform and territory and may change from time to time. Certain titles may not be available to some players because of age rating restrictions. See [www.ea.com/ea-play](https://www.ea.com/ea-play) for details.  
   
