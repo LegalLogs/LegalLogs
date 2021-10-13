@@ -251,7 +251,7 @@ As used in this Agreement, the following capitalized words have the following me
   
 a. Epic Games, Inc., a Maryland Corporation having its principal business offices at Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A.; or  
   
-b. Epic Games International S.à r.l., a Luxembourg Société à Responsibilité Limitée, located at Atrium Business Park, 33 rue du Puits Romain, L8070 Bertrange, Grand-Duchy of Luxembourg, acting through its Swiss branch, having its principal business offices at Platz 3, 6039 Root, Switzerland.  
+b. Epic Games International S.à r.l., a Luxembourg Société à Responsibilité Limitée, located at Atrium Business Park, 33 rue du Puits Romain, L8070 Bertrange, Grand-Duchy of Luxembourg, acting through its Swiss branch, having its principal business offices at Platz 10, 6039 Root, Switzerland.  
   
 “**Feedback**” means any feedback or suggestions that you provide to Epic regarding the Software, Services or other Epic products and services.  
   
