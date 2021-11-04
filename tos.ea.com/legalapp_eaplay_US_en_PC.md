@@ -9,7 +9,7 @@ EA Play subscriptions are purchased from the following platforms ("Platforms"):
 *   EA.com - PC (EA)
 
 *   [www.ea.com/ea-play](https://www.ea.com/ea-play)
-*   Installation of the latest version of the EA Desktop software ([www.origin.com/about](https://www.origin.com/about)) required;
+*   Installation of the latest version of the EA app ([www.ea.com/ea-app-beta](https://www.ea.com/ea-app-beta)) required;
 *   Play List titles may require additional content protection technology ("CPT") as well as the installation of EA or third party anti-cheat software.
 
 *   Steam - PC (Valve)
