@@ -6,7 +6,7 @@ Select Your Region
 [North America/Latin America](#) | [United Kingdom](#) | [Deutschland](#) | [France](#) | [España](#) | [Italia](#) | [Australia/New Zealand](#) | [日本語](#) | [Polska](#) | [Россия](#) | [All other regions](#)
 
 North America/Latin America
-===========================
+---------------------------
 
 **EULA applicable to residents of North America and Latin America:**
 
@@ -154,7 +154,7 @@ IF YOU HAVE ANY QUESTIONS CONCERNING THIS LICENSE, YOU MAY CONTACT IN WRITING BE
 [Scroll to Top](#)
 
 United Kingdom
-==============
+--------------
 
 **EULA applicable to residents of the United Kingdom, territories properly receiving the UK export version of the Software and all other territories not otherwise specified under a EULA above or below.**
 
@@ -282,7 +282,7 @@ Haymarket House, 28/29 Haymarket Square, London SW1Y 4SP, United Kingdom
 [Scroll to Top](#)
 
 Deutschland
-===========
+-----------
 
 **EULA applicable to residents of Germany:**
 
@@ -423,7 +423,7 @@ Haymarket House, 28/29 Haymarket Square, London SW1Y 4SP, United Kingdom
 [Scroll to Top](#)
 
 France
-======
+------
 
 **EULA applicable to residents of France:**
 
@@ -534,7 +534,7 @@ Haymarket House, 28/29 Haymarket Square, London SW1Y 4SP, Royaume-Uni
 [Scroll to Top](#)
 
 España
-======
+------
 
 **EULA applicable to residents of Spain:**
 
@@ -634,7 +634,7 @@ Haymarket House, 28/29 Haymarket Square, London SW1Y 4SP, Reino Unido
 [Scroll to Top](#)
 
 Italia
-======
+------
 
 **EULA applicable to residents of Italy:**
 
@@ -728,7 +728,7 @@ Haymarket House, 28/29 Haymarket Square, London SW1Y 4SP, United Kingdom
 [Scroll to Top](#)
 
 Australia/New Zealand
-=====================
+---------------------
 
 **EULA applicable to residents of Australia and New Zealand.**
 
@@ -820,7 +820,7 @@ Haymarket House, 28/29 Haymarket Square, London SW1Y 4SP, United Kingdom
 [Scroll to Top](#)
 
 日本
-==
+--
 
 **EULA applicable to residents of Japan:**
 
@@ -906,7 +906,7 @@ _本所有者_　本契約、同封資料その他に関してご質問がある
 [Scroll to Top](#)
 
 Polska
-======
+------
 
 **EULA applicable to residents of Poland**
 
@@ -1000,7 +1000,7 @@ Haymarket House, 28/29 Haymarket Square, London SW1Y 4SP, Wielka Brytania
 [Scroll to Top](#)
 
 Россия
-======
+------
 
 **EULA applicable to residents of the Russian Federation.**
 
@@ -1096,7 +1096,7 @@ Haymarket House, 28/29 Haymarket Square, London SW1Y 4SP, Wielka Brytania
 [Scroll to Top](#)
 
 All other territories
-=====================
+---------------------
 
 **EULA applicable to residents of the United Kingdom, territories properly receiving the UK export version of the Software and all other territories not otherwise specified under a EULA above or below.**
 

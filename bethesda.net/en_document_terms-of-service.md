@@ -4,7 +4,7 @@ Terms of Service
 print
 
 **ZENIMAX MEDIA TERMS OF SERVICE**
-==================================
+----------------------------------
 
 These Terms of Service (together with Supplemental Terms, defined below, " **Terms of Service**" or " **Agreement**") govern Your access to and Your purchase, receipt, and use of video games and other Services (defined in Section 1 below) that are provided or made available by ZeniMax Media Inc., on behalf of itself and its subsidiaries and affiliates (collectively, " **ZeniMax**").
 
@@ -65,7 +65,7 @@ Table of Contents
 22......... Contact Us
 
 1.  Services; Your Account(s); Photosensitivity and Virtual Reality Warnings
-    ========================================================================
+    ------------------------------------------------------------------------
     
 
 ZeniMax offers a range of services on PC, Mac, consoles, and mobile devices, including, but not limited to, the following services: (i) games and other products or services that You download, install, or simply play online as a service (sometimes referred to as "games as a service" or "GaaS"), including, but not limited to, ZeniMax's computer, mobile, and console entertainment software game(s) (collectively, "**Game(s)**"), (ii) access to Content (defined in Section 2), including, but not limited to, digital goods (such as wallpaper and character outfits), in-Game consumables, Downloadable Content (as defined below) and other digital items, (iii) software, including, but not limited to, third-party software and small amounts of code that might be necessary to facilitate playing online Games that are provided by ZeniMax as a service offering (collectively, " **Software**"), and (iv) related services, such as Membership programs that include special benefits for members, downloading and uploading media, forums, and additional features (together with Content, Games and Software collectively referred to as " **Services**"). For purposes of these Terms of Service, references to a "Game" include, unless the context requires otherwise, Content that is accessible by or used or available in the Game or that is applicable to the Game and the Software that facilitates the playing of the Game.
@@ -101,7 +101,7 @@ Not all features, products, or Services offered or provided are available to all
 Any offer for any feature, product or Service is void where such Services are prohibited. You are solely responsible for Your compliance with applicable laws with respect to the Services that You access, purchase, receive, play, or use.
 
 2.  Content; User-Generated Content; Downloadable Content; Game Mods; Virtual Items; Unlinked Accounts
-    ==================================================================================================
+    --------------------------------------------------------------------------------------------------
     
 
 This Section 2 shall survive any termination of these Terms of Service.
@@ -193,7 +193,7 @@ F. Unlinked Accounts
 **Warning for Unlinked Accounts**. To the extent ZeniMax in its sole discretion permits You to download or play a Game without having an Account or without linking that Game to Your Account (including without limitation enabling You to purchase, receive, or download any Downloadable Content (including without limitation any Virtual Currency) for such Game), then if You purchase, receive or download Downloadable Content using a device that is not linked to an Account, and Your device is lost, stolen or damaged or Your device or data is hacked, then such Downloadable Content as well as Your UGC, game settings, data, in-game achievements and in-game purchases will be lost and ZeniMax will not be able to and ZeniMax will not restore such Downloadable Content or Your UGC, game settings, data, in-game achievements or in-game purchases. SUBJECT TO THE STATUTORY OBLIGATIONS (AS DEFINED IN SECTION 1), ZENIMAX SHALL HAVE NO LIABILITY FOR, AND ALL RISK OF LOSS SHALL BE BORN BY YOU WITH REGARDS TO, ANY DOWNLOADABLE CONTENT, GAME SETTINGS, DATA, IN-GAME ACHIEVEMENTS, AND IN-GAME PURCHASES ASSOCIATED WITH YOUR ACCESS TO OR PURCHASE, RECEIPT, DOWNLOAD, PLAY OR USE OF DOWNLOADABLE CONTENT USING A DEVICE THAT IS NOT LINKED TO AN ACCOUNT.
 
 3.  Limited License to Use
-    ======================
+    ----------------------
     
 
 Subject to the terms in these Terms of Service and Your compliance with all of the terms and conditions in these Terms of Service, ZeniMax grants to You, for Your personal, private and non-commercial use only, a non-exclusive, revocable, nontransferable license to access, receive, play, and use Services (including any Content which is made available by ZeniMax (including but not limited to Game Mods that You download from a ZeniMax website) as a part of a Service and then solely in connection with such Service) as set forth in these Terms of Service. In the case of Games and Software made available for download, the foregoing license includes the right to download and install a single copy of the Game or Software on a single computer, console or mobile device owned by You for Your personal, private and non-commercial use.
@@ -211,7 +211,7 @@ With the exception of the licenses granted to You in the first paragraph of this
 ZeniMax may, in its discretion, make available to You one or more application programming interfaces and associated documentation (each an " **API**") to allow You to access, create, download, enable, use, or associate Content (excluding Game Mods), that modifies or otherwise provides enhanced features to the user interface (" **Add-ons**") for a Game. The API and Add-ons are Software for purposes of these Terms of Service and are subject to these Terms of Service and the Supplemental Terms applicable to the API and the Add-Ons. Notwithstanding anything to the contrary in these Terms of Service, if the Supplemental Terms for an API or Add-on directly conflict with specific terms and conditions in these Terms of Service or any other Supplemental Terms, the Supplemental Terms for an API or Add-on will control, but solely for purpose of the specific API and Add-on and not for any other purpose.
 
 4.  Beta Tests and Free Trials
-    ==========================
+    --------------------------
     
 
 In its sole discretion, ZeniMax may contact You to review and evaluate, or playtest, one or more Games, aspects of Games, or online features prior to commercial release for the purpose of identifying program errors and obtaining feedback. You will be asked to provide to ZeniMax certain feedback and suggestions regarding Your evaluation of the Game(s) or feature(s). Your participation is subject to these Terms of Service and other applicable Supplemental Terms, such as a beta testing agreement and a non-disclosure agreement.
@@ -223,7 +223,7 @@ Beta Test accounts are non-transferable under any circumstances.
 For some Services, ZeniMax may elect to offer You access to a trial Game and/or a trial Membership. Such Services may require You to sign up for an Account and/or a Membership under the terms described in these Terms of Service. If You accept a free Game trial or a trial Membership for a Game that requires a Membership, and the trial period expires, (i) in the case of access to a trial Game, You will no longer be able to access the Game without purchasing it and (ii) in the case of a trial Membership, You will no longer receive the benefits of the Membership unless, where necessary, You update or complete Your information and purchase the paid Membership Services. ZeniMax is under no obligation to notify You in advance of the free trial Game access or Membership expiring and You will be responsible for all charges incurred. Just like paid Memberships, Accounts, and Beta Test accounts, trial Game access and Memberships are non transferable under any circumstances.
 
 5.  Paid Services
-    =============
+    -------------
     
 
 Some Services require payment of a fee. You must pay the then-current applicable fees to access, play, participate in, or receive those Services, and You may be required to have an Account.
@@ -269,7 +269,7 @@ ii. Residents of Any Territories Not Specified Above. \*\*If You reside outside 
 Some Payment Methods require or permit You to choose automatic renewal of Your Membership. In such cases, You are agreeing to permit ZEL to automatically charge Your credit card, bank card, debit card or other Payment Method associated with Your Account for an automatic renewal of Your current Membership preferences to the applicable Service. You may cancel Your Membership at any time with the termination being effective at the end of the then-current Membership term or rolling period by revising Your selection in Your Accounts page, or contacting Customer Services at help.bethesda.net. In order to sign up for automatic renewal, You must keep a valid credit card number or other Payment Method number or information associated with Your Account. Your Membership will automatically renew on the expiration date of the then-current Membership term or rolling period at a fee no greater than ZEL's then-current price at the time of renewal, excluding any promotional and discount pricing, unless You cancel Your Membership. If You have registered for or requested an automatic Membership renewal, You agree that ZEL may, to the extent permitted by applicable law, charge You or continue charging You on an automatic recurring basis for Your current Membership preferences unless You cancel Your Membership, which will become effective at the end of Your then-current Membership term or rolling period. If You have registered for or requested an automatic Membership renewal but do not have a valid credit card and/or other valid Payment Method information on file and Your Membership expires, You will not be able to receive the benefits associated with the Membership (e.g., resume Game play or any paid Services usage) without updating Your Payment Method information. ZEL reserves the right to utilize third party credit card updating services to obtain current expiration dates on credit cards provided by You to ZEL. Customers who use a third party Payment Method may incur additional payment processing fees charged by such third party to its customers, and may not be able to automatically renew Memberships.
 
 6.  Availability of Services and Content; Game Maintenance, Patches, Updates; Termination of Services
-    =================================================================================================
+    -------------------------------------------------------------------------------------------------
     
 
 ZeniMax does not guarantee that any Services will be accessible or available at all times, in all countries and/or all geographic locations, at any given time, or that ZeniMax will continue to offer any particular Services for any particular length of time. Except as prohibited by applicable law and subject to the Statutory Obligations (as defined in Section 1), ZeniMax reserves the right to change and update Content without notice to You. ZeniMax also reserves the right to refuse Your request(s) to acquire Content, and to limit or block any request to acquire Content, including, but not limited to, Downloadable Content and Game Mods, for any reason.
@@ -289,7 +289,7 @@ You acknowledge that in such circumstances, ZeniMax is not required to provide Y
 If Your Account, a particular Membership for a Service associated with Your Account, or Your access to or receipt, play or use of a Service, is terminated or suspended and/or if any Downloadable Content is selectively removed, revoked or garnished from Your Account and/or if Your device is temporarily or permanently banned from accessing, receiving, playing or using some or all of the Services, no refund will be granted, no Downloadable Content will be credited to You or converted to cash or other forms of reimbursement, and You will have no further access to or receipt or use of Your Account or Downloadable Content associated with Your Account or the particular Service except where any action has been taken against Your Account or device in error and subject to the Statutory Obligations (as defined in Section 1). If You believe that any action has been taken against Your Account or device in error, please contact Customer Services at help.bethesda.net.
 
 7.  Your Right to Cancel Your Account or Membership
-    ===============================================
+    -----------------------------------------------
     
 
 You have the right to cancel Your Account or a particular Membership to a Service at any time. Additional cancellation terms in respect of a particular Membership may be specified when You become a member, in Your Account information, or in notices for Membership renewals. Generally, when You cancel a Membership the cancellation will be effective at the end of Your then-current Membership term or rolling period.
@@ -299,7 +299,7 @@ You may cancel Your Account or any Membership to a Service by accessing Your app
 ZeniMax reserves the right to collect fees, applicable governmental charges (including sales tax, value added tax (VAT), goods and service tax (GST) and other taxes), or costs incurred before You cancel Your Account or a Membership to a Service. You are also responsible for any amounts owed to third-party vendors or Content providers before Your cancellation. Any delinquent or unpaid fees and other unresolved issues must be settled before You establish a new Account.
 
 8.  Rules of Conduct
-    ================
+    ----------------
     
 
 Except as prohibited by applicable law and subject to the Statutory Obligations (as defined in Section 1), ZeniMax has the right, in its sole discretion, to modify, restrict, suspend, or terminate Your access to or Your receipt, play or use of the Services. As noted above, this could result because (i) Your information is untrue, inaccurate, not complete or incomplete; (ii) Your activities infringe on or are suspected to infringe on another's rights or any intellectual property; (iii) ZeniMax in its sole discretion determined that You or Your Account reflects inappropriate Content; or (iv) You or activities taken under or with Your Account violate these Terms of Service. Other Supplemental Terms pertaining to Your Service and/or Game, such as a Code of Conduct, provide guidance on behavior that ZeniMax deems to be inappropriate and specify restrictions on Your Account, Your access to or receipt, play or use of the Game, or Your participation in the Services.
@@ -340,7 +340,7 @@ Subject to the Statutory Obligations (as defined in Section 1), You agree that i
 If You encounter another user who is violating a Code of Conduct, please report this activity to ZeniMax by contacting ZeniMax Customer Service at help.bethesda.net. If You are in-Game, You can report an issue using an in-Game help feature where applicable or You may contact Customer Service directly at help.bethesda.net.
 
 9.  Your Use of the Services
-    ========================
+    ------------------------
     
 
 You further agree not to access, create, or provide any other means through which the Services, including, but not limited to, any Game(s), may be used or accessed by others, such as through server emulators.
@@ -356,7 +356,7 @@ Please note that aNY violation of these terms of service may constitute civil wr
 ZeniMax in its sole discretion may implement various forms of filtering, blocking, or monitoring of IP addresses, MAC addresses or proxies used to use, play, receive or access the Services, including without limitation blocking or filtering measures that restrict Your ability to use, receive, play or access the Services. ZeniMax in its sole discretion may restrict access to or use, play or receipt of certain features or Services to any person, territories or geographic areas.
 
 10.  Third Party Sites and Products
-    ==============================
+    ------------------------------
     
 
 Services may be linked to unaffiliated third-party websites or applications, such as social networking, live streams, blogging and other third-party websites (collectively, " **Third-Party Sites**"). Some of these Third-Party Sites permit You to log in using their existing account and credentials. Certain Services may allow You to interact and/or conduct transactions with such Third-Party Sites, and, if applicable, allow You to configure Your privacy settings in Your Third-Party Site account to permit Your activities in connection with the Services to be shared with Your contacts in Your Third-Party Site account. In certain situations, You may be transferred to a Third Party Site through a link but it may appear that You are still using the Services. These Third Party Sites might require You to comply with the terms and conditions, user's guides and privacy policies of such Third Party Sites.
@@ -368,7 +368,7 @@ ZeniMax provides access to the Third Party Sites to You as a convenience, and Ze
 This Section 10 shall survive the termination of these Terms of Service.
 
 11.  Disclaimer of Warranty
-    ======================
+    ----------------------
     
 
 TO THE EXTENT PERMITTED BY APPLICABLE LAW AND SUBJECT TO THE STATUTORY OBLIGATIONS (AS DEFINED IN SECTION 1), ZENIMAX, ITS LICENSORS AND RESELLERS DO NOT MAKE ANY REPRESENTATIONS, WARRANTIES OR GUARANTEES TO YOU REGARDING ANY SERVICE, INCLUDING, BUT NOT LIMITED TO, THE QUALITY, FUNCTIONALITY, AVAILABILITY, ACCESSIBILITY OR PERFORMANCE OF A SERVICE. EACH SERVICE IS PROVIDED TO YOU ON AN "AS IS" AND "AS AVAILABLE" BASIS.
@@ -386,7 +386,7 @@ IN STATES OR JURISDICTIONS THAT PROHIBIT THE DISCLAIMER OF IMPLIED WARRANTIES OR
 THIS SECTION 11 SHALL SURVIVE THE TERMINATION OF THESE TERMS OF SERVICE.
 
 12.  Limitation of Liability; Limited Remedies
-    =========================================
+    -----------------------------------------
     
 
 A. General Information. THE LAWS IN MANY JURISDICTIONS ALLOW ZENIMAX TO LIMIT ITS LIABILITY FOR DAMAGES. THIS SECTION LIMITS THE LIABILITY OF ZENIMAX, ITS LICENSORS AND RESELLERS. HOWEVER, THIS SECTION 12 ONLY APPLIES TO THE EXTENT PERMITTED BY APPLICABLE LAW. IF APPLICABLE LAW DOES NOT ALLOW ZENIMAX, ITS LICENSORS AND RESELLERS TO LIMIT ITS/THEIR LIABILITY IN CERTAIN CIRCUMSTANCES, THEN THE LIMITATIONS IN THIS SECTION WILL NOT APPLY TO THOSE CIRCUMSTANCES.
@@ -408,7 +408,7 @@ F. Application. THE LIMITATIONS SET FORTH IN THIS SECTION 12 SHALL APPLY EVEN IF
 THIS SECTION 12 SHALL SURVIVE THE TERMINATION OF THESE TERMS OF SERVICE.
 
 13.  Indemnification/Reimbursement
-    =============================
+    -----------------------------
     
 
 If (i) You misuse any Service or breach these Terms of Service; (ii) You improperly or illegally access, play, receive or use a Service or Your Account, including without limitation, the use of Your Account by anyone other than Yourself; or (iii) any contributions, actions or omissions by You in connection with Your access to, or play, receipt or use of Services, including without limitation any Game Mod or UGC You contribute, results in ZeniMax incurring any liabilities, damages, losses, costs and expenses (including without limitation attorneys' fees and court costs), then You agree to reimburse ZeniMax and its affiliates and other participants of the Services from all such liabilities, damages, losses, costs and expenses.
@@ -418,7 +418,7 @@ If a third party sues ZeniMax for any of Section 13 (i) – (iii) above, ZeniMax
 This Section 13 shall survive any termination of these Terms of Service.
 
 14.  Termination of Your Account by ZeniMax
-    ======================================
+    --------------------------------------
     
 
 Subject to the Statutory Obligations (as defined in Section 1), ZeniMax reserves the right to restrict, suspend or terminate these Terms of Service and Your Account as provided in these Terms of Service including without limitation restricting, suspending or terminating any licenses, and/or access to or receipt, play or use of one or more of the Services.
@@ -428,7 +428,7 @@ In addition, ZeniMax reserves the right to restrict, suspend or terminate these 
 Upon ZeniMax's decision to restrict, suspend, or terminate these Terms of Service, You will lose access to Your Account.
 
 15.  Dispute Resolution, Arbitration and Class Action Waiver
-    =======================================================
+    -------------------------------------------------------
     
 
 **If You reside in the EEA/UK/Switzerland/Australia/New Zealand/Turkey/Japan/Brazil** , then only this first paragraph of this Section 15 will apply to You. ZeniMax will try and solve any disagreements that arise between You and ZeniMax promptly and efficiently. You and ZeniMax may agree to refer any disputed matter to resolution proceedings other than in a court but You and ZeniMax are not restricted from bringing court proceedings at any time. The European Commission provides for an online dispute resolution platform, which you can access here: [http://ec.europa.eu/consumers/odr/](https://urldefense.proofpoint.com/v2/url?u=http-3A__ec.europa.eu_consumers_odr_&d=DwMGaQ&c=1ZsH6C42INob54FVVIhW8Q&r=T2MjWvlafNkdE0AQ1t5b0n65FndgmF9oEn6Dakdnf0A&m=orCMEiXh8ZHowae5oCIJ4WWbxe7jiDBjM3YUDoaSqbw&s=lE7GqKQsdgBzEd9R82PAdGVSxEBm4_lCMCI16xVSq28&e=). If you would like to bring a matter to our attention, please contact [ODRnotice@zenimax.com](mailto:ODRnotice@zenimax.com). We are not obliged nor willing to participate in dispute settlement proceedings before a consumer arbitration board or scheme.
@@ -476,7 +476,7 @@ F. Continuation. This Section 15 shall survive the termination of these Terms of
 G. Modifications. Notwithstanding ZeniMax's right to modify these Terms of Service, ZeniMax shall have no right to alter, amend, modify, or revoke this Section 15 (the arbitration agreement and class action waiver) without giving You prior notice and an opportunity to opt out of the alteration, amendment, modification or revocation.
 
 16.  Unsolicited Materials
-    =====================
+    ---------------------
     
 
 ZeniMax has an established policy not to accept or consider any unsolicited material, ideas or suggestions of any nature whatsoever. Please do not send us any unsolicited materials, as they will not be considered by anyone at ZeniMax. Any unsolicited materials sent will be treated as non-confidential, and ZeniMax will not be liable for any use or disclosure of such unsolicited material.
@@ -484,7 +484,7 @@ ZeniMax has an established policy not to accept or consider any unsolicited mate
 If You do send any creative materials, including, but not limited to, feedback, creative suggestions, error corrections, ideas, notes, drawings, fan art, storylines, music, concepts, data, or other Content that is not UGC or a Game Mod, transmitted via the Services, websites, U.S. Postal Service, Fed-Ex, mail, electronic mail or otherwise (collectively " **Information**"), such creative materials and communications shall to the fullest extent permitted by law be deemed to be the property of ZeniMax and You hereby assign and agree to assign to ZeniMax full and unfettered ownership of all such Information. None of the Information shall be subject to any obligation of confidentiality on the part of ZeniMax and ZeniMax shall not be liable to You for any use or disclosure of any Information. ZeniMax shall exclusively own any now known or hereafter existing rights to the Information of every kind and nature throughout the universe and on any media, and shall be entitled to unrestricted use and exploitation of the Information for any purpose whatsoever, commercial or otherwise, without compensation to, or approval by, You.
 
 17.  Intellectual Property Infringement
-    ==================================
+    ----------------------------------
     
 
 ZeniMax respects the intellectual property rights of others, and requires that those who access, play, receive, purchase or use its Services do the same. ZeniMax will terminate the Account and access to, receipt, play or use of the Services of any user who is responsible for any or repeated acts of intellectual property infringement. You may not, and by accessing, playing, receiving or using the Services You agree not to, access or use the Services to transmit material: (i) that is copyrighted, unless You are the copyright owner or have obtained the permission of the copyright owner to transmit it; (ii) that reveals trade secrets, unless You own them or have the permission of the owner to so transmit them; or (iii) that infringes on any Intellectual Property Rights, as defined below, of others or violates the privacy or rights of publicity of others. For purposes of these Terms of Service, the term " **Intellectual Property Rights**" means, collectively, rights under patent, trademark, copyright and trade secret laws, and any other intellectual property or proprietary rights recognized in any country or jurisdiction worldwide, including, without limitation, moral rights and similar rights.
@@ -528,7 +528,7 @@ ZeniMax will notify You if it removes or disables access to copyright-protected 
 ZeniMax may, but is not obligated to, follow similar procedures if it removes or disables any Content that purportedly constitutes infringement or misappropriation of any Intellectual Property Rights other than copyrights.
 
 18.  General Terms
-    =============
+    -------------
     
 
 A. No Third Parties Have Rights or Remedies. You agree that these Terms of Service (including without limitation the Supplementary Terms) and ZeniMax's enforcement of these Terms of Service, are not intended to confer and do not confer any rights or remedies upon any person other than You and ZeniMax.
@@ -544,7 +544,7 @@ i. For residents of North America, these Terms of Service and all Disputes (as d
 ii. If You reside outside of North America, then these Terms of Service and all Disputes shall be governed by the laws of England, excluding its conflicts-of-law rules and principles that would result in another State or country's laws applying to these Terms of Service or any Disputes, and excluding the United Nations Convention on Contracts for the International Sale of Goods, subject to any local mandatory law applicable in your country of residence.
 
 19.  Entire Agreement
-    ================
+    ----------------
     
 
 These Terms of Service (including, without limitation, Game EULAs and other Supplemental Terms) constitute the entire agreement between You and ZeniMax relating to the Services. These Terms of Service supersede any prior or contemporaneous understanding, representations or other agreement, written or verbal regarding the subject matter of these Terms of Service.
@@ -562,19 +562,19 @@ In addition, in connection with a contest, if either the contest rules for the s
 In addition, the ZeniMax Privacy Policy, available at [www.zenimax.com/legal\_privacy](http://www.zenimax.com/legal_privacy), sets forth how ZeniMax and its affiliates and subsidiaries (including Bethesda and ZEL) collect, use, disclose and otherwise process your personal data related to our Services.
 
 20.  Notice to California Residents
-    ==============================
+    ------------------------------
     
 
 Pursuant to Cal. Civil Code § 1789.3, please note that (a) ZeniMax is located at 1370 Piccard Drive, Rockville, Maryland 20850, (b) Services, content, and pricing information are posted as part of the ordering process for this site (please consult Your individual purchase confirmation e-mail for the charges You incurred for the access to or playing, receipt or use of any Services), and (c) if You have a complaint regarding any Services or desire further information on access to or playing, receiving or use of any Services, visit Customer Services at help.bethesda.net or from North America dial 1-844-ZENIMAX (1-844-936-4629). From outside the U.S., +800-6044-6044 or +1-678-460-4893 (International rates may apply, please contact Your carrier for details). For complaints, You may also contact the Complaint Assistance Unit of the Division of Consumer Services of the Department of Consumer Affairs in writing at 400 "R" Street, Sacramento, CA 95814 or by telephone at (916) 445-1254 or (800) 952-5210.
 
 21.  Notice to EEA/Swiss Residents
-    =============================
+    -----------------------------
     
 
 If You are an EEA/Swiss customer purchasing Services or Content from ZEL which are not immediately digitally delivered to You, You will have the right to cancel Your agreement to purchase them within fourteen (14) days without giving any reason. The cancellation period will expire fourteen (14) days from the day of the conclusion of the contract. To exercise the right to cancel, You must inform ZeniMax Customer Service by visiting help.bethesda.net, by mail at ZeniMax Media Inc., 1370 Piccard Drive, Rockville, Maryland 20850 USA, or by phone ((international toll free): +800 6044 6044; (international paid): +1 (678) 460-4893)) of Your decision to cancel the agreement by a clear statement (e.g. by a letter sent by post, fax or e-mail). You may use the model cancellation form [here](http://www.zenimax.com/modelcancellationform) ([http://www.zenimax.com/modelcancellationform](http://www.zenimax.com/modelcancellationform)), but it is not obligatory. To meet the cancellation deadline, it is sufficient for You to send the communication concerning Your cancellation before the cancellation period has expired. If You cancel the agreement, we will reimburse to You all payments received from You. We will make the reimbursement without undue delay and not later than fourteen (14) days after the day on which we are informed about Your decision to cancel the agreement. We will make the reimbursement using the same means of payment as You used for the initial transaction, unless You have expressly instructed us otherwise. In any event, You will not incur any fees as a result of the reimbursement. This withdrawal right is in addition to Your other consumer rights. **VERY IMPORTANT NOTE** : If You are an EEA/Swiss customer purchasing Services or Content from ZEL which are immediately digitally delivered to You, You will be asked to consent to immediate performance of Your agreement to purchase them and to agree that You will thereby lose Your above right of withdrawal.
 
 22.  Contact Us
-    ==========
+    ----------
     
 
 If You have any questions about these Terms of Services or otherwise need to contact ZeniMax for any reason, You can reach us at:
