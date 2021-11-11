@@ -233,9 +233,7 @@ This privacy notice for California Residents supplements the information conta
 
 **Minors:** We may share or “sell” your personal information as described in Minors of our Privacy Policy.
 
-**Your Rights and Choices****:** You have the right to (1) request more information about the categories and specific pieces of Data we have collected, sold and disclosed for a business purpose in the last 12 months, (2) deletion of your Data, and (3) be free from discrimination for exercising your rights under the CCPA. To exercise your rights described above, please submit a verifiable consumer request to us as specified in our Privacy Policy.
-
-Some US states have enacted laws (including the CCPA) that give you the ability to opt out of the sale of your Data to third parties. In effect, this will disable targeted advertising provided by Ubisoft’s third-party partners, which means that Ubisoft will no longer share your Data with third-party partners to customize your advertising experience.
+**Your Rights and Choices****:** Some US states have enacted laws (including the CCPA) that give you the ability to opt out of the sale of your Data to third parties. In effect, this will disable targeted advertising provided by Ubisoft’s third-party partners, which means that Ubisoft will no longer share your Data with third-party partners to customize your advertising experience.
 
  Ubisoft enables you to do so by using the following privacy controls. 
 
@@ -248,6 +246,8 @@ Some US states have enacted laws (including the CCPA) that give you the ability 
 *   **On mobile games:** to opt out of the sale of your personal information on mobile game, please navigate to the “Privacy Settings” section in the game's Settings menu, then un-check the box “I accept that Ubisoft process my data for its own use and/or shares it with trusted partners for marketing purposes.” You may also opt out of the sale of your personal information directly in the settings menu of your telephone or tablet by activating “Limit Ad Tracking” on Apple telephones, or “Opt-out of Ads Personalization” on Android telephones. Ubisoft games also include mechanism available for players to opt out from the sale of their game data. Please visit the settings menu of each game to learn more.
 
 You can also opt-out of the sale of your Data by contacting our customer support team using [this support form](https://support.ubisoft.com/Cases/New?game=50003&platform=29&category=389&hidefields=all&gf=1&af=1).  
+
+You also have the right to (1) request more information about the categories and specific pieces of Data we have collected, sold and disclosed for a business purpose in the last 12 months, (2) deletion of your Data, and (3) be free from discrimination for exercising your rights under the CCPA. To exercise your rights described above, please submit a verifiable consumer request to us as specified in our Privacy Policy.
 
 If we need additional information to verify your identity, we will contact you to request that information. If we are not able to verify your identity, we will deny your request. If you would like to designate an authorized agent to make a request on your behalf, you must (i) provide the agent signed permission to do so, (ii) provide proof of your identity, and (iii) directly confirm you provided the authorized agent permission to submit the request. If we do not receive the above, we will deny the request.
 
