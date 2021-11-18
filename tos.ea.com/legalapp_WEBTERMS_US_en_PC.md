@@ -3,7 +3,6 @@ USER AGREEMENT
 ================================
 
   
-**Last Updated: August 25, 2021**  
   
 
 🛈 You agree to these terms when you use our games or any of our services.
@@ -349,5 +348,7 @@ Purchase and use of items are subject to the Network Terms of Service and User A
 Any content purchased in an in-game store will be purchased from Sony Interactive Entertainment Network Europe Limited ("SIENE") and be subject to PlayStation™Network Terms of Service and User Agreement which is available on the PlayStation™Store. Please check usage rights for each purchase as these may differ from item to item. Unless otherwise shown, content available in any in-game store has the same age rating as the game.
 
   
+  
+**Last Updated: August 25, 2021**  
   
 [Previous Terms of Service/User Agreement](https://tos.ea.com/legalapp/WEBTERMS/US/en/PC/previousversions)
