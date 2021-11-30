@@ -1,2 +1,2 @@
-RIOT GAMES PRIVACY NOTICE
-=========================
+Riot Games® Privacy Notice
+==========================
