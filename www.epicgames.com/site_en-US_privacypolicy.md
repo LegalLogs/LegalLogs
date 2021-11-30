@@ -1,197 +1,317 @@
+.bootstrap-custom table td { padding: 8px; }
+
 EPIC GAMES PRIVACY POLICY
 =========================
 
-Last updated on August 17, 2021
+Last Updated: November 30, 2021.
 
-The Epic Games Privacy Policy is designed to help you better understand the information we collect and the different ways we may use or share it. 
+Welcome to Epic!
 
-This policy applies to your use of the Epic services. By “Epic services,” we mean any of our websites, stores, games, game developer tools, applications, or other products or services that link to this policy. Additional terms and conditions may also apply to your relationship with Epic, depending on how you choose to interact with us. Please read this entire policy to make sure you fully understand it. You should also be sure to carefully review other terms potentially applicable to your visit and your use of specific Epic services (such as Fortnite or the use of your Epic Account with third-party games), and confirm that you understand and agree to them, before using the Epic services.
+Epic Games, Inc. is headquartered in Cary, North Carolina. We and our subsidiaries have offices and operations located around the world that help create and deliver some of your favorite products and services, including games like Fortnite and development tools like Unreal Engine (see “Our Global Operations” below).
 
-Epic Games, Inc. and our subsidiaries operate and support the Epic services from different locations around the world. When we say “Epic” or “Epic Games,” we’re referring to the relevant Epic entity identified for your region in the “How to Contact Us” section of the policy below. This Epic entity is responsible for providing the Epic services to you and is the controller of information collected under this policy. 
+This privacy policy describes the different ways we may collect, use, and share information on, through, or in connection with the Epic Services (see “What are the Epic Services?” below). If you have any questions, you can always reach out to us as described in “Contact Us” below.
 
-Please see “How to Contact Us” below to learn more about sending us any privacy-related questions or concerns you may have. 
+When we refer to “Epic” (or any similar terms like “we” or “us”) in this privacy policy, we mean the Epic Games entity that controls and is responsible for your information, including Epic Games, Inc. and its subsidiaries that help provide and support the Epic Services. You can also find details about the data controller for personal information we collect through different Epic Services in “Contact Us” below.  
+ 
 
-Information We Collect
-----------------------
+1\. WHAT ARE THE EPIC SERVICES?
+-------------------------------
 
-We generally collect information in three ways: (1) you voluntarily provide information to us, such as by creating an account, making purchases, or signing up for email alerts, (2) we collect information automatically from your use of the Epic services, such as through cookies or our games and other software, and (3) other parties, such as game console platforms and social networks, may provide information to us. Each of these methods is described in more detail below.
+We use the term “Epic Services” to describe any Epic products or services that directly link to this privacy policy. These include, for example:
 
-### (1) Information You Provide
+*   games like [Fortnite](https://www.epicgames.com/fortnite/en-US/home), [Rocket League](https://www.rocketleague.com/) (through our subsidiary Psyonix), and [Fall Guys](https://fallguys.com/) (through our subsidiary Mediatonic);
+*   websites and applications such as [www.epicgames.com](http://www.epicgames.com/) and the [Epic Games Store](https://www.epicgames.com/store/en-US/), [](http://www.rocketleague.com/) [www.rocketleague.com](http://www.rocketleague.com/) (through Psyonix), and [](http://www.fallguys.com/) [www.fallguys.com](http://www.fallguys.com/) (through Mediatonic); and
+*   developer tools, including the [Developer Portal](https://dev.epicgames.com/portal/en-US/?sessionInvalidated%3Dtrue) and [Unreal Engine](https://www.unrealengine.com/en-US/?sessionInvalidated%3Dtrue).
 
-You may provide your personal information to us when you choose to use the Epic services. Because we change our offerings and features from time to time, the options you have to provide us with information also may change. Some of the most common examples of situations in which you may provide information to us include:
+Note that your use of the Epic Services may also be subject to additional terms and conditions. For example, you must review and accept the Fortnite End User License Agreement ([link](https://www.epicgames.com/fortnite/en-US/eula)) to play Fortnite, the Psyonix Terms of Use ([link](https://www.psyonix.com/tou/)) to play Rocket League, and the Fall Guys: Ultimate Knockout – End User License Agreement ([link](https://fallguys.com/eula)) to play Fall Guys.
 
-*   Creating an Epic account;
-*   Licensing and downloading our games or game engines;
-*   Using the Epic services’ social features (see “When You Use Social Features of the Epic Services”);
-*   Purchasing something from us or otherwise engaging in a transaction with us;
-*   Entering online competitions or registering for or participating in special events;
-*   Entering contests or sweepstakes, participating in any of our promotions, or accepting any prizes from us;
-*   Signing up for email alerts or subscribing to receive other information from us;
-*   Completing a survey;
-*   Using a mobile device, such as a phone, to play our games or use our applications; and
-*   Contacting us for any reason, such as by email, including for technical support or customer service.
+Please read this entire privacy policy. You should also carefully review any other agreements that apply to the Epic Services you use, and confirm you understand and agree to them, before using those products or services.  
+ 
 
-The specific types of information you may be able to provide us will often vary depending on the Epic services you are using and how you interact with them. 
+2\. WHAT INFORMATION DO WE COLLECT?
+-----------------------------------
 
-For example, you’ll need an Epic account to access certain parts of the Epic services. If you’d like to create one, you may be asked to provide basic registration details like your name, a public-facing display name, password, country of residence, and email address. We automatically assign each new Epic account with a number (an “Epic account ID”) during the registration process, which helps to uniquely reference your Epic account across the Epic services and facilitate features like cross-play.
+The types of information we collect depend on how you interact with us. Generally speaking, we collect information in three main ways: A) when you provide it to us, B) automatically when you use the Epic Services, and C) from service providers and third parties.
 
-If you’d like to make a purchase, we may ask you to provide billing information (like your card’s payment account number and expiration date) to enable the transaction. Sometimes we ask for other information like your phone number, postal address, billing address, and date of birth. We’ll also collect information when you choose to share it with us directly in any other way, including by sending it as part of a communication with Epic (like through Player Support requests) or other users of the Epic services (like through in-game chat or forum posts).
+###  A. Information You Provide
 
-Some of our websites also provide a feature that supports job applications, in which case we also ask for your resume, real name, email address, and phone number. We use this information to determine if you are qualified for the position for which you applied or to contact you to set up an interview.
+You can provide us with different kinds of information depending on how you interact with the Epic Services. Sometimes we’ll ask you to provide specific pieces of information, such as when we require it to provide parts of the Epic Services to you (for example, by prompting you to complete an online registration process). If we ask you to provide us with information in these cases and you choose not to, you may not be able to access the relevant Epic Services and/or some features may not operate as intended.
 
-### (2) Information We Collect Automatically
+For instance, in order to make purchases on the Epic Games Store and to play some of our games, you’ll need an Epic account. To create one, you’ll need to provide us with basic registration information like your name, a public-facing display name, password, the country you live in, and email address. If you want to make a purchase, we may ask you to provide payment-related information (like your credit card number and expiration date) to complete the transaction.
 
-We collect some information automatically when you visit the Epic services. We typically aggregate this data and use it in statistical form to determine trends among groups of users, rather than using it to identify individuals.  If a combination of information that we collect does identify you as an individual, we will treat the combined information as personal information.
+We also collect the information you voluntarily provide to sign up for email alerts, use social features like forums or chat, register for early access to our games, use our developer tools (including to create and publish games and other content), complete surveys, or contact us through Player Support requests or customer service. If you enter a contest or competitive event, or participate in our [Support-A-Creator](https://www.epicgames.com/affiliate/en-US/overview) program, we’ll collect your application information and other information we may need to help confirm your eligibility and process payouts. We collect whatever information you choose to provide to us in those or other similar cases.
 
-We collect information automatically through technologies such as web browsers, cookies, log files, web beacons, and our back-end servers collect usage data transmitted from the Epic services. We use the information for purposes such as modifying or improving features, managing advertising, addressing technical issues, preventing fraud or misuse of our services, and conducting data analytics. The type of information that we automatically collect may vary, but generally includes:
+###          B. Information We Collect Automatically
 
-*   Technical information about your computer, device, hardware, or software you use to access the Internet or our services, such as IP address or other transactional or identifier information for your device (such as device make and model, information about device operating systems and browsers, or other device or system related specifications);
-*   Usage information and statistics about your interaction with the Epic services, which may include the URLs of our websites that you have visited, URLs of referring and exiting pages, page views, time spent on a page, number of clicks, platform type, the application you used or the game you played, how long you used or played it and when, and other usage statistics;
-*   Crash reports, which may be automatically generated when a game or application crashes and includes information about your system and the crash;
-*   Information that facilitates a safer and more personalized experience, such as your display name or other user identification provided in connection with your application use or game play, saved preferences, game progress, and device identifiers or usage information for authentication and fraud prevention purposes; and
-*   The location of your device, such as may be derived from your device’s IP address.
+We collect some information automatically when you visit, access, or use the Epic Services. This includes information about your gameplay or application usage, purchases, entitlements, and other activity in the Epic Services, typically associated with your account (if you are logged into your Epic account or use a third-party account to access the Epic Services) or with an identifier we have assigned to your device or profile. While the specific types of information that we automatically collect may vary, they generally include:
 
-Please note that if certain features on the Epic services are provided by third parties, those third parties may also use automated means of data collection and may record information about your use of the Epic services or others’ websites over time. These features are subject to those third parties’ privacy notices and policies.
+*   Usage information and statistics about how you interact with the Epic Services, including the application you used or the game you played, how long you used or played it and when, gameplay attempts, progression and results, saved preferences, crash reports, the URLs of our websites that you have visited, URLs of referring and exiting pages, page views, time spent on a page, number of clicks, and platform type;
+*   Technical information about your computer, device, hardware, or software you use to access our services, such as IP address, device identifiers, your internet service provider, plugins, or other transactional or identifier information for your device (such as device make and model, information about device operating systems and browsers, or other device or system-related specifications); and
+*   The general location of your device, which we typically derive from your device’s IP address.
 
-_Fraud Prevention & Anti-Cheat_:
+The Epic Services use technologies such as cookies, log files, and web beacons to automatically collect the types of information listed above. Some of these technologies may create small files or record-keeping tools that may be stored on your device. They help us, our service providers, and third parties recognize your device and provide information about how you use and interact with the Epic Services. For example, they support our ability to  authenticate users, remember preferences, manage advertising, personalize experiences, and conduct data analytics.
 
-Providing users with a fair, balanced, and competitive experience on the Epic services is extremely important to us. We strictly enforce prohibitions against cheating, hacking, account stealing, and any other unauthorized or fraudulent activity on the Epic services. When you create an Epic account, buy our products or services, play our games, or otherwise interact with the Epic on or through the Epic services, we may use a variety of anti-cheat and fraud prevention technologies to help us identify and prevent malicious activity. These services may collect and analyze data about the game binary or your computer to detect cheating, and may be provided by Epic or by third parties such as BattleEye.
+Please note that if certain features on the Epic Services are provided by third parties, those third parties may also use automated means of data collection and may record information about your use of the Epic Services or others’ websites over time. These features are subject to those third parties’ privacy notices and policies.
 
-### (3) Information We Receive from Others
+###          C. Information We Collect from Other Sources
 
-In some cases, other parties provide us with information about you, or allow us to collect information about you. We generally collect information from other parties in four ways: (1) you interact with Epic using a service that is not controlled by us, such as a social network, (2) you choose to use a social feature of the Epic services, (3) you access Epic services through another party, such as a gaming console or mobile device operator, or (4) you link a third party account to your Epic account. In some cases, we are not able to control the amount or type of information that other parties, like social networks, make available to us. In those cases, we use only the data that we need to provide the types of services we think our users want and expect. Although we cannot control your privacy settings at those websites or how those other parties protect your privacy, once we receive information about you through those websites, we will treat it in accordance with this policy.
+In some cases, we may also receive information about you from service providers and third parties in connection with your use of the Epic Services or your interactions with us on other platforms.
 
-_When You Interact with Epic on Third Party Services_
+For example, some other developers allow you to use your Epic account to log in to their service. And if you choose to link your Epic account with your account on a third-party social media (like Facebook), gaming (like Steam), or other similar website or service, or if you interact with an ad for one of the Epic Services on an external website or service, the company that operates that website or service may share some information with Epic in accordance with their own privacy practices. Your privacy settings on the other company’s website or service typically control the specific types of information they can share with Epic, so please be sure to review and update them regularly. Common examples for linked accounts might include your third-party account display name and user ID, as well as associated device information, name, and email address. For participants in our Support-a-Creator program, we may also collect the number of social media account followers you have for program eligibility purposes.
 
-When you interact with Epic on a website or app not controlled by Epic, that website or app may allow Epic access to certain information about you. For example, social networks may provide us with information from your profile on their services or other information that you agreed the social network or other party could provide to us.
+You can also buy, download, or access some Epic Services on or through services operated by third parties. If you do, they may provide us with information to facilitate your access to and use of the Epic Services. This typically includes information like your display name, user ID, and device and region information. For example, you can choose to download and play games like Fortnite on gaming consoles (like Sony PlayStation, Microsoft Xbox, and Nintendo Switch) through your gaming console account. When you do, the company operating that platform or service may share some information with us, which helps us do things like facilitate your gameplay and track your progression and entitlements.
 
-_When You Use Social Features of the Epic Services_
+###          D. Fraud Prevention & Anti-Cheat
 
-When you choose to use some of the Epic services’ social features, you allow Epic to receive information about you from third parties (like social networks). Our social features promote and facilitate interaction among players, such as by allowing you and your friends to work together to meet a shared challenge presented by our game or application. You may be able to use these features to find out if your friends are actively playing the game and using the feature, to find out if they used it in the past, and to invite them to join with you to meet a game challenge.
+Providing users with a fair, balanced, and competitive experience on the Epic Services is extremely important to us. We strictly enforce prohibitions against cheating, hacking, account stealing, and any other unauthorized or fraudulent activity on the Epic Services. We use a variety of anti-cheat and fraud prevention technologies to help us identify and prevent malicious activity. These services may collect and analyze data about your computer and the software on your computer to detect cheating and may be provided by Epic or by service providers such as BattlEye.  
+ 
 
-If you choose to use one of our social features, you may be asked to log into a social network through our game or application. The social network may then provide Epic with information such as your social network user ID, your profile picture, and the user IDs and profile pictures of your connections.
+3\. HOW DO WE USE INFORMATION?
+------------------------------
 
-_When You Access Epic Services through Other Parties or Devices_
+As a general matter, we use the information we collect (either individually or in combination with other information collected as described in this policy) to help us provide, improve, customize, analyze, and promote the Epic Services.
 
-We may also receive information about you from the organizations that sell our games or applications, or which provided the gaming system you use. Those parties may provide us with information regarding your account or registration, but they do not give us your payment information. Because those organizations determine what information they will collect from you, it may vary according to their services, but is likely to include details such as your display name and user ID for those services, as well as device and region information.
+This includes using it for purposes such as:
 
-_When You Link a Third Party Account to Your Epic Account_
+*   Creating, verifying, and managing user accounts and features;
+*   Providing the Epic Services, as well as support and assistance for them, including by responding to inquiries, processing transactions or requests, and communicating with users (such as by sending service and account-related messages and updates);
+*   Developing, delivering, and improving the Epic Services and other offerings, some of which may be offered in partnership with other parties;
+*   Personalizing your experience, including by presenting content or features better tailored to you or your interests, or our inferences about your interests (for instance, if you frequently play games in a certain genre, we may infer that you’d be interested in that genre and suggest similar games to you);
+*   Promoting the Epic Services, including managing, customizing, and measuring the effectiveness of our advertisements, promotional offers, surveys, and events;
+*   Managing alpha, beta, or early access tests (and collecting feedback);
+*   Conducting data analytics (like analyzing how the Epic Services are used so we can better understand, improve, and personalize them);
+*   Complying with our legal or contractual obligations and enforcing our terms; and
+*   Securing the Epic Services, such as by detecting fraud and otherwise protecting Epic and other users from illegal or harmful actions.
 
-If you choose to link a third party account, such as a gaming console or social media account, to your Epic account, the third party will provide Epic with information about that account. Because those organizations determine what information they will collect from you, it may vary according to their services, but is likely to include details such as your third party account display name and user ID, as well as associated device information, name, and email address.
+We may also process information that does not identify you individually, including aggregate or de-identified information that we create or collect from other sources. This information helps us better understand larger groups of users. If we combine this information with information that identifies you, we will treat it as described in this privacy policy. But please note that this privacy policy does not restrict our ability to process information that does not individually identify you, and we may use and disclose aggregated or de-identified information for any reason permitted by law.  
+ 
 
-How We Use and Share Information
+4\. HOW DO WE SHARE INFORMATION?
 --------------------------------
 
-As a general matter, we use and share the information we collect (either individually or in combination with other information collected as described in this policy) to help us provide, improve, customize, analyze, and market the Epic services where we have an appropriate basis to do so.
+We may share some of the information we collect to help operate and improve the Epic Services. Depending on how you interact with us, common examples might include sharing:
 
-### (1) Use
+*   With console and platform partners (for example, to facilitate gameplay when you access the Epic Services through a third-party console provider);
+*   With other game developers (such as to enable features for games you acquire through the Epic Games Store);
+*   With other users (like if you use social features such as chat);
+*   Publicly (for example, your display name, content you create or share, basic game statistics, and other similar information may be generally accessible to others);
+*   With service providers that operate on our behalf to help support the Epic Services in accordance with our instructions (for example, cloud storage providers, payment processors, or marketing and advertising partners);
+*   When we believe we must in order to comply with the law or to protect you, Epic, or others (for example, in response to court order or subpoena, as part of an investigation of fraud or other illegal activity, or violation of our terms or policies, or if necessary to protect others from death or serious harm to body or property);
+*   With other Epic entities (including to help provide support for the Epic Services internationally);
+*   In connection with certain types of corporate transactions (like in the event of a restructuring or the sale of all or a significant part of our business); and
+*   With your permission (for example, if you link external accounts with your Epic account, or use your Epic account to sign in to third-party games and services or participate in cross-promotional events).
+*   We may also share information that does not identify you with third parties, including aggregate or de-identified information.
 
-We rely on several different legal bases to process personal information for the purposes disclosed in this policy. These often depend on the exact nature of your relationship with Epic, but common examples include: 
+Third parties you interact with through Epic Services may have different privacy practices than Epic, so we encourage you to review their privacy policies before sharing your information with them.  
+ 
 
-*   To support our legitimate interests, such as:
+5\. CHILDREN’S PRIVACY
+----------------------
 
-*   To communicate with you, respond to your requests, or provide you with updates and information;
-*   To better understand our users and their preferences;
-*   To personalize your experience, save your preferences, authenticate our users, and provide similar user-experience features;
-*   To develop, deliver, and improve our products, services, and other offerings, some of which may be offered in partnership with other parties;
-*   To manage and customize advertisements or promotional offers;
-*   For security purposes; and
-*   For internal purposes such as auditing and data analysis.
+The Epic Services are intended to be appropriate for general audiences and are not directed to children (usually considered to be under 13, depending on where you reside). Epic does not intentionally collect personal information from children without seeking any required parental approval in accordance with applicable legal and regulatory obligations, such as the U.S. Children’s Online Privacy Protection Act (“COPPA”).
 
-*   To provide services that are subject to terms you have accepted, such as enforcing our licenses, agreements, and terms of service, which may include reasonable monitoring to detect and prevent misuse or fraud, keep our games fair for all users, and otherwise protect and defend the Epic services.
-*   When you give consent, which you can withdraw at any time.
+We may ask you to provide age-related information in order to help us comply with laws like COPPA. For example, we may request your date of birth to determine whether COPPA requires us to obtain verifiable parental consent from your parent or guardian before allowing you to access the Epic Services. If a user indicates they are a COPPA minor, we’ll require that user to complete a parental approval process before continuing to access the relevant Epic Services. This process is designed to notify parents that their child has requested access to the Epic Services, inform them about Epic’s privacy practices, offer them the opportunity to approve Epic’s collection and use of their child’s information as described in this policy, and describe the controls that we make available to them.
 
-*   To comply with legal obligations.
+Once a parent provides their consent, we’ll give them an opportunity to review and change important account settings that control how their child can interact with the Epic Services. To learn more, see [](https://www.epicgames.com/fortnite/en-US/parental-controls) [https://www.epicgames.com/fortnite/en-US/parental-controls](https://www.epicgames.com/fortnite/en-US/parental-controls). Parents are also generally free to change or revoke the choices they’ve previously made, and can review the personal information associated with their child’s account or request that we delete it from our systems. To submit these requests or ask us any other questions you may have about how we handle your child’s personal information, please see “Contact Us” below.
 
-We store personal information for as long as we reasonably need it to fulfill the purposes for which it was collected. For example, if you create an Epic account, we will store the personal information associated with your Epic account for as long as needed to maintain your account, provide the Epic services you requested, enforce any applicable terms that govern your use of the Epic services, and maintain appropriate records to reflect our delivery of the Epic services to you. We periodically review the personal information we retain to determine whether continued storage is proper. 
+Authorized child accounts are otherwise treated much like other Epic accounts unless the settings are adjusted through the parental controls available at [https://www.epicgames.com/fortnite/en-US/parental-controls](https://www.epicgames.com/fortnite/en-US/parental-controls). They can generally play approved games (such as Fortnite, Rocket League, or Fall Guys), access communications and social features (like chat and friends lists), and freely interact with most of the Epic Services (including downloading other games from the Epic Games Store). For additional details, please see “What Information Do We Collect?”, “How Do We Use Information?”, and “How Do We Share Information?” above.
 
-### (2) Sharing
+_**SuperAwesome & Kids Web Services**_
 
-_Service Providers._ We share personal information with service providers that we’ve engaged to help support the Epic services by performing certain services on our behalf and under our instructions. For example, if you make a purchase on the Epic services, we’ll generally share your billing information with a third-party payment processor to enable your transaction. Other common examples include partners that assist with cloud storage, email marketing of products and services offered by Epic, Player Support ticketing, and monitoring and securing the Epic services. These service providers are not authorized by us to use or disclose personal information except as necessary to perform services on our behalf or comply with legal requirements.
+The Epic Services use Kids Web Services (“KWS”) for parental and guardian verification purposes. KWS is a service focused on children’s safety that is offered by our subsidiary SuperAwesome. When you verify with KWS, SuperAwesome will remember that you have been verified the next time you use your email address to manage your child’s permission for other games or services powered by SuperAwesome so that you won’t need to do so again. This means Epic and SuperAwesome are jointly responsible for how your personal information is used for parent verification services.
 
-_Affiliates_. We may share personal information we collect with Epic Games, Inc. subsidiaries to support the Epic services worldwide. 
+You can learn more about SuperAwesome and KWS in SuperAwesome’s privacy policy here: [https://www.superawesome.com/kws-privacy-notice/](https://www.superawesome.com/kws-privacy-notice/).  
+ 
 
-_Marketing Partners._ We may share certain limited information, such as device identifiers, with marketing partners for purposes of executing and optimizing campaigns, and gauging the effectiveness of advertising and other marketing strategies solely on Epic's behalf.
-
-_Epic Games Store Partners_. If you purchase a game from the Epic Games Store, we may share certain information associated with your Epic account with the game’s developer or publisher to support your gameplay and permit them to contact you for appropriate purposes. For example, to support gameplay we may share your Epic account ID and entitlement to the game. To support in-game social features we may also share your Epic display name and your Epic friends list. You may also opt-in to share your contact information with a game’s developer or publisher.
-
-If a store partner removes their game from the Epic Games Store, we also will transfer information necessary to support your continued gameplay on another platform to them. When Epic provides your information to these independent developers and publishers, their use and disclosure of the information is governed by limitations in our agreements with them. However, they also provide their end users with privacy notices or policies that govern their use of your information. Personal information you share with them or that is not provided by Epic will be subject to the developers’ and publishers’ privacy notices and policies, and may not be subject to this policy.
-
-_Epic Account Services._ If you sign in to a third-party developer’s game or application using your Epic account, you may choose to share details about your Epic account such as your Epic account ID, Epic display name, linked account identifiers, online presence, and your Epic friends using the same game or application. These third-party developers’ uses of this Epic account information is governed by limitations in our agreements with them. Personal information you share with them or which is not provided by Epic is subject to the third-party developers’ privacy notices and policies, which may differ from Epic’s practices as described in this policy. Please review third-party developers’ privacy policies carefully, and ensure you understand and are comfortable with how they handle your information, before using your Epic account to access their products or services.
-
-_Social Features._ We may share, or provide you with opportunities to share, information about you with other users of the Epic services as described in this policy. We also provide services that allow our users to communicate with Epic and each other, in which case personal information may be shared and account IDs may be displayed. For example, we may share information about you with your social contacts when you and they use the same social features of our games and applications.
-
-We may also disclose information about you: (i) if we are required to do so by law, legal process, or a reasonable request from law enforcement authorities or other government officials, (ii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity, or (iii) if necessary to protect the vital interests of another individual (such as to prevent death, bodily harm, or serious damage to property). We reserve the right to transfer information about our users in the event we sell or transfer all or substantially all our business or assets.
-
-Your Choices and Controls
--------------------------
-
-We seek to provide you with meaningful choices about the personal information you share with Epic, as well as the ways we may use or share that information.We’ll generally only ask you for personal information that is necessary to provide the Epic services you request. You can choose not to give us personal information we request, but if you decide not to, you may not be able to access certain parts of the Epic services and some features may not work as intended.
-
-We may also seek your prior consent to process your information in certain ways. You aren’t required to provide consent if you do not want your personal information to be processed for the requested purposes, and may withdraw your consent at any time. Any withdrawal of consent is only effective on a going-forward basis and will not impact processing we undertook while relying on your consent. 
-
-We provide you with the ability to request access to, and correction or deletion of, your personal information. You can update your account information or request that we delete your Epic account directly through the Epic services at any time. If you would like to request access to personal information associated with your Epic account, please see the “How to Contact Us” section below. 
-
-Other examples of your choices include:
-
-*   You can browse our website without providing any personal information. We may collect some limited information automatically, as described above.
-*   You may opt out of receiving our marketing messages at any time by using the opt-out mechanism provided in the message.
-*   You can change your privacy settings on other parties’ websites, such as social networks, which will stop or limit our receipt of information from those other websites. You also may choose not to use social features we make available. If you choose to use these features, you should refrain from posting personal information that will be visible to others, such as including your email address in a forum or during a chat.
-*   You may change your browser settings or take other steps to block, manage, or delete cookies. Not all of our websites and online services currently respond to browser “do not track” signals, so you will need to use your browser settings to effectively manage cookies. In some cases, blocking or disabling cookies may cause our websites, games, and applications not to work as intended and some features may not be available.
-*   You can limit interest-based advertising by opting out at www.aboutads.info/choices/ or www.networkadvertising.org/choices/. If you are located in Europe, more information is available at www.youronlinechoices.eu/.
-*   If you are under the age of 18 and have an account for our websites, mobile apps, game engines, games, or other online services, you may request that we remove certain content that you provided, such as deleting or editing comments you have posted. You also may ask us to assist you in removing or anonymizing content you have posted by contacting us as described in the “How to Contact Us” section of this policy. Please be aware that taking these steps may not ensure complete or comprehensive removal of the content or information posted on our websites, online services, applications, or games. We also may not be able to remove content you post if applicable law requires us to maintain the posting or if another party has re-posted the content to a website, app, game or other online service that we do not own or control.
-
-You may also exercise and amend your choices by sending an email to us as detailed in the “How to Contact Us” section below.
-
-_EEA and UK Residents._ If you are an EEA or UK resident, you may have the right to access your information, the right to correct your information, the right to request deletion of your personal information, the right to request restricted processing of your personal information, the right to a portable copy of the personal information you have provided, and the right to object to processing of your personal information, such as for direct marketing. For more information about exercising these rights, send an email to the address specified in the “How to Contact Us” section below.
-
-EEA and UK residents may contact Epic’s data protection officer with any questions or concerns about our handling of personal information at dpo@support.epicgames.com. EEA and UK residents also have the right to lodge a complaint with a data protection authority if they have concerns about Epic’s handling of personal information.
-
-_California Residents._ If you are a California resident and are not a job applicant, employee or employee of another company interacting with us in your job, you have the right to ask us what personal information we have collected and shared about you, the right to request deletion of your personal information, and the right not to be discriminated against for exercising any of these rights. For more information about exercising these rights, send an email to the address specified in the “How to Contact Us” section below.
-
-_Sales of Information._ Epic only uses the personal information we collect to help provide, support, and improve the Epic services as described in this policy, and we do not sell this information to third parties. 
-
-How We Protect Information
---------------------------
-
-We maintain appropriate administrative, technical, and physical safeguards to protect your personal information from accidental, unlawful, or unauthorized destruction, loss, alteration, access, disclosure, or use and other unlawful forms of processing. In some cases, your information is accessible when you log into a feature we offer, and in those cases you need to keep your user credentials and password confidential and secure so that your information is protected. 
-
-Children’s Privacy
-------------------
-
-The Epic services are intended to be appropriate for general audiences and are not directed to children (usually considered to be under 13, depending on where you reside). Epic does not intentionally collect personal information from children without seeking any required parental approval in accordance with applicable legal and regulatory obligations, such as the U.S. Children’s Online Privacy Protection Act (“COPPA”).
-
-We may ask you to provide age-related information in order to help us comply with laws like COPPA. For example, we may request your date of birth to determine whether COPPA requires us to obtain verifiable parental consent from your parent or guardian before allowing you to access the Epic services.
-
-If a user indicates they are a COPPA minor, we’ll require that user to complete a parental approval process before continuing to access the relevant Epic services. This process is designed to notify parents that their child has requested access to the Epic services, inform them about Epic’s privacy practices, offer them the opportunity to approve Epic’s collection and use of their child’s information as described in this policy, and describe the controls that we make available to them. 
-
-Once a parent provides their consent, we’ll give them an opportunity to review and change important account settings that control how their child can interact with the Epic services. To learn more, see [https://www.epicgames.com/fortnite/en-US/parental-controls](https://www.epicgames.com/fortnite/en-US/parental-controls). Parents are also generally free to change or revoke the choices they’ve previously made, and can review the personal information associated with their child’s account or request that we delete it from our systems. To submit these requests or ask us any other questions you may have about how we handle your child’s personal information, please see “How to Contact Us” below.
-
-Authorized child accounts are otherwise treated much like other Epic accounts. They can generally play approved games (such as Fortnite), access communications and social features (like chat and friends lists), and freely interact with most of the Epic services (including downloading other games from the Epic Games Store). For additional details, please see the “Information We Collect” and “How We Use and Share Information” sections of the policy above.
-
-Transfers of Information
-------------------------
-
-Epic Games is a company with operations around the world. By using the Epic services, you acknowledge and agree that your information may be processed outside your country of residence, including in other jurisdictions (like the United States) that may have different data protection frameworks than your region. To learn more about the Epic entity responsible for operating the Epic services in your region, see “How to Contact Us” below.
-
-We’ve implemented and maintain a framework consistent with applicable law and this policy for transfers of information outside the country of collection. For example, when we transfer personal data collected in the European Union to locations outside the European Economic Area, we rely on transfer mechanisms adopted by the European Commission to help establish adequate safeguards, like Standard Contractual Clauses. We may also need to transfer your information to provide the Epic services to you in accordance with our existing agreements with you, such as the Terms of Service. 
-
-Updates to Our Privacy Policy
+6\. YOUR CHOICES AND CONTROLS
 -----------------------------
 
-This policy may be updated periodically to reflect changes in our personal information practices or relevant laws. We will indicate at the top of this policy when this policy was last updated. Please review this policy every time you access or use the Epic services to make sure that you have reviewed the most recent version.
+We seek to provide you with meaningful choices about the personal information we collect. The specific choices available to you often vary depending on the exact nature of our relationship with you, such as the Epic Services you use. Common examples include:
 
-How to Contact Us
------------------
+*   You can request that we provide access to, or that we correct or delete, personal information we’ve collected from you. Please submit requests to access, update, or delete personal information associated with your Epic account by reaching out to us as described in “Contact Us” below. Note that we may ask you for additional information to help us verify who you are before completing your request.
 
-If you have general questions or concerns about the Epic services (such as game-related issues, trouble accessing your Epic account, bugs or other technical problems, payment matters, or content and entitlement issues), please contact our Player Support team.
+*   You can change your email marketing preferences at any time, such as by using the opt-out mechanism provided in our marketing emails, updating your Epic account settings, or contacting us with your request (see “Contact Us” below).
 
-To learn more about Epic’s privacy practices or this policy, please email your questions to [privacy@support.epicgames.com](mailto: privacy@support.epicgames.com) or send them to us via postal mail (marked “Attn: Legal Department”) at the appropriate address listed below. You can also contact our Data Protection Officer directly at [dpo@support.epicgames.com](mailto:dpo@support.epicgames.com). The Epic entity identified below is responsible for providing the Epic services to your region and is the controller of personal data collected under this policy.
+*   You can change your privacy settings on other parties’ websites (such as social networks) or platforms (like console providers) to limit the information they may share with us.
 
-_If you reside in the United States of America:_
+*   You can change your browser or mobile device settings to block, manage, delete, or limit tracking technologies like cookies. In some cases, blocking or disabling cookies may cause the Epic Services not to work as intended and some features may not be available.
 
-Epic Games, Inc., located at 620 Crossroads Blvd., Cary, NC 27518, USA.
+*   If you’re under the age of 18 and have an Epic account, you can ask that we remove or anonymize certain content you’ve provided on the Epic Services. Please direct requests to help delete or edit content on the Epic Services to Epic as described in “Contact Us” below.
+*   Parents and guardians can adjust the settings for their child’s Epic account by visiting [https://www.epicgames.com/fortnite/en-US/parental-controls](https://www.epicgames.com/fortnite/en-US/parental-controls).
 
-_If you reside outside of the United States of America:_
+Some parts of the world provide individuals with specific choices related to their personal information by right under local law.  
+ 
 
-Epic Games International S.à r.l., a Luxembourg Société à Responsibilité Limitée, located at Atrium Business Park, 33 rue du Puits Romain, L8070 Bertrange, Grand-Duchy of Luxembourg, acting through its Swiss branch, having its principal business offices at Platz 3, 6039 Root, Switzerland.
+7\. OUR GLOBAL OPERATIONS
+-------------------------
+
+Epic Games, Inc. is based in the United States, but we operate globally to help provide users all around the world with a better experience on the Epic Services. We have subsidiaries, offices, service providers, and partners worldwide to support these operations in a number of different ways -- for example, the developer of Fall Guys is a subsidiary called Mediatonic Limited that is based in the United Kingdom. This means that Epic may process the information we collect in connection with your use of the Epic Services in places outside the region where you reside.
+
+###           A. Data Transfers
+
+When you use the Epic Services, your information may be transferred to or stored in the United States or other countries where we or our service providers operate. The data protection laws and rules in these countries may be different than those where you live. We rely on various legal mechanisms to help lawfully support transfers of information outside the country of collection where appropriate. If permissible under local law, you’re authorizing Epic to process your information in any of the locations where we operate (including the United States) by using the Epic Services.
+
+To learn more about the Epic entity responsible for operating the Epic Services you use, see “Contact Us” below. 
+
+###           B. California Residents
+
+The California Consumer Privacy Act or “CCPA” provides consumers residing in California certain rights with respect to their personal information. If you are a California resident, you may have the right to: (1) request to know more about the categories and specific pieces of personal information we collect, use, and disclose; (2) request deletion of your personal information; (3) opt out of sale of your personal information (if any); and (4) not be discriminated against for exercising these rights.
+
+You or your authorized agent may make these requests by contacting us as described in “Contact Us” below. Note that we may ask you for additional information to help us verify who you are before completing your request. If we receive your request from an authorized agent, we may ask for evidence that you gave that person authority to submit requests to exercise rights on your behalf. We will not discriminate against you if you exercise your rights under the CCPA.
+
+In the past 12 months, we have collected the following categories of personal information, as described in the CCPA:
+
+*   Identifiers (such as email addresses);
+*   Demographic information (like ages);
+*   Commercial information (including entitlements or purchase history);
+*   Internet or electronic network activity (for example, gameplay or website usage details);
+*   Audio, electronic, visual, or similar information (like voice chat);
+*   Geolocation information (such as may be derived from your IP address or included in your billing information);
+*   Other “personal information” as defined under California law (like your credit or debit card information); and 
+*   Inferences drawn from any of these categories (for example, about the genres of games you may prefer to play based on your purchase history).
+
+For details about the precise data points we collect and the categories of sources where we got that information, please see “What Information Do We Collect?” above. We collect personal information for the business and commercial purposes described in “How Do We Use Information?” above.
+
+Epic does not sell the personal information we collect. We do, however, disclose personal information as described in this policy (see “How Do We Share Information?” above). In the past 12 months, we have disclosed personal information to the following categories of recipients:
+
+*   Business partners (for example, if you request that we share your email address with the developer of a game you purchase on the Epic Games Store);
+*   Other Epic entities (like to subsidiaries that may help support certain Epic Services);
+*   Other users (for example, if you use chat or social features on the Epic Services);
+*   Service providers (as described in “How Do We Share Information?” above);
+*   Operating systems and platforms; and
+*   Government entities or other third parties in response to a legal request.
+
+###           C. RESIDENTS OF THE EUROPEAN ECONOMIC AREA, THE UNITED KINGDOM, AND SWITZERLAND
+
+If you’re located in the European Economic Area (EEA), the United Kingdom (UK), or Switzerland, you have certain rights regarding how your personal data is processed.
+
+_**Data Subject Rights**_
+
+You may have the right to access, correct, or delete personal data we have collected about you through the Epic Services. You may also have the right to a portable copy of the personal data you have provided, and to object to or restrict processing of your personal data, such as for direct marketing. Where you have provided your consent to our data processing, you have the right to withdraw consent.
+
+You also have the right to make a complaint against us by contacting your local supervisory authority for data protection (if one exists in your country). We would, however, appreciate the chance to address your concerns before you contact a data protection regulator, and ask that you direct your complaint to us first.
+
+Please see the “Contact Us” section below to learn more about reaching out to Epic with any relevant concerns you may have. You can find more details about your local Data Protection Authority as follows:
+
+*   EEA: [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en) 
+*   UK: [https://ico.org.uk/global/contact-us/](https://ico.org.uk/global/contact-us/) 
+
+*   Switzerland: [https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact.html](https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact.html)
+
+Basis for Processing
+
+The legal bases we rely on to process your personal data depend on the Epic Services you use and how you interact with them. They primarily include:
+
+*   Contractual Necessity: we process personal data to perform the Epic Services you requested under our Terms of Service or other similar contractual agreements with you. For example, we process personal data to set up and maintain your account; process your purchases; authenticate users; provide user-experience features (like saving your preferences); monitor and analyze the Epic Services; detect and prevent fraud, cheating, or other similar misuse; facilitate features like cross-progression that allow you to play a game on one platform and continue your progress on another, which may require us to share your information with third-party partners; and contact you about your account, transactions, or other updates. We also rely on performance of a contract to manage our relationship with you, which includes responding to your support requests or general inquiries, and notifying you about changes to our applicable terms or policies.
+*   Legitimate Interests: we process personal data as needed for Epic’s business purposes, as balanced against the potential impact on your privacy rights. This includes many common purposes that you’d reasonably expect, such as to: communicate with you, respond to your requests, or provide you with updates and information; better understand our users and their preferences; personalize your experience, save your preferences, authenticate our users, and provide similar user experience features; develop, deliver, and improve the Epic Services and other offerings (some of which may be offered in partnership with other parties); manage and customize advertisements or promotional offers; secure and protect the Epic Services; prevent fraud and illegal activity; and support internal purposes such as auditing and data analysis.
+
+*   Legal Obligations: we process personal data when necessary to comply with legal obligations, such as responding to legitimate requests from law enforcement authorities or other government officials in accordance with relevant legal processes.
+*   Consent: we process personal data when you provide us with your consent to do so. You aren’t required to provide consent if you do not want your personal data to be processed for the requested purposes, and you may withdraw your consent at any time.
+
+_**Retention**_
+
+Because the specific personal data we process and our reasons for doing so often vary depending on how you use the Epic Services, how long we retain it can also vary. We generally store personal data for as long as we reasonably need it for the purposes described in this policy (like complying with our legal obligations, managing internal records, enforcing our terms, and resolving disputes), unless a long retention period is required or permitted by law.
+
+The main criteria we consider in determining specific retention periods often include minimum requirements under applicable law, relevant industry standards, the types of data in question (such as its level of sensitivity), relevance to potential litigation or similar proceedings (like defending ourselves against legal claims), and whether the data is required to prevent fraud or similar abuse of the Epic Services (including to enforce prohibitions against cheating and other unauthorized behavior). For example, if you create an Epic account, we will generally store the personal data associated with your Epic account for as long as needed to maintain your account, provide the Epic Services you requested, enforce any terms that apply and govern your use of the Epic Services, and maintain appropriate records to reflect how we deliver the Epic Services to you.
+
+To learn more about requesting that Epic delete your personal data, please see “Your Choices and Controls” and “Data Subject Rights” above.  
+ 
+
+8\. SECURITY
+------------
+
+We maintain appropriate administrative, technical, and physical safeguards to protect your personal information from accidental, unlawful, or unauthorized destruction, loss, alteration, access, disclosure, or use and other unlawful forms of processing. In some cases, your information is accessible when you log into a feature we offer, and in those cases you need to keep your user credentials and password confidential and secure so that your information is protected.    
+ 
+
+9\. UPDATES
+-----------
+
+We’ll update this policy from time to time to reflect changes in our practices or relevant laws. When we do, we’ll change the date noted at the top of the policy. In some cases we may also notify you of the relevant changes by email or within the Epic Services. Please review this policy regularly to make sure that you understand your relationship with Epic and the ways we may collect, use, and share information in connection with the Epic Services.  
+ 
+
+10\. CONTACT US
+---------------
+
+If you have questions or concerns about the Epic Services (such as game-related issues, trouble accessing your Epic account, bugs or other technical problems, payment matters, or content and entitlement issues), please contact our Player Support teams. You can learn more about submitting support requests for products and services from:
+
+*   Epic Games (like Fortnite) [here](https://www.epicgames.com/help/en-US/);
+*   Psyonix (such as Rocket League) [here](https://support.rocketleague.com/hc/en-us); and
+*   Mediatonic (including Fall Guys) [here](https://support.fallguys.com/hc/en-us).
+
+If you want to learn more about our privacy practices or this policy, please email your questions about products and services from:
+
+*   Epic Games to [privacy@support.epicgames.com](mailto:privacy@support.epicgames.com);
+*   Psyonix to [privacy@psyonix.com](mailto:privacy@psyonix.com); and 
+*   Mediatonic to [privacy@mediatonicgames.com](mailto:privacy@mediatonicgames.com).
+
+You can also contact us via postal mail (marked “Attn: Legal Department”) to Epic Games, Inc., located at 620 Crossroads Blvd., Cary, NC 27518, USA.
+
+**If you live in the EEA, the UK, or Switzerland**
+
+**and you are using:**
+
+**the data controller is:**
+
+**contact information:**
+
+the Epic Games Store
+
+Epic Games, Inc.
+
+620 Crossroads Blvd.
+
+Cary, NC 27518, USA
+
+For any questions or concerns about the handling of personal data, contact our Data Protection Officer at dpo@support.epicgames.com
+
+any other products or services provided by Epic Games, such as Fortnite, that link to this privacy policy
+
+Epic Games International S.à.r.l., acting through its Swiss branch
+
+Atrium Business Park
+
+33 rue du Puits Romain, L8070 Bertrange Grand-Duchy of Luxembourg, acting through its Swiss branch, having its principal business offices at
+
+Platz 3, 6039 Root, Switzerland
+
+For any questions or concerns about the handling of personal data, contact our Data Protection Officer at dpo@support.epicgames.com.
+
+products or services provided by Mediatonic, such as Fall Guys, that link to this privacy policy
+
+Mediatonic Limited
+
+2-4 Packhorse Road Gerrards Cross, Buckinghamshire, United Kingdom, SL9 7QE
+
+For any questions or concerns about the handling of personal data,
+
+Mediatonic has appointed Mediatonic Games S.L.U, a Spanish subsidiary of Mediatonic Limited, located at Calle Alfonso XII 62 – la Planta, 28014, Madrid, Spain, as its EU representative.
+
+You may reach Mediatonic’s EU representative by email at privacy@mediatonicgames.com.
+
+products or services provided by Psyonix, such as Rocket League, that link to this privacy policy
+
+Psyonix LLC
+
+401 A St. #4200, San Diego, CA 92101, USA
+
+For any questions or concerns about the handling of personal data, Psyonix has appointed an EU Representative, located at South Bank House, Barrow Street, Dublin 4, Ireland
+
+You may reach Psyonix’s EU representative by email at [PsyonixGDPRrepresentative@mhc.ie](mailto:PsyonixGDPRrepresentative@mhc.ie).
+
+KWS services provided by SuperAwesome
+
+SuperAwesome, as a joint controller with Epic
+
+SuperAwesome Trading Limited
+
+2-4 Packhorse Road
+
+Gerrards Cross
+
+Buckinghamshire
+
+England SL9 7QE
+
+United Kingdom
+
+For any questions or concerns about the handling of personal data, contact our Chief Privacy Officer at [privacy@superawesome.com](mailto:privacy@superawesome.com).
