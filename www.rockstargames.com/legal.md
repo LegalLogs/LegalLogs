@@ -1,6 +1,6 @@
 Revised: July 11, 2019  
 
-TERMS & CONDITIONS
+Terms & Conditions
 ------------------
 
 This document constitutes an agreement (the "Agreement") between you and the United States company Rockstar Games, Inc., its parent Take-Two Interactive Software, Inc., subsidiaries, and affiliates, (the "Company," "we," "us," and "our") that governs the relationship between you and the Company with respect to your use of the Online Services. The Company provides access to the Online Services and any related services subject to your compliance with this Agreement. Thus, it is important that you carefully read and understand this Agreement.
@@ -30,7 +30,7 @@ The terms and conditions herein are in addition to and supplement the End User L
 
 [
 
-DESCRIPTION OF ONLINE SERVICES
+Description of Online Services
 ------------------------------
 
 ](/legal#top)
@@ -42,7 +42,7 @@ Subject to full compliance with this Agreement, the Company may offer to provide
 
 [
 
-TRADEMARK AND COPYRIGHT INFORMATION
+Trademark and Copyright Information
 -----------------------------------
 
 ](/legal#top)
@@ -54,7 +54,7 @@ All Online Services material, including, but not limited to, text, data, graphic
 
 [
 
-SUBMISSIONS
+Submissions
 -----------
 
 ](/legal#top)
@@ -66,7 +66,7 @@ The Company welcomes input from the gaming community. You hereby grant the Compa
 
 [
 
-CODE OF CONDUCT
+Code of Conduct
 ---------------
 
 ](/legal#top)
@@ -86,7 +86,7 @@ We reserve the right to reveal your identity (including whatever information we 
 
 [
 
-LIMITED LICENSE BY THE COMPANY
+Limited License by the Company
 ------------------------------
 
 ](/legal#top)
@@ -102,7 +102,7 @@ You represent and warrant that your use of the Online Services will be consisten
 
 [
 
-LICENSE TO THE COMPANY
+License to the Company
 ----------------------
 
 ](/legal#top)
@@ -114,7 +114,7 @@ By creating UGC, posting messages, uploading files, creating files, inputting da
 
 [
 
-MAKING PURCHASES
+Making Purchases
 ----------------
 
 ](/legal#top)
@@ -126,7 +126,7 @@ If you wish to purchase products or services described in the Online Services, y
 
 [
 
-RINGTONES, WALLPAPERS, AND OTHER MOBILE DEVICE SERVICES & PRODUCTS
+Ringtones, Wallpapers, and Other Mobile Device Services & Products
 ------------------------------------------------------------------
 
 ](/legal#top)
@@ -138,7 +138,7 @@ Certain mobile phone handsets and carriers offer services that enable consumers 
 
 [
 
-VIRTUAL CURRENCY AND VIRTUAL GOODS
+Virtual Currency and Virtual Goods
 ----------------------------------
 
 ](/legal#top)
@@ -150,7 +150,7 @@ The Online Services, including software, may offer the ability to purchase and/o
 
 [
 
-WARRANTY DISCLAIMER
+Warranty Disclaimer
 -------------------
 
 ](/legal#top)
@@ -162,7 +162,7 @@ THE COMPANY MAY PROVIDE LINKS AND POINTERS TO INTERNET WEBSITES MAINTAINED BY TH
 
 [
 
-VOID WHERE PROHIBITED
+Void Where Prohibited
 ---------------------
 
 ](/legal#top)
@@ -174,8 +174,8 @@ Although Company Online Services are accessible worldwide, not all products or s
 
 [
 
-YOUR RESPONSIBILTY TO THE COMPANY
----------------------------------
+Your Responsibility to the Company
+----------------------------------
 
 ](/legal#top)
 
@@ -186,7 +186,7 @@ You are responsible and liable to the Company and its affiliated companies, offi
 
 [
 
-LITIGATION ISSUES
+Litigation Issues
 -----------------
 
 ](/legal#top)
@@ -198,7 +198,7 @@ This Agreement is entered into in the State of New York and shall be governed by
 
 [
 
-TERMINATION
+Termination
 -----------
 
 ](/legal#top)
@@ -212,7 +212,7 @@ The Company may terminate any of the Online Services for any reason at all by gi
 
 [
 
-MISCELLANEOUS
+Miscellaneous
 -------------
 
 ](/legal#top)
@@ -228,8 +228,8 @@ The Company may modify the terms of this Agreement at any time in its sole discr
 
 [
 
-DESIGNATED AGENT UNDER THE DIGITAL MILLENNIUM COPYRIGHT ACT
------------------------------------------------------------
+Designated Agent Under the Digital Millenium Copyright Act
+----------------------------------------------------------
 
 ](/legal#top)
 
@@ -255,7 +255,7 @@ To meet the notice requirements under the DMCA, the notification must be a writt
 
 [
 
-REPEAT INFRINGER POLICY
+Repeat Infringer Policy
 -----------------------
 
 ](/legal#top)
