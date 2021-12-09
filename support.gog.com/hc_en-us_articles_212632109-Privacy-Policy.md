@@ -254,7 +254,7 @@ We might make changes to our Privacy Policy but whenever we do we’ll display t
 
 Just a reminder to check our User Agreement as well.
 
-Last updated: 02.08.2021
+Last updated: 01.12.2021
 
 (See the previous version of the Privacy Policy [here](https://support.gog.com/hc/en-us/articles/360009921554?product=gog))
 
