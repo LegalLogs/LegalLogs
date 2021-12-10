@@ -112,6 +112,14 @@ When you use our Services, we ask that you comply with the [Terms of Use of the 
 
 If you do not abide by these rules, you may be sanctioned including in the event of inappropriate conduct, cheating or toxic behaviour. We will keep your Data for the time needed to apply these sanctions. This Data may include for example your Account identifier, your game data, your IP address, the identifier of your device and your chat history.
 
+#### **k)    You create a Quartz account.**
+
+When you create a Quartz account, we may collect and process your personal information (such as your crypto-wallet public address and information relating to the transactions you operate) to provide the services available to you on Ubisoft Quartz. We may combine this information with other personal data we hold about you, including information from your Ubisoft Connect account, for example to assess your eligibility to use the Ubisoft Quartz services.
+
+In the course of providing you the Services on Ubisoft Quartz, we may share your crypto-wallet public address with independent controllers to process the transactions you operate.
+
+Some of your personal information (including your Ubisoft username and your crypto-wallet public address) will be embedded into the Digits. Due to the nature of blockchain, the retention period of the personal data embedded in the Digits is aligned with the duration of the blockchain, which means that your rights to rectification and erasure may not be extended to the data embedded in the Digits.
+
 **4\. How long does Ubisoft keep your Personal Data?**
 ------------------------------------------------------
 
