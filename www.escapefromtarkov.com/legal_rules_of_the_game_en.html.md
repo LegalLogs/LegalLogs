@@ -3,7 +3,7 @@ Rules of the Game
 
 **Version dated May 29th, 2018**
 
-These Rules of the Game regulate the relations between BATTLESTATE GAMES LIMITED, legal address Wework Spitalfield, 1, Primrose St, London, United Kingdom, EC2A 2EX and/or another person that, with the consent of Battlestate Games Limited, grants you the right to use the Game (hereinafter “Battlestate Games Limited” and/or “the Licensor”), and you, the end user of the computer game Escape From Tarkov (hereinafter “the User”), hereinafter separately referred to as “the Party” and jointly as “the Parties”.
+These Rules of the Game regulate the relations between BATTLESTATE GAMES LIMITED, legal address Wework Aviation House, 125 Kingsway, London, United Kingdom, WC2B 6NH and/or another person that, with the consent of Battlestate Games Limited, grants you the right to use the Game (hereinafter “Battlestate Games Limited” and/or “the Licensor”), and you, the end user of the computer game Escape From Tarkov (hereinafter “the User”), hereinafter separately referred to as “the Party” and jointly as “the Parties”.
 
 The Rules of the Game constitute a Key Document in accordance with the Licence Agreement between the Licensor and you and regulate the rules for using the Game, as well as the User’s liability for breaching the Rules of the Game.
 
