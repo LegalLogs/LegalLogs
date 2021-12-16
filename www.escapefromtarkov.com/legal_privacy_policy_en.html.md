@@ -19,7 +19,7 @@ Battlestate Games Limited has the right to periodically amend and/or supplement 
 
 2.  **About us**
 
-If you have any questions about processing of personal data within the scope of using the games posted on the Websites or about the Policy, you may contact Battlestate Games Limited, legal address: Wework Spitalfield, 1, Primrose St, London, United Kingdom, EC2A 2EX (hereinafter “**Battlestate Games Limited**”, “**we**”, “**our**” and ”**us**”) by email: support@battlestategames.com.
+If you have any questions about processing of personal data within the scope of using the games posted on the Websites or about the Policy, you may contact Battlestate Games Limited, legal address: Wework Aviation House, 125 Kingsway, London, United Kingdom, WC2B 6NH (hereinafter “**Battlestate Games Limited**”, “**we**”, “**our**” and ”**us**”) by email: support@battlestategames.com.
 
 We respect your right to confidentiality of personal data and process such data and other information provided by you or gathered about you exclusively in accordance with the given Policy and the applicable law.
 
