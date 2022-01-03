@@ -1,4 +1,4 @@
-### Intellectual property & trademarksLast Updated: 6 months ago
+### Intellectual property & trademarksLast Updated: 7 months ago
 
 ### Guidelines On Fan-Created Media And Art  
 
