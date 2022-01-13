@@ -3,7 +3,7 @@ GOG Voluntary Refund Policy
 
 1.  **How does your updated Voluntary Refund Policy work?**  
     The updated policy lets you refund a product up to 30 days after purchase, even if it was downloaded, launched, and played. Yes, you read that correctly. :)  
-    To apply for a refund, you should [contact our Customer Support Team](https://support.gog.com/hc/requests/new?form=orders) within 30 days of your purchase, and our team will sort it out as soon as possible.  
+    To apply for a refund, start from [your account's Order History page](https://www.gog.com/account/settings/orders?source=article), find the appropriate order and click "Ask for a refund". For more detailed instructions [click here.](https://support.gog.com/hc/en-us/articles/360011314978-How-do-I-refund-a-game-?product=gog#howto)  
     However, if the reason you are seeking a refund is that your game is not working (yet!), please consider [contacting our friendly Tech Support folk](https://support.gog.com/hc/requests/new?form=technical) first. They will do their best to help you get the game working on your machine.  
     We're monitoring the effects of the current update to make sure no one is using this policy to hurt the developers that put their time and heart into making great games. We may refuse refunds in such individual cases. We'd also let you know about any future adjustments in the voluntary Refund Policy in advance.
 2.  **How long does it take to process a refund?**  
