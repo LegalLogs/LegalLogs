@@ -34,6 +34,7 @@ TABLE OF CONTENTS
 14.  [Changes to this Agreement](#section14)
 15.  [Dispute Resolutions by Binding Arbitration](#section15)
 16.  [Supplemental Terms for PlayStation®](#section16)
+17.  [Supplemental Terms Applicable to Purchases for Mobile Devices](#section17)
 
   
 
@@ -347,8 +348,15 @@ Purchase and use of items are subject to the Network Terms of Service and User A
 
 Any content purchased in an in-game store will be purchased from Sony Interactive Entertainment Network Europe Limited ("SIENE") and be subject to PlayStation™Network Terms of Service and User Agreement which is available on the PlayStation™Store. Please check usage rights for each purchase as these may differ from item to item. Unless otherwise shown, content available in any in-game store has the same age rating as the game.
 
+17\. Supplemental Terms Applicable to Purchases for Mobile Devices
+------------------------------------------------------------------
+
+🛈 Additional terms apply to mobile device purchases.
+
+If you live in the United States, Canada or Japan, the seller of Content and Entitlements purchased from EA for use on a mobile device is Electronic Arts Inc. If you live in any other country, the seller of such Content and Entitlements purchased from EA is EA Swiss Sàrl. Any EA subsidiary identified as the seller of the Content and Entitlements on the mobile app store is acting in its capacity as agent of either Electronic Arts Inc. or EA Swiss Sàrl.
+
   
   
-**Last Updated: August 25, 2021**  
+**Last Updated: January 19, 2022**  
   
 [Previous Terms of Service/User Agreement](https://tos.ea.com/legalapp/WEBTERMS/US/en/PC/previousversions)
