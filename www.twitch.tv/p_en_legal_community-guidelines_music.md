@@ -55,6 +55,18 @@ Our community is a place for streamers to express themselves in remarkable, crea
 
 ### **How This Impacts You**
 
-If you violate these guidelines, you may be subject to a takedown notification from music rights holders under our [DMCA Guidelines](https://www.twitch.tv/p/legal/dmca-guidelines/). We may also take action under our [Community Guidelines](https://www.twitch.tv/p/legal/community-guidelines/).
+If you violate these guidelines, we may take action under our Community Guidelines. Your content may also be subject to a takedown notification from music rights holders under our [DMCA Guidelines](https://www.twitch.tv/p/legal/dmca-guidelines/) or a takedown request under our Reporting Process for Participating Music Rights Holders (“Music Reporting Process”). These two processes are summarized below, and additional detail can be found in our [DMCA Guidelines](https://www.twitch.tv/p/legal/dmca-guidelines/) and Music Reporting Process help page.
 
-In addition, we may mute VODs and delete Clips, for example where our automated content filtering systems detect that audio in on-demand content contains unauthorized music. If you have the necessary rights to share music in your Twitch VODs, we want to ensure that your VODs are not muted. To learn about how to appeal muted audio, please read our help article on [How To Appeal Muted Content](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=en_US).
+Twitch also scans creators’ VODs and clips for copyrighted audio as a proactive measure to help broadcasters avoid creating recorded videos that contain unauthorized audio. A high level overview of this system is described below, and details can be found in our [Muted Audio help article](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=en_US).
+
+**DMCA Process**
+
+The Digital Millennium Copyright Act (“DMCA”) and similar laws around the world require services like Twitch to take certain actions when rights holders claim that users infringe their copyrights using the service. Twitch has established DMCA Guidelines that describe how Twitch receives notifications of claimed infringement (and retractions of those notifications) from rights holders, removes allegedly infringement material, receives counter-notifications from creators disputing those notifications, and issues penalties under its repeat infringer policy. These requirements apply to all types of copyrighted works, including music. For more information, please see our DMCA Guidelines. 
+
+**Music Reporting Process**
+
+Twitch enters into contractual arrangements with certain music rights holders that describe how their copyrighted works can be used on the service. Those arrangements provide for a separate reporting and handling process, which we call the Music Reporting Process. The process gives more flexibility to creators who inadvertently or incidentally include participating rights holders’ copyrights in the content creators share on their channels. For certain egregious uses of these rights holders’ copyrighted works, Twitch will issue a warning to creators for their first offense, and issue penalties for subsequent offenses. Twitch may also suspend livestreams and/or delete recorded videos that include music in a prohibited way.
+
+**Automatic Muting or Removal of Recorded Videos**
+
+In addition, Twitch may mute VODs and delete Clips, for example where our audio recognition system detects that audio in on-demand content contains unauthorized music. If you have the necessary rights to share music or other copyrighted audio in your Twitch VODs, we want to ensure that your VODs are not muted. To learn about how to appeal muted audio, please read our help article on [How To Appeal Muted Content](https://help.twitch.tv/s/article/how-to-appeal-flagged-content?language=en_US).
