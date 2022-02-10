@@ -1,7 +1,7 @@
 **EA PLAY TERMS**  
   
   
-These terms describe your rights to access EA Play. EA may revise these terms at any time in its sole discretion. If we make any revisions, we will change the "Last Updated" date above and post the revised terms at [https://tos.ea.com/legalapp/eaplay/US/en/PC/](https://tos.ea.com/legalapp/eaplay/US/en/PC/). Revisions to terms affecting existing EA Play subscriptions shall be effective 30 days from posting at [https://tos.ea.com/legalapp/eaplay/US/en/PC/](https://tos.ea.com/legalapp/eaplay/US/en/PC/).  
+These terms describe your rights to access EA Play. EA may revise these terms at any time in its sole discretion. If we make any revisions, we will change the "Last Updated" date below and post the revised terms at [https://tos.ea.com/legalapp/eaplay/US/en/PC/](https://tos.ea.com/legalapp/eaplay/US/en/PC/). Revisions to terms affecting existing EA Play subscriptions shall be effective 30 days from posting at [https://tos.ea.com/legalapp/eaplay/US/en/PC/](https://tos.ea.com/legalapp/eaplay/US/en/PC/).  
   
 EA Play subscriptions are purchased from the following platforms ("Platforms"):
 
@@ -24,7 +24,7 @@ EA Play subscriptions are purchased from the following platforms ("Platforms"):
 
 *   PlayStation®4 and PlayStation®5 (Sony\*)
 
-*   [https://www.playstation.com/psnterms](https://www.playstation.com/psnterms)
+*   [https://www.playstation.com/legal/psn-terms-of-service/](https://www.playstation.com/legal/psn-terms-of-service/)
 *   [https://playstation.com/eaplay](https://playstation.com/eaplay)
 *   PlayStation®Plus membership required to access certain Play List title online features.
 *   When you purchase EA Play from Sony that purchase will auto-renew at the then-current renewal subscription price (plus applicable tax or inclusive of applicable taxes based on billing address) on each renewal date, without any additional action by you, until you cancel. You may cancel your subscription at any time with the relevant Sony entity.  
