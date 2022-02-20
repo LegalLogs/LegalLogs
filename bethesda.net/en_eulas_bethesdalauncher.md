@@ -1,5 +1,5 @@
-Bethesda Launcher EULA
-======================
+Bethesda.net Launcher EULA
+==========================
 
 Select Your Region
 
