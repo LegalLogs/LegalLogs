@@ -1,39 +1,49 @@
-Discord Community Guidelines
-============================
+Discord Community Guidelines[
 
-**Last Updated: May 19th, 2020.**
+](#discord-community-guidelines)
+===============================================================
 
-We created Discord to help people come together around games. It's been amazing to watch it grow into what it is today - a place where millions of diverse communities exist and people connect with old friends and new. We can't wait to see what's next.
+Effective: March 28, 2022  
+Last Updated: February 25, 2022 We created Discord to be a place where it’s easy to communicate genuinely, build relationships, and have fun hanging out. Our Community Guidelines ensure everyone finds belonging, but not at the expense of anyone else.These guidelines explain what is and isn’t allowed on Discord. Everyone on Discord must follow these rules, and they apply to all parts of our platform, including your content, behaviors, servers, and bots. We may consider relevant [off-platform behavior when assessing for violations of specific Community Guidelines](https://dis.gd/importantupdates).Our Trust & Safety team reviews reports by users, moderators, or trusted reports. When someone violates these guidelines we may take a number of enforcement steps against them including: issuing warnings; removing content; suspending or removing the accounts and/or servers responsible; and potentially reporting them to law enforcement.If you come across a user, message, or server that appears to break these guidelines, please [report it to us](https://support.discord.com/hc/en-us/requests/new?ticket_form_id=360000029731).
 
-Our community guidelines are meant to explain what is and isn’t allowed on Discord, and ensure that everyone has a good experience. If you come across a message that appears to break these rules, please report it to us. We may take a number of steps, including issuing a warning, removing the content, or removing the accounts and/or servers responsible.
+Respect Each Other[
 
-The overwhelming majority of people use Discord responsibly, so these guidelines may seem obvious. Still, we want to be clear about the expectations for our users. Every user of Discord should feel like their voice can be heard, but not at the expense of someone else.
+](#respect-each-other)
+===========================================
 
-### Here are some rules for interacting with others:
+*   Do not harass others or organize, promote, or participate in harassment. Disagreements happen and are normal, but making continuous, repetitive, or severe negative comments or circumventing a block or ban can cross the line into harassment and is not okay.
+*   Do not organize, promote, or participate in hate speech or hateful conduct. It’s unacceptable to attack a person or a community based on attributes such as their race, ethnicity, caste, national origin, sex, gender identity, gender presentation, sexual orientation, religious affiliation, age, serious illness, disabilities, or other protected classifications.
+*   Do not make threats of violence or threaten to harm others. This includes indirect or suggestive threats, as well as sharing or threatening to share someone’s personally identifiable information (also known as doxxing).
+*   Do not use Discord for the organization, promotion, or support of violent extremism. You can read how we define violent extremism here. This also includes glorifying violent events, the perpetrators of violent acts, or similar behaviors.
+*   Do not sexualize children in any way. You cannot share content or links which depict children in a pornographic, sexually suggestive, or violent manner, including illustrated or digitally altered pornography that depicts children (such as lolicon, shotacon, or cub) and conduct grooming behaviors. We report illegal content and grooming to the National Center for Missing and Exploited Children.
+    *   We strongly discourage and may take action against vigilante behavior, as it can interfere with our investigation and ability to report to law enforcement.
+*   Do not make adult content available to anyone under the age of 18. You must be age 18 or older to participate in adult content on Discord. You must apply the age-restricted label to any channels or servers if they contain adult content or other restricted content such as violent content. You can learn more about the types of content you must age-restrict here.
+    *   Do not use adult content in avatars, server banners, server icons, invite splashes, emoji, stickers, or any other space that cannot be age-restricted.
+*   Do not share sexually explicit content of other people without their consent, or promote the sharing of non-consensual intimate materials (images, video, or audio), sometimes known as revenge porn.
+*   Do not share content that glorifies or promotes suicide or self-harm, including any encouragement to others to cut themselves or embrace eating disorders such as anorexia or bulimia.
+    *   Self-harm threats used as a form of emotional manipulation or coercion are also prohibited.
+*   Do not share real media depicting gore, excessive violence, or animal harm, especially with the intention to harass or shock others.
+*   Do not share content that violates anyone's intellectual property or other rights.
 
-1.  **Do not organize, participate in, or encourage harassment of others.** Disagreements happen and are normal, but continuous, repetitive, or severe negative comments may cross the line into harassment and are not okay.
-2.  **Do not organize, promote, or coordinate servers around hate speech.** It’s unacceptable to attack a person or a community based on attributes such as their race, ethnicity, national origin, sex, gender, sexual orientation, religious affiliation, or disabilities.
-3.  **Do not make threats of violence or threaten to harm others.** This includes indirect threats, as well as sharing or threatening to share someone’s private personal information (also known as doxxing).
-4.  **Do not evade user blocks or server bans.** Do not send unwanted, repeated friend requests or messages, especially after they’ve made it clear they don’t want to talk to you anymore. Do not try to hide your identity in an attempt to contact someone who has blocked you, or otherwise circumvent the tools we have which enable users to protect themselves.
-5.  **Do not send others viruses or malware**, attempt to phish others, or hack or DDoS them.
+Be Honest[
 
-### Here are some rules for content on Discord:
+](#be-honest)
+=========================
 
-6.  **You must apply the NSFW label to channels if there is adult content in that channel.** Any content that cannot be placed in an age-gated channel, such as avatars, server banners, and invite splashes, may not contain adult content.
-7.  **You may not sexualize minors in any way.** This includes sharing content or links which depict minors in a pornographic, sexually suggestive, or violent manner, and includes illustrated or digitally altered pornography that depicts minors (such as lolicon, shotacon, or cub). We report illegal content to the [National Center for Missing and Exploited Children](https://www.missingkids.org/gethelpnow/cybertipline).
-8.  **You may not share sexually explicit content of other people without their consent**, or share or promote sharing of non-consensual intimate imagery (also known as revenge porn) in an attempt to shame or degrade someone.
-9.  **You may not share content that glorifies or promotes suicide or self-harm**, including any encouragement to others to cut themselves, or embrace eating disorders such as anorexia or bulimia.
-10.  **You may not share images of sadistic gore or animal cruelty.**
-11.  **You may not use Discord for the organization, promotion, or support of violent extremism.**
-12.  **You may not operate a server that sells or facilitates the sales of prohibited or potentially dangerous goods.** This includes firearms, ammunition, drugs, and controlled substances.
-13.  **You may not promote, distribute, or provide access to content involving the hacking, cracking, or distribution of pirated software or stolen accounts.** This includes sharing or selling cheats or hacks that may negatively affect others in multiplayer games.
-14.  In general, **you should not promote, encourage or engage in any illegal behavior.** This is very likely to get you kicked off Discord, and may get you reported to law enforcement.
+*   Do not share false or misleading information (otherwise known as misinformation). Content that is false, misleading, and can lead to significant risk of physical or societal harm may not be shared on Discord. We may remove content if we reasonably believe its spread could result in damage to physical infrastructure, injury of others, obstruction of participation in civic processes, or the endangerment of public health.
+*   Do not coordinate or participate in malicious impersonation of an individual or an organization. Satire and parody are okay.
+*   Do not engage in activities intended to cause damage or gain unauthorized access to another user's account, network, or system. This includes impersonating Discord staff, distributing malware, authentication token theft, phishing, DDOS, and other hacking or social engineering techniques.
+*   Do not distribute or provide access to content involving the hacking, cracking, or distribution of stolen goods, pirated content, or accounts. This includes sharing or selling game cheats or hacks.
 
-### Finally, we ask that you respect Discord itself:
+Respect Discord[
 
-15.  **You may not sell your account or your server.**
-16.  **You may not use self-bots or user-bots to access Discord.**
-17.  **You may not share content that violates anyone's intellectual property or other rights.**
-18.  **You may not spam Discord**, especially our Customer Support and Trust & Safety teams. Making false and malicious reports, sending multiple reports about the same issue, or asking a group of users to all report the same content may lead to action being taken on your account.
+](#respect-discord)
+=====================================
 
-If you see any activity that violates these guidelines, you can report it to us by filling out [this form](https://dis.gd/request).
+*   Do not use Discord to spam, manipulate engagement, or disrupt other people’s experience, including trying to to influence or disrupt conversations using bots, fake accounts, multiple accounts, or other automation. This includes purchasing or selling methods of artificially increasing membership, such as via advertisements or botting.
+*   Do not organize, promote, or engage in any illegal or dangerous behavior, such as sexual solicitation, human trafficking, and selling or facilitating the sale of prohibited or potentially dangerous goods (firearms, ammunition, drugs, and controlled substances). These activities are likely to get you kicked off Discord, and may get you reported to law enforcement.
+*   Do not abuse Discord products in any way, such as selling or purchasing an account or server, or participating in fraudulent Nitro incentives or Boosting activities.
+*   Do not use self-bots or user-bots. Each account must be associated with a human, not a bot. Self-bots put strain on Discord’s infrastructure and our ability to run our services. For more information, you can read our Developer Policies [here](https://discord.com/developers/docs/policy).
+*   Do not mislead Discord’s support teams. Do not make false or malicious reports to Trust & Safety or Customer Support; send multiple reports about the same issue; or ask a group of users to report the same content or issue. These behaviors may result in action being taken on your account.
+
+If you see any activity that violates these guidelines, our Terms of Service, or our other policies, please report it to us in the Discord mobile app or by filling out this [form](https://dis.gd/request).These guidelines will continue to evolve over time. This means we may take action against a user, server, or content that violates the spirit of these guidelines when we encounter a new threat or harm that is not explicitly covered in the current version.We will always make our best effort to notify you when we update these guidelines, but it is up to you to follow the spirit of them: keep Discord safe and a place for everyone to belong. Thanks for doing your part.
