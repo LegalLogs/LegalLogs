@@ -33,4 +33,3 @@ In addition to our our main Content Guidelines, check out these additional resou
 *   [Epic Games Community Rules](https://www.epicgames.com/site/en-US/community-rules)
 *   [Rocket League Code of Conduct](https://www.rocketleague.com/news/rocket-league-code-of-conduct/)
 *   [Fortnite Creative - Creator Content Rules & Guidelines](https://www.epicgames.com/fortnite/news/fortnite-creative-creator-content-rules-and-guidelines)
-*   [Houseparty Content Guidelines](https://houseparty.com/guidelines/)

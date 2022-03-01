@@ -22,7 +22,7 @@ WE DON’T TOLERATE:
 *   Posting your own as well as other people’s personally identifiable information (i.e. name, address, email, phone number, place of work, etc.).
 *   Posting links to phishing sites, malware, or spyware.
 *   Impersonating forum moderators or other users.
-*   Spamming, bashing, flaming, trolling, or abusing the reputation and/or “report as spam” function.
+*   Spamming, bashing, flaming or trolling
 *   Any kind of encouragement towards taking drugs or drinking alcohol.
 *   Creating multiple accounts.
 *   Posting something that is knowingly false.
