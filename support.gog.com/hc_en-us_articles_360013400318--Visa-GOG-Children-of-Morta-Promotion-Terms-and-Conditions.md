@@ -17,7 +17,7 @@ b) must be a GOG.COM user and have or create a free GOG.COM account and accept t
 
 c) must have at least one account with a Card or Cards assigned to him/her and must save the card using the Card-On-File option when updating the payment information in the GOG.COM account. The above option must be active at all times until the Promotion Code is sent for the bonus game (as described in point 8 below) “Children of Morta”. To avoid confusion, only one Visa card assigned to a given GOG.COM user account is taken into account in the Promotion,
 
-d) must meet the minimum expenditure requirement of 25 USD or other currencies respectively in the following amounts: 99 PLN, 21 EUR, 19 GBP, 34 AUD, 1800 RUB, 216 SEK, 221 NOK, 156 DKK, 23 CHF, 33 CAD, 138 BRL, 180 CNY) in one transaction on GOG.COM carried out with the Card during the Promotion Period (separately “Eligible Transaction” and collectively “Eligible Transactions”),
+d) must meet the minimum expenditure requirement of 25 USD or other currencies respectively in the following amounts: 99 PLN, 21 EUR, 19 GBP, 34 AUD, 216 SEK, 221 NOK, 156 DKK, 23 CHF, 33 CAD, 138 BRL, 180 CNY) in one transaction on GOG.COM carried out with the Card during the Promotion Period (separately “Eligible Transaction” and collectively “Eligible Transactions”),
 
 e) must register at [www.gog.com/visa](http://www.gog.com/visa) (“Entry”) providing the email address assigned to the GOG.COM account linked to the Visa Card described in point 5.c above,
 
