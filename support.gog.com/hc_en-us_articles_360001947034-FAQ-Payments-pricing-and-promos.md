@@ -5,7 +5,7 @@ FAQ: Payments, pricing and promos
 
 We currently support the following payment methods: credit cards, PayPal, paysafecard, SOFORT, Giropay, webmoney, iDeal, Skrill, Alipay, UnionPay, WeChat, and Przelewy24. We also support payments via BoaCompra with a bank transfer, boleto, credit card, real-time online banking and wallet.
 
-All our prices are in USD, and - where applicable - in AUD, BRL, CAD, CHF, CNY, DKK, EUR, GBP, NOK, PLN, RUB, and SEK as well. You can freely switch from your local currency to USD, and (in some European countries) EUR, if you prefer.
+All our prices are in USD, and - where applicable - in AUD, BRL, CAD, CHF, CNY, DKK, EUR, GBP, NOK, PLN, and SEK as well. You can freely switch from your local currency to USD, and (in some European countries) EUR, if you prefer.
 
 To switch your currency setting, look for a drop-down menu on the bottom-right of the site, or in your account's settings.
 
