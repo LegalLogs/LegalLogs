@@ -1,4 +1,4 @@
-### Privacy PolicyLast Updated: 8 months ago
+### Privacy PolicyLast Updated: 9 months ago
 
 **1\. Introduction.**  
   
