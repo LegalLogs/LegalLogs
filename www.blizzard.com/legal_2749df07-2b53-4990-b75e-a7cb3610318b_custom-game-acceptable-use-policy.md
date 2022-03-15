@@ -20,7 +20,7 @@ This document (the “Policy”) sets forth the design and development rules for
 
 *   Donors shall not be provided with any in-game special advantages, such as private access to a Custom Game, special levels, graphical markers, special text, abilities, units, etc. All users are to be able to play the same Custom Game.
 *   Corporations, limited liability companies, partnerships, etc., cannot be listed in the credits section of a Custom Game; only individuals may be listed.
-*   The use of Blizzard’s trademarks and copyrighted content in a Custom Game shall be consistent with Blizzard’s usage guidelines, which can be found at [https://www.blizzard.com/legal/8bcb0794-6641-4ce3-a573-8eb243bab342/blizzard-entertainment-logo-and-trademark-guidelines](ttps://www.blizzard.com/legal/8bcb0794-6641-4ce3-a573-8eb243bab342/blizzard-entertainment-logo-and-trademark-guidelines).
+*   The use of Blizzard’s trademarks and copyrighted content in a Custom Game shall be consistent with Blizzard’s usage guidelines, which can be found at [https://www.blizzard.com/legal/8bcb0794-6641-4ce3-a573-8eb243bab342/blizzard-entertainment-logo-and-trademark-guidelines](https://www.blizzard.com/legal/8bcb0794-6641-4ce3-a573-8eb243bab342/blizzard-entertainment-logo-and-trademark-guidelines).
 *   A donor’s access to a Custom Game may not be tied to access to the Custom Game prior to general publication.
 *   Blizzard reserves the right to demand, at is sole discretion, that a developer of a Custom Game immediately cease any requests for funding and remove the request for funding from the Donation Site, and the developer of the Custom Game agrees to promptly comply with such demand.
 
