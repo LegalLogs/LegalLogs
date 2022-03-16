@@ -70,7 +70,7 @@ PC & CONSOLE PRODUCT NAMES:
 **Commander Keen™ Aliens Ate My Babysitter (Episode 6)**  
 © 1991 id Software LLC, a ZeniMax Media company. Commander Keen, id, id Software and related logos are registered trademarks or trademarks of id Software LLC in the U.S. and/or other countries. All Rights Reserved.
 
-**Deathloop™**  
+**Deathloop®**  
 © 2021 ZeniMax Media Inc. Deathloop, Bethesda, Bethesda Softworks, ZeniMax and related logos are registered trademarks or trademarks of ZeniMax Media Inc. in the U.S. and/or other countries. Arkane and the Arkane logo are registered trademarks or trademarks of Arkane Studios SAS. All Rights Reserved.
 
 **Dishonored®**  
