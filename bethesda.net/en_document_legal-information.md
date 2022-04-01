@@ -255,8 +255,8 @@ Fallout® 4: Far Harbor**
 **Fallout 76 Wastelanders**  
 © 2020 Bethesda Softworks LLC, a ZeniMax Media company. Bethesda, Bethesda Softworks, Bethesda Game Studios, ZeniMax, Pip-Boy, Vault-Tec and related logos are registered trademarks or trademarks of ZeniMax Media Inc. in the U.S. and/or other countries. Fallout, Vault Boy and related logos are trademarks or registered trademarks of Bethesda Softworks LLC in the U.S. and/or other countries. All Rights Reserved.
 
-**Ghostwire™: Tokyo** (in development)  
-© 2011 ZeniMax Media Inc. Developed in association with Tango Gameworks. Ghostwire, Tango, Tango Gameworks, the TA logo, Bethesda, Bethesda Softworks, ZeniMax and related logos are registered trademarks or trademarks of ZeniMax Media Inc. in the U.S. and/or other countries. All Rights Reserved.
+**Ghostwire™: Tokyo**  
+© 2022 ZeniMax Media Inc. Developed in association with Tango Gameworks. Ghostwire, Tango, Tango Gameworks, the TA logo, Bethesda, Bethesda Softworks, ZeniMax and related logos are registered trademarks or trademarks of ZeniMax Media Inc. in the U.S. and/or other countries. All Rights Reserved.
 
 **Hunted: The Demon's Forge®**  
 © 2011 ZeniMax Media Inc. Hunted: The Demon's Forge, Bethesda Softworks, ZeniMax and related logos are registered trademarks or trademarks of ZeniMax Media Inc. in the U.S. and/or other countries. Developed in association with inXile Entertainment Inc. inXile Entertainment and the inXile Entertainment logo are registered trademarks or trademarks of inXile Entertainment Inc. All Rights Reserved.
