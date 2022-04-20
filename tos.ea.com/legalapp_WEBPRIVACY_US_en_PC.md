@@ -38,7 +38,7 @@ The information we collect depends on what Services you use and how you use them
 
 ### A. Information You Give Us Directly
 
-🛈 We collect information that you give us directly, such as when you create an EA Account, set up security questions, make purchases, or contact EA Help.
+ⓘ We collect information that you give us directly, such as when you create an EA Account, set up security questions, make purchases, or contact EA Help.
 
 We collect information that you provide us, such as:
 
@@ -50,7 +50,7 @@ We collect information that you provide us, such as:
 
 ### B. Information You Provide When Playing Online
 
-🛈 When you play online, we may collect information about your gaming profile, your gameplay, or your use of social features.
+ⓘ When you play online, we may collect information about your gaming profile, your gameplay, or your use of social features.
 
 When you participate in social features such as chat, any audio, visual, and/or electronic information that you disclose may be read, copied, collected, or used by other players, and may become publicly available. Please make sure your privacy settings reflect your preferences.
 
@@ -58,7 +58,7 @@ When you participate in online multiplayer games, your in-game profile informati
 
 ### C. Other Information We Collect When You Use Our Services
 
-🛈 We may collect other information when you use our Services, such as information about your device, hardware and software information, IP address, or browser information.
+ⓘ We may collect other information when you use our Services, such as information about your device, hardware and software information, IP address, or browser information.
 
 We may collect other information automatically when you use our Services, such as:
 
@@ -75,7 +75,7 @@ We also may collect and store information locally on your device, using mechanis
 
 ### D. Information Provided to Us by Third Parties
 
-🛈 We may receive information about you from third parties, such as Sony, Microsoft, Nintendo, Google, mobile platforms, or third-party authenticators that you use to sign in to our Services.
+ⓘ We may receive information about you from third parties, such as Sony, Microsoft, Nintendo, Google, mobile platforms, or third-party authenticators that you use to sign in to our Services.
 
 We may receive information about you contained in third-party user accounts when you use EA online Services on or through third-party gaming platforms, such as those listed below. This information is provided to EA as part of establishing or linking an EA Account, which is necessary to access EA’s online services. Your use of EA online Services through these third-parties indicates your agreement for the transfer of this information. Examples of information we receive are provided below. We never receive your credit card number or other financial information from these third-parties as part of establishing or linking an EA Account.
 
@@ -119,7 +119,7 @@ We may collect additional information, such as:
 
 ### F. Legal Basis for Processing
 
-🛈 Depending on where you reside, we may rely on different legal bases to process your information.
+ⓘ Depending on where you reside, we may rely on different legal bases to process your information.
 
 Our legal basis for processing your personal information varies depending on the type of information we collect and the context in which we collect it as well as on your country of residence, as indicated when you are setting up your EA account or, when not signed into an EA Account, your location as determined by your IP address and/or your device registration country.
 
@@ -132,7 +132,7 @@ If you are a resident of the European Economic Area or of a jurisdiction where s
 2\. How We Collect Information
 ------------------------------
 
-🛈 We use various technologies to deliver and measure the effectiveness of our Services, to serve advertisements, and to enhance your player experience. These technologies include cookies and similar technologies, as well as analytics, advertising, anti-cheat, and anti-fraud technologies.
+ⓘ We use various technologies to deliver and measure the effectiveness of our Services, to serve advertisements, and to enhance your player experience. These technologies include cookies and similar technologies, as well as analytics, advertising, anti-cheat, and anti-fraud technologies.
 
 We and third parties use technologies described below to collect information to deliver our Services.
 
@@ -177,7 +177,7 @@ We strive to provide a safe and fair gaming environment for all players. When yo
 3\. How We Use Your Information
 -------------------------------
 
-🛈 We use your information to operate our Services, to improve your game experience, to provide you customer support, to serve and measure the effectiveness of advertising, and to personalize our communications with you.
+ⓘ We use your information to operate our Services, to improve your game experience, to provide you customer support, to serve and measure the effectiveness of advertising, and to personalize our communications with you.
 
 We use your personal information, both individually and combined together, in the following ways.
 
@@ -229,7 +229,7 @@ We may also de-identify, anonymize, or aggregate the information we collect, or 
 4\. Information We Share with Third Parties
 -------------------------------------------
 
-🛈 We do not disclose or share your personal information with third parties except as we describe in this section, such as to provide our Services and to deliver advertisements.
+ⓘ We do not disclose or share your personal information with third parties except as we describe in this section, such as to provide our Services and to deliver advertisements.
 
 Except as described below, we do not share, sell, or otherwise disclose personal information to third parties (as these processing activities are defined under applicable privacy laws, such as the California Consumer Privacy Act):
 
@@ -262,7 +262,7 @@ Other platforms receiving your information may include Sony (PlayStation®4 syst
 5\. Where We Hold Your Information
 ----------------------------------
 
-🛈 We store and process your information in the United States and other countries where we operate. When we do this, we utilize technical, physical, and administrative safeguards to meet data transfer requirements set by various privacy laws, such as the European General Data Protection Regulation.
+ⓘ We store and process your information in the United States and other countries where we operate. When we do this, we utilize technical, physical, and administrative safeguards to meet data transfer requirements set by various privacy laws, such as the European General Data Protection Regulation.
 
 Personal information we collect may be stored and processed for the purposes set out in this Privacy and Cookie Policy in the United States or any other country in which EA, its subsidiaries, or third-party agents operate. By consenting to the transfer of your personal data outside of your country of residence, you acknowledge that your personal information may be transferred to recipients in the United States and other countries that may not offer the same level of privacy protection as the laws in your country of residence or citizenship.
 
@@ -273,14 +273,14 @@ Electronic Arts Inc. holds certifications under the (former) EU-US and the Swiss
 6\. How We Protect Your Information
 -----------------------------------
 
-🛈 We use a range of security measures to secure and protect your information.
+ⓘ We use a range of security measures to secure and protect your information.
 
 Security of your information is a priority at EA and we take a range of technical and organizational measures to help protect it, including encryption of sensitive information. Even so, please be aware that no security measure is 100% perfect. Thus we cannot guarantee the security of your information at all times. You should always be diligent when it comes to the protection of your personal information.
 
 7\. Children
 ------------
 
-🛈 Children can play our games with parental or guardian permission. We strive to protect their online gaming experience by disabling certain features, when possible. We also give parents or guardians controls and choices over the processing of their children’s information.
+ⓘ Children can play our games with parental or guardian permission. We strive to protect their online gaming experience by disabling certain features, when possible. We also give parents or guardians controls and choices over the processing of their children’s information.
 
 Although the majority of EA online and mobile games and Services are intended for adults, EA recognizes the importance of protecting children's privacy online. We strive to follow the different minimum age guidelines set by the laws of individual countries or territories when determining the age that children can access certain features of our Services.
 
@@ -311,7 +311,7 @@ We encourage you to talk with your children about communicating with strangers a
 8\. Your Choices and Controls
 -----------------------------
 
-🛈 We provide you with choice and control about our use of your information, including your ability to exercise your data privacy rights.
+ⓘ We provide you with choice and control about our use of your information, including your ability to exercise your data privacy rights.
 
 We give you meaningful choices when it comes to our collection and use of your information. For example, if you no longer want to receive marketing emails from EA, you may click the unsubscribe link included in the footer of any marketing email we send.
 
@@ -334,21 +334,21 @@ You have a right not to receive discriminatory treatment for the exercise of the
 9\. Third-Party Services
 ------------------------
 
-🛈 Our websites and Services may contain ads or links to third-party services and sites.
+ⓘ Our websites and Services may contain ads or links to third-party services and sites.
 
 Our websites and Services may contain advertising or links to third-party services (such as the Facebook "Like" button or links to third-party websites). If you click on those links, including an advertisement, you will leave the EA Service and go to the third-party service or site that you selected. If you visit a third-party website or use a third-party service, you should consult that service's or site's privacy policy as your use of third-party sites or services is governed by their privacy policies.
 
 10\. Changes to Our Policy
 --------------------------
 
-🛈 This policy will be updated from time to time and we will notify you of material changes.
+ⓘ This policy will be updated from time to time and we will notify you of material changes.
 
 We may occasionally update this privacy policy. When we do, we will revise the "last updated" date at the bottom of the policy. If there are material changes to this policy, we will use reasonable efforts to notify you either by prominently posting a notice of such changes before they take effect or by directly sending you a notification.
 
 11\. Contact Us
 ---------------
 
-🛈 You may contact us if you have questions about this policy.
+ⓘ You may contact us if you have questions about this policy.
 
 If you have questions about this policy, please use our [Privacy Portal](https://www.ea.com/privacy-portal) to contact our Data Protection Officer.  
   
@@ -357,7 +357,7 @@ To contact EA, including our Data Protection Officer, you can also use the follo
 12\. Right to Contact a Data Protection Authority
 -------------------------------------------------
 
-🛈 You may have the right to contact your Data Protection Authority.
+ⓘ You may have the right to contact your Data Protection Authority.
 
 If you have a concern about how we collect and use information, please contact us. You also have the right to contact your local Data Protection Authority if you prefer. Contact details for Data Protection Authorities in the EEA are available [here](https://edpb.europa.eu/about-edpb/board/members_en).
 
