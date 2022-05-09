@@ -21,7 +21,7 @@ We use the term “Epic Services” to describe any Epic products or services th
 
 *   games like [Fortnite](https://www.epicgames.com/fortnite/en-US/home), [Rocket League](https://www.rocketleague.com/) (through our subsidiary Psyonix), and [Fall Guys](https://fallguys.com/) (through our subsidiary Mediatonic);
 *   websites and applications such as [www.epicgames.com](http://www.epicgames.com/) and the [Epic Games Store](https://www.epicgames.com/store/en-US/), [](http://www.rocketleague.com/) [www.rocketleague.com](http://www.rocketleague.com/) (through Psyonix), and [](http://www.fallguys.com/) [www.fallguys.com](http://www.fallguys.com/) (through Mediatonic); and
-*   developer tools, including the [Developer Portal](https://dev.epicgames.com/portal/en-US/?sessionInvalidated%3Dtrue) and [Unreal Engine](https://www.unrealengine.com/en-US/?sessionInvalidated%3Dtrue).
+*   developer tools, including the [Developer Portal](https://dev.epicgames.com/portal/en-US/) and [Unreal Engine](https://www.unrealengine.com/en-US/).
 
 Note that your use of the Epic Services may also be subject to additional terms and conditions. For example, you must review and accept the Fortnite End User License Agreement ([link](https://www.epicgames.com/fortnite/en-US/eula)) to play Fortnite, the Psyonix Terms of Use ([link](https://www.psyonix.com/tou/)) to play Rocket League, and the Fall Guys: Ultimate Knockout – End User License Agreement ([link](https://fallguys.com/eula)) to play Fall Guys.
 
