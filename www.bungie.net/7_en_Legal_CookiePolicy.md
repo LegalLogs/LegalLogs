@@ -1,16 +1,13 @@
-### Cookie PolicyLast Updated: 10 months ago
+### Cookie PolicyLast Updated: a year ago
 
-We (meaning Bungie Inc.) use technologies on our website and online services (which we'll call the ‘Services’) to collect information that helps us improve your online experience. We refer to these technologies, which include cookies, collectively as “cookies.” This policy explains the different types of cookies used on the Services and how you can control them. We hope that this policy helps you understand and feel more confident about our use of cookies. If you have any further queries, please contact us at privacyrequests@bungie.com. Please also see our Privacy Policy ([https://www.bungie.net/privacy](https://www.bungie.net/privacy)) and our Terms of Use ([https://www.bungie.net/terms](https://www.bungie.net/terms)).   
-  
+We (meaning Bungie Inc.) use technologies on our website and online services (which we'll call the ‘Services’) to collect information that helps us improve your online experience. We refer to these technologies, which include cookies, collectively as “cookies.” This policy explains the different types of cookies used on the Services and how you can control them. We hope that this policy helps you understand and feel more confident about our use of cookies. If you have any further queries, please contact us at privacyrequests@bungie.com. Please also see our Privacy Policy ([https://www.bungie.net/7/en/legal/privacypolicy](https://www.bungie.net/7/en/legal/privacypolicy)) and our Terms of Use ([https://www.bungie.net/7/en/legal/terms](https://www.bungie.net/7/en/legal/terms)). 
 
 ### 1\. WHAT IS A COOKIE?
 
-Cookies are small text files that are stored on your computer or mobile device. They are widely to make websites or other online services work or to be better or more efficient. They can do this because websites and other online services can read and write these files, enabling them to recognize you and remember important information that will make your use of them more convenient (e.g. by remembering your user preferences)  
-  
+Cookies are small text files that are stored on your computer or mobile device. They are widely to make websites or other online services work or to be better or more efficient. They can do this because websites and other online services can read and write these files, enabling them to recognize you and remember important information that will make your use of them more convenient (e.g. by remembering your user preferences)
 
 ### 2\. WHAT COOKIES DO WE USE?
 
-  
 Below we list the different types of cookies we may use on the Services.
 
 **Essential Cookies**. Some cookies are essential to the operation of our Services and therefore cannot be turned off for as long as you are using the Services. Without these cookies, essential components of the services you have asked for do not function, such as accessing secure areas of a website or paid-for content.
@@ -56,17 +53,17 @@ Used to store authenticated user account identifiers
 
 Bunglemsa, bunglebliz, bunglesteam, bungleyeti, bunglesony
 
-Encrypted value, used to store intermediate authentication tokens for partner platform sign in  
+Encrypted value, used to store intermediate authentication tokens for partner platform sign in
 
-bungleEmailSubscription  
+bungleEmailSubscription
 
-Used to track progress through the email subscription flow  
+Used to track progress through the email subscription flow
 
-Bungled  
+Bungled
 
-Used by various features when a unique session identifier is required  
+Used by various features when a unique session identifier is required
 
-Bungledid  
+Bungledid
 
 Used by various features when a unique device identifier is required  
 
@@ -88,9 +85,9 @@ Cloudflare
 
 Used for identifying individual visitors privately. For more information, see [https://www.cloudflare.com/cookie-policy/](https://www.cloudflare.com/cookie-policy/)  
 
-**Performance Cookies.**  
-  
-Performance cookies, which often include analytics cookies, collect information about your use of the Services and enable us to improve the way it works. For example, performance cookies show us which are the most frequently visited pages on our website, allow us to see the overall patterns of usage on the Services, help us record any difficulties you have with the Services and show us whether our advertising is effective or not. We also use cookies to help you navigate within our website and travel back to pages. Performance cookies on the Services may include:  
+**Performance Cookies.**
+
+Performance cookies, which often include analytics cookies, collect information about your use of the Services and enable us to improve the way it works. For example, performance cookies show us which are the most frequently visited pages on our website, allow us to see the overall patterns of usage on the Services, help us record any difficulties you have with the Services and show us whether our advertising is effective or not. We also use cookies to help you navigate within our website and travel back to pages. Performance cookies on the Services may include:
 
 **Provider**  
 
@@ -128,9 +125,9 @@ This cookie is set when the customer first lands on a page with the Hotjar scrip
 
   
 
-**Functionality Cookies.**  
-  
-In some circumstances, we may use functionality cookies. Functionality cookies allow us to remember the choices you make on the Services and to provide enhanced and more personalized features, such as customizing a certain webpage, remembering if we have asked you to participate in a promotion and for other services you request, like watching a video or commenting on a blog. All of these features help us to improve your visit to the Services. Functionality cookies on the Services may include:  
+**Functionality Cookies.**
+
+In some circumstances, we may use functionality cookies. Functionality cookies allow us to remember the choices you make on the Services and to provide enhanced and more personalized features, such as customizing a certain webpage, remembering if we have asked you to participate in a promotion and for other services you request, like watching a video or commenting on a blog. All of these features help us to improve your visit to the Services. Functionality cookies on the Services may include:
 
 **Provider**  
 
@@ -148,11 +145,14 @@ Bungleloc
 
 Used to track site language preference  
 
-**Targeting or Advertising Cookies and Technologies.**  
+**Targeting or Advertising Cookies and Technologies.**
+
+We and our service providers may use targeting or advertising cookies and other technologies to collect information (e.g. IP address device ID, general location information, etc.) and deliver advertisements on the Services that we believe are more relevant to you and your interests. For example, we may use targeting or advertising cookies to limit the number of times you see the same advertisement on our Services and to help measure the effectiveness of our advertising campaigns. These cookies remember what you have looked at on the Services and we may share this information with other organizations, such as advertisers.
+
   
-We and our service providers may use targeting or advertising cookies and other technologies to collect information (e.g. IP address device ID, general location information, etc.) and deliver advertisements on the Services that we believe are more relevant to you and your interests. For example, we may use targeting or advertising cookies to limit the number of times you see the same advertisement on our Services and to help measure the effectiveness of our advertising campaigns. These cookies remember what you have looked at on the Services and we may share this information with other organizations, such as advertisers.  
   
-You can choose to prevent your device’s advertisement identifier being used for interest-based advertising by updating the settings on your device. For more information about targeting and advertising cookies and technologies and how you can opt out and otherwise control these, you can visit [https://www.youronlinechoices.eu/](https://www.youronlinechoices.eu/) or [https://www.allaboutcookies.org/manage-cookies/index.html](https://www.allaboutcookies.org/manage-cookies/index.html). Opting out does not mean you will not receive advertisements; it just means the advertisements may be less relevant to your interests. Targeting and advertising cookies on the Services may include:  
+
+You can choose to prevent your device’s advertisement identifier being used for interest-based advertising by updating the settings on your device. For more information about targeting and advertising cookies and technologies and how you can opt out and otherwise control these, you can visit [https://www.youronlinechoices.eu/](https://www.youronlinechoices.eu/) or [https://www.allaboutcookies.org/manage-cookies/index.html](https://www.allaboutcookies.org/manage-cookies/index.html). Opting out does not mean you will not receive advertisements; it just means the advertisements may be less relevant to your interests. Targeting and advertising cookies on the Services may include:
 
 **Provider**  
 
