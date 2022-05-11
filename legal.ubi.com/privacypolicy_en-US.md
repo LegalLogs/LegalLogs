@@ -210,7 +210,7 @@ Address: Ubisoft: 5505 St-Laurent Blvd., Suite 5000, Montréal, Québec, H2T 1S6
 
 *   **South Korea**
 
-Attention: Young-Soo Kim
+Attention: **Ms. Eun-Mi Kim (김은미)**
 
 Address: 28 Saemunan-ro 5ga-gil, Jongno-gu, Seoul
 
