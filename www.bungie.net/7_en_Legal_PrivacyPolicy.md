@@ -1,4 +1,4 @@
-### Privacy PolicyLast Updated: 10 months ago
+### Privacy PolicyLast Updated: a year ago
 
 **1\. Introduction.**  
   
@@ -55,7 +55,7 @@ o **Feedback**. If you provide feedback through one of our feedback polls, we co
   
 In addition to information that you provide to us, we collect Personal Information about you and your use of the Bungie Services via automated means, such as through cookies, web beacons and similar technologies:
 
-o **Cookies**. A “cookie” is a text file that is placed on your device by a web server that acts as a unique tag to identify your browser. We use two types of cookies: session cookies and persistent cookies. Session cookies make it easier for you to navigate our website and expire when you close your browser. Persistent cookies help with personalizing your experience, remembering your preferences, and supporting security features. Additionally, persistent cookies allow us to bring you advertising both on and off the Bungie Services. Persistent cookies may remain on your device for extended periods of time, and generally may be controlled through your browser settings. For further information on cookies, please review our **[Cookie Policy](https://www.bungie.net/7/en/Legal/CookiePolicy)**.
+o **Cookies**. A “cookie” is a text file that is placed on your device by a web server that acts as a unique tag to identify your browser. We use two types of cookies: session cookies and persistent cookies. Session cookies make it easier for you to navigate our website and expire when you close your browser. Persistent cookies help with personalizing your experience, remembering your preferences, and supporting security features. Additionally, persistent cookies allow us to bring you advertising both on and off the Bungie Services. Persistent cookies may remain on your device for extended periods of time, and generally may be controlled through your browser settings. For further information on cookies, please review our [**Cookie Policy**](https://www.bungie.net/7/en/legal/cookiepolicy).
 
 o **Pixels** (also known as web beacons). Web pages and other content (such as videos, emails, and advertisements) may contain pieces of code that send information about your use to a server. There are various types of pixels, including image pixels (which are small graphic images) and JavaScript pixels (which contains JavaScript code). When you access a website, video, email, or advertisement that contains a pixel, the pixel may permit us or another entity to drop or read cookies on your browser. Pixels are used in combination with cookies to track activity by a particular browser on a particular device. We may incorporate pixels that allow us track our conversions, bring you advertising both on and off the Bungie Services, and provide you with additional functionality.
 
@@ -63,8 +63,7 @@ o **App Technologies**. We include technologies in our apps that are not browser
 
 o **Heat Maps.** Through the use of pixels, we generate various types of heat maps, including but not limited to scroll maps, click maps, and move maps, to help us determine the most popular and unpopular areas of the Bungie Services and to help us better understand how users interact with the Bungie Services.
 
-The categories of information we automatically collect and have automatically collected in the last 12 months include:  
-  
+The categories of information we automatically collect and have automatically collected in the last 12 months include:
 
 o **Bungie Services Use Data**, including information about your use of the Bungie Services, the pages and content that you view, the referring and exiting pages, your access times, the links you click, and other actions taken within the Bungie Services.
 
@@ -159,7 +158,7 @@ o If you disclose information through the Bungie Services, communities, forums, 
 
 o Bungie.net allows you to customize the way your player profile appears to other users, such as by choosing not to display your activity feed on the website. However, your presence in a game at a given time may still be inferred by other means, such as when users look up who else was in their game session, or on other sites that index all game sessions by player.
 
-o **Community Developers**. We share information with community developers through our application programming interface (API) in order to allow them to create applications for purposes such as matchmaking support, stat or performance tracking, or equipment management and comparison. Community developer use of your information is subject to the API restrictions in our **[Terms of Use](https://www.bungie.net/7/en/Legal/Terms)**.
+o **Community Developers**. We share information with community developers through our application programming interface (API) in order to allow them to create applications for purposes such as matchmaking support, stat or performance tracking, or equipment management and comparison. Community developer use of your information is subject to the API restrictions in our [**Terms of Use**](https://www.bungie.net/7/en/legal/terms).
 
 o **Security and Compelled Disclosure**. We share information to (a) comply with legal process served on us, or our suppliers, and otherwise when we have a good faith belief that doing so is required by law; (b) protect and defend our rights or property or those of our suppliers; (c) protect the personal safety of our employees or agents, users of Bungie products or services, or members of the public, or (d) protect the integrity of the online community on the Bungie Services and games.
 
@@ -309,11 +308,11 @@ o The business or commercial purpose for collecting or selling the personal info
 
 o The specific pieces of personal information we have collected about you.
 
-To exercise any of these rights, please submit a request through our web form available [here](https://www.bungie.net/en/Support/Troubleshoot?oid=48625), or call our toll free number at 1-866-I-OPT-OUT and enter Service Code 293 to leave us a message. In the request, please specify which right you are seeking to exercise and the scope of the request. We will confirm receipt of your request within 10 days. We may require specific information from you to help us verify your identity and process your request. If we are unable to verify your identity, we may deny your requests to know or delete.  
+To exercise any of these rights, please submit a request through our web form available [here](https://www.bungie.net/en/support/troubleshoot?oid=48625), or call our toll free number at 1-866-I-OPT-OUT and enter Service Code 293 to leave us a message. In the request, please specify which right you are seeking to exercise and the scope of the request. We will confirm receipt of your request within 10 days. We may require specific information from you to help us verify your identity and process your request. If we are unable to verify your identity, we may deny your requests to know or delete.  
   
 **c. Right to Opt-Out.**  
   
-To the extent Bungie sells your personal information as the term “sell” is defined under the CCPA, you have the right to opt-out of the sale of your personal information by us to third parties at any time. You may submit a request to opt-out through our web form available [here](https://www.bungie.net/en/Support/Troubleshoot?oid=48626), or call our toll-free number at 1-866-I-OPT-OUT and enter Service Code 293 to leave us a message.  
+To the extent Bungie sells your personal information as the term “sell” is defined under the CCPA, you have the right to opt-out of the sale of your personal information by us to third parties at any time. You may submit a request to opt-out through our web form available [here](https://www.bungie.net/en/support/troubleshoot?oid=48626), or call our toll-free number at 1-866-I-OPT-OUT and enter Service Code 293 to leave us a message.  
   
 **d. Authorized Agent.**  
   
@@ -345,8 +344,7 @@ Data protection laws in Europe distinguish between organizations that process pe
   
 **b. Lawful Basis for Processing.**  
   
-If you are a data subject in Europe, we only process your personal data based on a valid legal ground, including when:  
-  
+If you are a data subject in Europe, we only process your personal data based on a valid legal ground, including when:
 
 o you have consented to the processing of your personal data;
 
@@ -359,13 +357,10 @@ o we have a legal obligation to process your personal data; or
 o we or a third party, have a legitimate interest in using your personal data and your interests and fundamental rights and freedoms do not override those interests.
 
 **c. Data Transfer.**  
-  
 If you are a data subject in Europe, we will transfer your personal data subject to appropriate safeguards, such as Standard Contractual Clauses.  
   
 **d. Your European Privacy Rights.**  
-  
-If you are a data subject in Europe, you have the right to:  
-  
+If you are a data subject in Europe, you have the right to:
 
 o Request access to and receive information about the personal data we maintain about you, to update and correct inaccuracies in your personal data, to restrict or to object to the processing of your personal data, to have the personal data deleted, or to exercise your right to data portability to easily transfer your personal data to another company.
 
@@ -373,5 +368,5 @@ o Withdraw any consent you previously provided to us regarding the processing of
 
 o Lodge a complaint with a supervisory authority, including in your country of residence, place of work or where an incident took place.
 
-You may exercise your rights by one of the following means: submitting a request to us at the addresses set out in the "Contact Us" section above, submitting a request through the web form available [here](https://www.bungie.net/en/Support/Troubleshoot?oid=48624), or by contacting our Data Protection Officer at dpo@bungie.com. We will respond to your request within 30 days. We may request specific information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions.  
+You may exercise your rights by one of the following means: submitting a request to us at the addresses set out in the "Contact Us" section above, submitting a request through the web form available [here](https://www.bungie.net/en/support/troubleshoot?oid=48624), or by contacting our Data Protection Officer at dpo@bungie.com. We will respond to your request within 30 days. We may request specific information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions.  
 Please note that we retain personal data as necessary to fulfill the purposes for which it was collected, and may continue to retain and use information even after a data subject request for purposes of our legitimate interests, including as necessary to comply with our legal obligations, resolve disputes, prevent fraud, and enforce our agreements.
