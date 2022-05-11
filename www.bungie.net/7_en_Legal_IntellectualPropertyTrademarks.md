@@ -1,49 +1,45 @@
-### Intellectual property & trademarksLast Updated: 10 months ago
+### Intellectual PropertyLast Updated: a year ago
 
-### Guidelines On Fan-Created Media And Art  
+### Guidelines On Fan-Created Media And Art
 
-   
-Bungie strongly supports the efforts of our community to produce non-commercial content using video images, footage, music, sounds, dialogue, or other assets from our games, subject to a few conditions. These creations can be freely shared with other players in places like the Bungie.net [creations](https://www.bungie.net/en/Community/Creations) page or your own personal channels. Bungie also generally approves streaming or commentary through approved platforms like Twitch, YouTube, or Facebook.  
-  
-Bungie reserves the right to enforce its intellectual property rights against any infringer who violates the following guidelines, community standards or Code of Conduct. In the event that creators seek to profit from the use of Bungie assets, they must seek permission from Bungie and obtain a license to do so. If you are an individual or company that is interested in an official merchandise license agreement, please contact us by sending an email inquiry to [licensing@bungie.com](mailto:licensing@bungie.com).  
-  
+Bungie strongly supports the efforts of our community to produce non-commercial content using video images, footage, music, sounds, dialogue, or other assets from our games, subject to a few conditions. These creations can be freely shared with other players in places like the Bungie.net [creations](https://www.bungie.net/en/community/creations) page or your own personal channels. Bungie also generally approves streaming or commentary through approved platforms like Twitch, YouTube, or Facebook.  
+
+Bungie reserves the right to enforce its intellectual property rights against any infringer who violates the following guidelines, community standards or Code of Conduct. In the event that creators seek to profit from the use of Bungie assets, they must seek permission from Bungie and obtain a license to do so. If you are an individual or company that is interested in an official merchandise license agreement, please contact us by sending an email inquiry to [licensing@bungie.com](mailto:licensing@bungie.com).
 
 ### Media
 
-Players may create videos using Destiny gameplay, which may be uploaded to third party sharing services like YouTube. If a chosen video-on-demand service enables players to monetize content, we will generally not request takedown if at least 20% of the content within the video has been created by the player.  
-  
-Examples of what “player created content” may be defined as include custom commentary, animations, graphics, or gameplay. Conversely, please do not upload Bungie trailers or cutscenes with mere advertisement(s) or borders that take up 20% of the screen or 20% of the runtime. Content creators should use our stuff to make their own stuff, rather than uploading our content to their own channels.  
-  
-Streaming gameplay is another viable form of sharing community-created Destiny content. Services like Twitch enable players to monetize content via subscriptions or donations. For additional information, please refer to the terms of use for your preferred streaming platform.  
-  
+Players may create videos using Destiny gameplay, which may be uploaded to third party sharing services like YouTube. If a chosen video-on-demand service enables players to monetize content, we will generally not request takedown if at least 20% of the content within the video has been created by the player.
+
+Examples of what “player created content” may be defined as include custom commentary, animations, graphics, or gameplay. Conversely, please do not upload Bungie trailers or cutscenes with mere advertisement(s) or borders that take up 20% of the screen or 20% of the runtime. Content creators should use our stuff to make their own stuff, rather than uploading our content to their own channels.
+
+Streaming gameplay is another viable form of sharing community-created Destiny content. Services like Twitch enable players to monetize content via subscriptions or donations. For additional information, please refer to the terms of use for your preferred streaming platform.
 
 ### "Destiny" Labeling
 
-Subject to the guidelines below, players and content creators may create and share a variety of non-commercial content. If you are monetizing creations that are not derived from any characters, images, footage, or other Bungie IP assets, please do not label your creations with the names of any Bungie products (e.g. Destiny, Destiny 2) or the names of in-game assets.  
-  
-Bungie is obligated to enforce against both intentional infringement and inadvertent dilution of its trademarks. We do not enjoy issuing takedown notices, but we must do so in cases where infringement could threaten our ability to protect our brands.  
+Subject to the guidelines below, players and content creators may create and share a variety of non-commercial content. If you are monetizing creations that are not derived from any characters, images, footage, or other Bungie IP assets, please do not label your creations with the names of any Bungie products (e.g. Destiny, Destiny 2) or the names of in-game assets.
+
+Bungie is obligated to enforce against both intentional infringement and inadvertent dilution of its trademarks. We do not enjoy issuing takedown notices, but we must do so in cases where infringement could threaten our ability to protect our brands.
 
 ### Art
 
-Derivative artworks (physical and digital) based on the world of Destiny cannot be sold without expressed permission from Bungie. Bungie reserves the rights to all character models, armor and weapon models (3D and physical), in-game and cutscene scenery, characters, dialogue, and music. Artwork, clothing, or models depicting any such Destiny IP will be removed if it is commercialized without permission, or if it violates our community standards.  
-  
-Bungie opposes the creation and sale of 1:1 weapon replicas based on our game assets and will take action to have listings of this kind removed regardless of whether they have been commercialized.  
-  
-Art may be uploaded to the Bungie.net Community [Creations](https://www.bungie.net/en/Community/Creations) page, or other social networks or community websites such as Twitter, Facebook, or Deviant Art. Your artwork may also be submitted as a Merchandise Inquiry. If you have already signed an agreement with Bungie to commercialize your art, sales through unauthorized channels can still be subject to removal. To inquire about obtaining a license to create and sell Destiny-inspired art, or to inquire about the terms of an existing license, contact us by sending an email inquiry to [licensing@bungie.com](mailto:licensing@bungie.com).  
-  
+Derivative artworks (physical and digital) based on the world of Destiny cannot be sold without expressed permission from Bungie. Bungie reserves the rights to all character models, armor and weapon models (3D and physical), in-game and cutscene scenery, characters, dialogue, and music. Artwork, clothing, or models depicting any such Destiny IP will be removed if it is commercialized without permission, or if it violates our community standards.
+
+Bungie opposes the creation and sale of 1:1 weapon replicas based on our game assets and will take action to have listings of this kind removed regardless of whether they have been commercialized.
+
+Art may be uploaded to the Bungie.net Community [Creations](https://www.bungie.net/en/community/creations) page, or other social networks or community websites such as Twitter, Facebook, or Deviant Art. Your artwork may also be submitted as a Merchandise Inquiry. If you have already signed an agreement with Bungie to commercialize your art, sales through unauthorized channels can still be subject to removal. To inquire about obtaining a license to create and sell Destiny-inspired art, or to inquire about the terms of an existing license, contact us by sending an email inquiry to [licensing@bungie.com](mailto:licensing@bungie.com).
 
 ### Cosplay
 
-Costumes and Props are often swapped or traded between Cosplayers in the interest of recuperating expenses for fabrication. While this act of community sharing is permitted, the distribution of any physical items using online platforms including (but not limited to) Etsy, eBay, or Amazon is not authorized without expressed permission.  
-  
-There are many reasons for this policy. Not only do we want uniformity in how we address infringing content, we also cannot guarantee the quality, safety, or origin of merchandise sold online without a working relationship with the vendor. We are committed to ensuring that Destiny IP does not find its way into any products produced using child labor, dangerous materials, or dangerous construction. To inquire about obtaining a license to create and sell these items, contact us by sending an email inquiry to [licensing@bungie.com](mailto:licensing@bungie.com).  
-  
+Costumes and Props are often swapped or traded between Cosplayers in the interest of recuperating expenses for fabrication. While this act of community sharing is permitted, the distribution of any physical items using online platforms including (but not limited to) Etsy, eBay, or Amazon is not authorized without expressed permission.
+
+There are many reasons for this policy. Not only do we want uniformity in how we address infringing content, we also cannot guarantee the quality, safety, or origin of merchandise sold online without a working relationship with the vendor. We are committed to ensuring that Destiny IP does not find its way into any products produced using child labor, dangerous materials, or dangerous construction. To inquire about obtaining a license to create and sell these items, contact us by sending an email inquiry to [licensing@bungie.com](mailto:licensing@bungie.com).
 
 ### Merchandise
 
-The Bungie Store features official products that enable players to express their enthusiasm for Destiny. Specific licensed partners also offer products available to players of Destiny. To ensure the quality of all Destiny products, all merchandise is created under a licensing agreement and all prospective licensees are thoroughly reviewed by Bungie before a license is granted. If you are an individual or company that is interested in an official merchandise license agreement, please contact us by sending an email inquiry to [licensing@bungie.com](mailto:licensing@bungie.com).  
-  
+The Bungie Store features official products that enable players to express their enthusiasm for Destiny. Specific licensed partners also offer products available to players of Destiny. To ensure the quality of all Destiny products, all merchandise is created under a licensing agreement and all prospective licensees are thoroughly reviewed by Bungie before a license is granted. If you are an individual or company that is interested in an official merchandise license agreement, please contact us by sending an email inquiry to [licensing@bungie.com](mailto:licensing@bungie.com).
 
 ### Legal
 
-For more information, please refer to the [Game Content Usage Rules in the Bungie Terms of Use.](https://www.bungie.net/en-us/view/bungie/terms)
+For more information, please refer to the
+
+[Game Content Usage Rules in the Bungie Terms of Use.](https://www.bungie.net/en/legal/terms)
