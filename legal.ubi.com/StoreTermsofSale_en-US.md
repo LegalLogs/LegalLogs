@@ -1,7 +1,7 @@
 **1/ TERMS OF SALE OF THE UBISOFT STORE**
 -----------------------------------------
 
-Last revised: August 9, 2016
+Last revised: May 24, 2022
 
 **THESE TERMS OF SALE ARE A LEGAL DOCUMENT THAT EXPLAINS YOUR RIGHTS AND OBLIGATIONS AS A CUSTOMER. PLEASE READ THESE TERMS OF SALE CAREFULLY.**
 
@@ -14,7 +14,7 @@ Last revised: August 9, 2016
 1\. Scope
 ---------
 
-These Terms of Sale (the "**Terms of Sale**") shall govern all purchases of software products and digital content, including without limitation, videogames (whether supplied in a tangible medium or through a link to download), in game currency, additional or downloadable content, season pass, Ubisoft collectibles such as figurines, toys, books, t-shirts and other accessories (altogether the "**Ubisoft Products**"), any of which is available on store.ubi.com, in the Ubisoft Connect PC application or on any other Ubisoft affiliated website (the "**Ubisoft Stores**"). These Terms of Sale constitute an agreement between you ("**you**") and Ubisoft Inc., a California corporation having its registered address at 625 Third Street San Francisco, CA 94107 ("**Ubisoft**" or "**we**", "**us**", "**our**" used herein all relate to Ubisoft).
+These Terms of Sale (the "**Terms of Sale**") shall govern all purchases of software products and digital content, including without limitation, videogames (whether supplied in a tangible medium or through a link to download), in game currency, additional or downloadable content, season pass, pre-paid cards, gift cards, Ubisoft collectibles such as figurines, toys, books, t-shirts and other accessories (altogether the "**Ubisoft Products**"), any of which is available on store.ubi.com, in the Ubisoft Connect PC application or on any other Ubisoft affiliated website (the "**Ubisoft Stores**"). These Terms of Sale constitute an agreement between you ("**you**") and Ubisoft Inc., a California corporation having its registered address at 625 Third Street San Francisco, CA 94107 ("**Ubisoft**" or "**we**", "**us**", "**our**" used herein all relate to Ubisoft).
 
 The products and services described on this website are available only for purchase and use in the United States. It is your responsibility to ascertain and obey all applicable laws and regulations with respect to the purchase, possession and use of any product or service ordered via the website.
 
