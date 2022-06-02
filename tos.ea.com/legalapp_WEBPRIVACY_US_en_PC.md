@@ -79,7 +79,7 @@ We also may collect and store information locally on your device, using mechanis
 
 We may receive information about you contained in third-party user accounts when you use EA online Services on or through third-party gaming platforms, such as those listed below. This information is provided to EA as part of establishing or linking an EA Account, which is necessary to access EA’s online services. Your use of EA online Services through these third-parties indicates your agreement for the transfer of this information. Examples of information we receive are provided below. We never receive your credit card number or other financial information from these third-parties as part of establishing or linking an EA Account.
 
-*   **PlayStation®3 System, PlayStation®4 System, & PlayStation®5 Console.** Sony provides information from your account for PlayStation™Network such as your Online ID, email address, country, language, friend list, date of birth, and certain preferences.  
+*   **PlayStation®3 system, PlayStation®4 system, & PlayStation®5 console.** Sony provides information from your account for PlayStation™Network such as your Online ID, email address, country, language, friend list, date of birth, and certain preferences.  
       
     
 *   **Xbox network.** Microsoft provides information such as your Gamertag, email address, country, language, friend list, date of birth, and certain preferences.  
