@@ -42,4 +42,4 @@ The Bungie Store features official products that enable players to express their
 
 For more information, please refer to the
 
-[Game Content Usage Rules in the Bungie Terms of Use.](https://www.bungie.net/en/legal/terms)
+[Game Content Usage Rules in the Bungie Terms of Use.](https://www.bungie.net/7/en/legal/terms)
