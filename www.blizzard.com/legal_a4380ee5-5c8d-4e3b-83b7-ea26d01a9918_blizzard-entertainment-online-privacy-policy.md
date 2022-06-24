@@ -315,21 +315,21 @@ If you would like to designate an authorized agent to make a request on your beh
 
 The reporting information required by the California Consumer Privacy Act Regulations § 999.317 is available below. 
 
-Requests to Know made in the United States: 1,683
+Requests to Know made in the United States: 2,833
 
-Requests completed in whole or in part\*\*: 1,619
+Requests completed in whole or in part\*\*: 2,686
 
 Average days to respond: 1 day
 
-Requests to Delete made in the United States: 46,393
+Requests to Delete made in the United States: 47,310
 
-Requests completed in whole or in part\*\*: 38,138
+Requests completed in whole or in part\*\*: 37,060
 
-Average days to respond: 6 days
+Average days to respond: 5 days
 
-Requests to Opt-out made in the United States\*: 10,719
+Requests to Opt-out made in the United States\*: 11,080
 
-Requests completed in whole or in part\*\*: 10,719
+Requests completed in whole or in part\*\*: 11,080
 
 Average days to respond: Immediate
 
