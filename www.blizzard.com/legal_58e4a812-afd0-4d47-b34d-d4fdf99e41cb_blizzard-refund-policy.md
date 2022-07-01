@@ -1,5 +1,5 @@
-North AmericaBlizzard Refund Policy
-===================================
+Blizzard Refund Policy
+======================
 
 [Our Philosophy](#887773725)[How to Request a Refund](#559722157)[Refund Guidelines](#832368353)[Games and Expansions](#607203172)[In-Game Items](#1922658660)[Blizzard Balance and Virtual Currency](#1169652633)[World of Warcraft Game Services](#910265379)[Subscriptions](#1244334588)[Pre-Purchases](#1996307978)[Gift Purchases](#1962221460)[Refunds for Third-Party Purchases](#741428222)[BlizzCon Refund Policies](#133655153)[Gear Store Refunds](#1494545671)[Regional Limitations](#237915488)
 
