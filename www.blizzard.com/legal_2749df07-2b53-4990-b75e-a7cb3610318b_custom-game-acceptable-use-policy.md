@@ -1,5 +1,5 @@
-North AmericaCustom Game Acceptable Use Policy
-==============================================
+Custom Game Acceptable Use Policy
+=================================
 
 Last Updated: January 21, 2020
 

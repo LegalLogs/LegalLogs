@@ -1,5 +1,5 @@
-North AmericaPeering Policy
-===========================
+Peering Policy
+==============
 
 Blizzard Entertainment AS57976 supports the exchange of IPv4 and IPv6 prefix information via common Internet exchange points to better serve our players via a direct interconnection.
 
