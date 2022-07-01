@@ -54,7 +54,7 @@ To create an EA Account, you must have a valid email address, and provide truthf
 
 You must be at least 13 years of age (or the minimum age of your country of residence) to create an EA Account. If your age is between the relevant minimum age and 18 (or the age of majority where you live), you and your parent or guardian must review and agree to this Agreement together. Parents and guardians are responsible for the acts of children under 18 years of age when using EA Services. EA recommends that parents and guardians familiarize themselves with parental controls on devices they provide their child.
 
-You are responsible for the activity on your EA Account. Your EA Account may be suspended or terminated if someone else uses it to engage in activity that violates this Agreement.
+You are responsible for the activity on your EA Account; it's yours, don't share it. Your EA Account may be suspended or terminated if someone else uses it to engage in activity that violates this Agreement.
 
 You may cancel your EA Account or a subscription to an EA Service at any time by contacting EA's Customer Service Department at [help.ea.com](https://help.ea.com/en/). To complete your request, EA may collect fees or costs incurred, if allowed by law, and any amounts owed to third-party vendors or content providers.
 
@@ -63,7 +63,7 @@ You may cancel your EA Account or a subscription to an EA Service at any time by
 
 ⓘ EA grants you access to our games and services to you for your personal enjoyment.
 
-The EA Services are licensed to you, not sold. EA grants you a personal, limited, non-transferable, revocable and non-exclusive license to use the EA Services to which you have access for your non-commercial use, subject to your compliance with this Agreement. You may not access, copy, modify or distribute any EA Service, Content or Entitlements (as those terms are defined below), unless expressly authorized by EA or permitted by law. You may not reverse engineer or attempt to extract or otherwise use source code or other data from EA Services, unless expressly authorized by EA or permitted by law. EA or its licensors own and reserve all other rights, including all right, title and interest in the EA Services and associated intellectual property rights.
+The EA Services are licensed to you, not sold. EA grants you a personal, limited, non-transferable (i.e., not for sharing), revocable and non-exclusive license to use the EA Services to which you have access for your non-commercial use, subject to your compliance with this Agreement. You may not access, copy, modify or distribute any EA Service, Content or Entitlements (as those terms are defined below), unless expressly authorized by EA or permitted by law. You may not reverse engineer or attempt to extract or otherwise use source code or other data from EA Services, unless expressly authorized by EA or permitted by law. EA or its licensors own and reserve all other rights, including all right, title and interest in the EA Services and associated intellectual property rights.
 
 3\. Content and Entitlements
 ----------------------------
@@ -130,14 +130,14 @@ When you access or use an EA Service, you agree that you will not:
 *   Engage or assist in cheating or other anticompetitive behavior (such as boosting, collusion, and match or matchmaking manipulation).
 *   Use or distribute counterfeit software or EA Content, including EA Virtual Currency.
 *   Attempt to use an EA Service on or through any service that is not controlled or authorized by EA, or otherwise intentionally obfuscate your network connection or location or other metadata to gain access to an EA Service, make purchases, or otherwise access an EA Service.
-*   Sell, buy, trade or otherwise transfer or offer to transfer your EA Account, any personal access to EA Services, or any EA Content associated with your EA Account, including EA Virtual Currency and other Entitlements, either within an EA Service or on a third-party website, or in connection with any out-of-game transaction, unless expressly authorized by EA.
+*   Sell, buy, share, trade or otherwise transfer or offer to transfer your EA Account, any personal access to EA Services, or any EA Content associated with your EA Account, including EA Virtual Currency and other Entitlements, either within an EA Service or on a third-party website, or in connection with any out-of-game transaction, unless expressly authorized by EA.
 *   Use an EA Service in a country in which EA is prohibited from offering such services under applicable export control laws.
 *   If an EA Service requires you to create a "username" or a "persona" to represent yourself in-game and online, you should not use your real name and may not use a username or persona that is used by someone else or that EA determines is vulgar or offensive or violates someone else's rights.
 *   Engage in any other activity that significantly disturbs the peaceful, fair and respectful gaming environment of an EA Service.
 *   Use information about users publicly available in any EA Service (e.g. on a leaderboard) for any purpose unrelated to the Service, including to attempt to identify such users in the real world.
 *   Promote, encourage or take part in any prohibited activity described above.
 
-ⓘ To enforce these rules, we may monitor your activity and remove any UGC. If you don’t follow these rules, we may warn you, suspend you, or ban you permanently from playing our games.
+ⓘ To enforce these rules, we may monitor your activity and remove any UGC. If you don’t follow these rules, we may warn you, suspend you, ban you permanently or place other restrictions on your EA Account, games, or related services.
 
 If you or someone using your EA Account violates these rules and fails to remedy this violation after a warning, EA may take action against you, including revoking access to certain or all EA Services, Content or Entitlements, or terminating your EA Account as described in Section 8. In case of severe violations, EA may take these actions without issuing a prior warning. Some examples of severe violations include, but are not limited to: promoting, encouraging or engaging in hacking, selling EA accounts or entitlements (including virtual currencies and items) without EA’s permission, extreme harassment, or threatening illegal activities. When practical, EA will notify you of the action it will take in response to violations of these rules or breach of this Agreement.
 
@@ -362,6 +362,6 @@ If you live in the United States, Canada or Japan, the seller of Content and Ent
 
   
   
-**Last Updated: January 19, 2022**  
+**Last Updated: June 30, 2022**  
   
 [Previous Terms of Service/User Agreement](https://tos.ea.com/legalapp/WEBTERMS/US/en/PC/previousversions)
