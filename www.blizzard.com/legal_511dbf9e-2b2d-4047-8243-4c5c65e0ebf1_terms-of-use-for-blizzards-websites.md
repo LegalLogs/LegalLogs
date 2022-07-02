@@ -1,5 +1,5 @@
-North AmericaTerms of Use for Blizzard's Websites
-=================================================
+Terms of Use for Blizzard's Websites
+====================================
 
 [Use of the Site](#83580034)[Your Obligations](#2131796950)[Blizzard Ownership](#1157976437)[User Submissions](#867770138)[Disclaimer of Warranties](#2878488)[Limitation of Liability and Indemnity](#1110536920)[Governing Law and Dispute Resolution](#759748156)[Miscellaneous](#1786370394)
 
