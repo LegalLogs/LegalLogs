@@ -1,5 +1,5 @@
-North AmericaCopyright Notices
-==============================
+Copyright Notices
+=================
 
 **Battle.net®**
 
