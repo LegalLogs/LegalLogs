@@ -1,5 +1,5 @@
-North AmericaBlizzard Entertainment Logo and Trademark Guidelines
-=================================================================
+Blizzard Entertainment Logo and Trademark Guidelines
+====================================================
 
 US
 
