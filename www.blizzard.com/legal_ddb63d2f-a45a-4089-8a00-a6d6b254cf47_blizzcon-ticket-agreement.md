@@ -1,5 +1,5 @@
-North AmericaBlizzCon Ticket Agreement
-======================================
+BlizzCon Ticket Agreement
+=========================
 
 The following agreement governs the purchase and use of your ticket(s) ("Ticket(s)") to Blizzard Entertainment, Inc.’s player event “BlizzCon® 2019,” that will take place in or on the grounds of the Anaheim Convention Center on November 1st and 2nd, 2019 ("BlizzCon"). In consideration of the opportunity to purchase your Ticket to attend BlizzCon, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, you agree:
 

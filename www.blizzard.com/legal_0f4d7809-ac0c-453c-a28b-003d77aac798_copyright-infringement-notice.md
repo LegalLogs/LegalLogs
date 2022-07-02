@@ -1,5 +1,5 @@
-North AmericaCopyright Infringement Notice
-==========================================
+Copyright Infringement Notice
+=============================
 
 Blizzard Entertainment, Inc. ("Blizzard") respects the intellectual property rights of others and expects its players and the users of its services to do the same. If you believe that your copyrighted work has been copied or used in a manner that constitutes copyright infringement, you may notify Blizzard's copyright agent as set forth below.
 
