@@ -1,5 +1,5 @@
-North AmericaTerms and Conditions of Fan Art Submissions to Blizzard Entertainment
-==================================================================================
+Terms and Conditions of Fan Art Submissions to Blizzard Entertainment
+=====================================================================
 
 1.  **The Blizzard Fan Art Program.**
     

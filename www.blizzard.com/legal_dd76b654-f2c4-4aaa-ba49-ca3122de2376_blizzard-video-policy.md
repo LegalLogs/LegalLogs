@@ -1,5 +1,5 @@
-North AmericaBlizzard Video Policy
-==================================
+Blizzard Video Policy
+=====================
 
 [The Fundamental Rule](#1736282506)[What this means](#1833206554)[Limitation of Usage](#1137688488)[Regarding Websites and "Premium Access"](#1831208803)[Guidelines for distributing Productions with Blizzard Content](#508726997)[Your Production should meet the rating guidelines for "T" rated Productions](#1229305968)[Blizzard support of Film Festivals, Contests, and Broadcast opportunities](#2027100035)[What is a content use license?](#1804170577)[Important notes](#523073221)[Educational Use of Production Materials](#482120252)[Inclusion of Sponsor Names, Logos, or Affiliates](#1311014880)[For further information](#566168969)
 
