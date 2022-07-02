@@ -1,5 +1,5 @@
-North AmericaWarcraft® III Art Tools
-====================================
+Warcraft® III Art Tools
+=======================
 
 LAST REVISED: MAY 19, 2015
 
