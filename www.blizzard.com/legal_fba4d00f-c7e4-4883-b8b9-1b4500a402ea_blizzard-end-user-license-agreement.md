@@ -1,5 +1,5 @@
-North AmericaBlizzard End User License Agreement
-================================================
+Blizzard End User License Agreement
+===================================
 
 Blizzard® End User License Agreement
 ------------------------------------
