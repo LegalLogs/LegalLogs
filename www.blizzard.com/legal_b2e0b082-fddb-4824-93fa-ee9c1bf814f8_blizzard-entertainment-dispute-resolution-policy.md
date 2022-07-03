@@ -1,5 +1,5 @@
-North AmericaBlizzard Entertainment Dispute Resolution Policy
-=============================================================
+Blizzard Entertainment Dispute Resolution Policy
+================================================
 
 LAST REVISED: MAY 19, 2015
 
