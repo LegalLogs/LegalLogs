@@ -1,5 +1,5 @@
-North AmericaConsole (PS3™ and Xbox®) End User License Agreement
-================================================================
+Console (PS3™ and Xbox®) End User License Agreement
+===================================================
 
 **THIS SOFTWARE PROGRAM IS LICENSED, NOT SOLD. BY INSTALLING, OR OTHERWISE USING THE PROGRAM (DEFINED BELOW), YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, YOU ARE NOT PERMITTED TO INSTALL OR USE THE PROGRAM.**
 
