@@ -1,5 +1,5 @@
-North AmericaTerms of Sale
-==========================
+Terms of Sale
+=============
 
 LAST REVISED: November 12th 2021
 
