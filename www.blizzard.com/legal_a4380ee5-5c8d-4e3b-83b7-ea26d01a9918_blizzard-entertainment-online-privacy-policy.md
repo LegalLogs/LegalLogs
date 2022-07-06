@@ -431,7 +431,7 @@ If you have questions or wish to file a complaint, please e-mail us at [DPO@bliz
 
 As mentioned, Blizzard Entertainment is a licensee of ESRB’s Privacy Certified Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB Privacy Certified at [http://www.esrb.org/privacy/contact.aspx](http://www.esrb.org/privacy/contact.aspx), email [privacy@esrb.org](mailto:privacy@esrb.org), attention: Vice President.
 
-This Privacy Policy was last updated on October 22, 2020
+This Privacy Policy was last updated on June 23, 2022
 
 [
 
