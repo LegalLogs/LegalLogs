@@ -1,7 +1,7 @@
 CD PROJEKT RED User Agreement
 =============================
 
-Last updated: 10 December 2020
+Last updated: 20 July 2022
 
 Hello! We are CD PROJEKT RED, part of the CD PROJEKT SA group, and we make games, including The Witcher series and Cyberpunk 2077. We've put a lot of work into building CD PROJEKT RED and as a result we need to have some rules about what you can and can't do with our games and services. We've put this Agreement together as simply as we legally can, with some informal short summaries to help you understand what it means. However, the full text wording is what is important/binding legally.
 
@@ -201,17 +201,25 @@ You and we agree that your use of CD PROJEKT RED games and services, and this Ag
 
 **Even if we delay using a right under this Agreement, it doesn’t mean we won’t use it.**
 
-#### 17\. CHANGES TO THIS AGREEMENT
+#### 17\. ANDROID
 
-17.1 Changes. We may change this Agreement if we think it’s necessary, e.g. for legal reasons or to reflect changes in CD PROJEKT RED games and services. If so, we will make the changed Agreement available online and make reasonable efforts to tell you about it (e.g. by sending you a notice in the relevant game).
+The following terms apply only to users playing or using CD PROJEKT RED games and services on Android devices they own or control:  
+  
+a) You acknowledge that these Rules are concluded between you and CD PROJEKT RED, and not with Google LLC, Google Ireland Limited, Google Commerce Limited or Google Asia Pacific Pte. Limited (“Google”). CD PROJEKT RED, not Google, is solely responsible for CD PROJEKT RED games and services and the content thereof.  
+  
+b) Your use of CD PROJEKT RED games and services will be subject to the terms of these Rules, which grants you a non-transferable, limited license to use CD PROJEKT RED games and services on Android devices. In addition, your use of CD PROJEKT RED games and services will also be subject to usage rules set forth by Google in the Google Play Terms of Service.
+
+#### 18\. CHANGES TO THIS AGREEMENT
+
+18.1 Changes. We may change this Agreement if we think it’s necessary, e.g. for legal reasons or to reflect changes in CD PROJEKT RED games and services. If so, we will make the changed Agreement available online and make reasonable efforts to tell you about it (e.g. by sending you a notice in the relevant game).
 
 **We can change this Agreement but if we do we'll put the changed version online and normally it will take effect a reasonable time period afterwards.**
 
-17.2 Binding Date. Once we change the Agreement, it will become legally binding on you 30 days after we post it online. During that period, you're welcome to contact us at [legal@cdprojektred.com](mailto:legal@cdprojektred.com) if you have specific questions about the changes.
+18.2 Binding Date. Once we change the Agreement, it will become legally binding on you 30 days after we post it online. During that period, you're welcome to contact us at [legal@cdprojektred.com](mailto:legal@cdprojektred.com) if you have specific questions about the changes.
 
 **If you have any questions with regards to the changes, you may contact us at [legal@cdprojektred.com](mailto:legal@cdprojektred.com).**
 
-17.3 Disagreeing with Changes. If you don't agree to those changes (regardless of whether you email us), then unfortunately we must ask you to cease using CD PROJEKT RED games and services. We're sorry we have to say that, but we hope you'll appreciate that for CD PROJEKT RED games and services to work properly we need to have everyone using them under the same rules instead of different people having different rules. That's why we encourage you to get in contact if you have queries or concerns.
+18.3 Disagreeing with Changes. If you don't agree to those changes (regardless of whether you email us), then unfortunately we must ask you to cease using CD PROJEKT RED games and services. We're sorry we have to say that, but we hope you'll appreciate that for CD PROJEKT RED games and services to work properly we need to have everyone using them under the same rules instead of different people having different rules. That's why we encourage you to get in contact if you have queries or concerns.
 
 **If you don’t agree with the changes, then sadly you will need to stop using the CD PROJEKT RED games and services.**
 
