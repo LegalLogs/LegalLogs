@@ -1,7 +1,7 @@
 Terms and Conditions
 --------------------
 
-#### Updated on 10/11/2020
+#### Updated on 03/08/2022
 
 We appreciate your visit to our websites. Be sure to carefully read the Terms and Conditions presented to the extent that, using our website (ANYBRAIN.GG and PERFORMETRIC.GG) and/or subscribing to any ANYBRAIN Services, implies acceptance of them. We reserve the right to change or update these Terms and Conditions. Please check the page at any time to get the latest version.
 
