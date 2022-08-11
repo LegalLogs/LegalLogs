@@ -1,7 +1,7 @@
 Privacy Policy
 --------------
 
-#### Updated on 29/12/2020
+#### Updated on 03/08/2022
 
 #### Introduction
 
@@ -26,7 +26,7 @@ Please [www.anybrain.gg/privacy](https://www.anybrain.gg/privacy) at any time to
 For the purposes of this Privacy Policy, it is important to take into account the following concepts, under the terms defined by the GDPR:
 
 *   **Personal data:** means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;
-*   **Processing:**
+*   **Processing:** means any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction;
 *   **Controller:** means the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data; where the purposes and means of such processing are determined by Union or Member State law, the controller or the specific criteria for its nomination may be provided for by Union or Member State law;
 *   **Processor:** means a natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller;
 
@@ -136,7 +136,7 @@ We act as processor regarding processing the personal data collected through the
 
 #### 3\. Personal data collected
 
-ANYBRAIN’s software and services function as an SDK independent of the client app (e.g: the game client, or an external app) in which they will be inserted. ANYBRAIN’s services aims the collection of the user’s personal data related to the use of keyboards and mouse and all interactions with the computer during the usage of the Client’s software and applications, collecting: device information, MAC address, IP address. And biometric data to identify patterns of the user’s behaviour, namely: speed and number of clicks on the mouse and keyboard.
+ANYBRAIN’s software and services function as an SDK independent of the client app (e.g: the game client, or an external app) in which they will be inserted. ANYBRAIN’s services aims the collection of the user’s personal data related to all interactions with the input devices during the usage of the Client’s software and applications, collecting: device information, MAC address, IP address. And biometric data to identify patterns of the user’s behaviour, namely: clicks and movements with a mouse and keyboard or a game controller, or touch and movements for mobile devices.
 
 #### 4\. Nature, purpose and legal basis of the processing
 
