@@ -1,4 +1,4 @@
-### Cookie PolicyLast Updated: a year ago
+### Cookie PolicyLast Updated: 13 hours ago
 
 We (meaning Bungie Inc.) use technologies on our website and online services (which we'll call the ‘Services’) to collect information that helps us improve your online experience. We refer to these technologies, which include cookies, collectively as “cookies.” This policy explains the different types of cookies used on the Services and how you can control them. We hope that this policy helps you understand and feel more confident about our use of cookies. If you have any further queries, please contact us at privacyrequests@bungie.com. Please also see our Privacy Policy ([https://www.bungie.net/7/en/legal/privacypolicy](https://www.bungie.net/7/en/legal/privacypolicy)) and our Terms of Use ([https://www.bungie.net/7/en/legal/terms](https://www.bungie.net/7/en/legal/terms)). 
 
@@ -149,9 +149,6 @@ Used to track site language preference
 
 We and our service providers may use targeting or advertising cookies and other technologies to collect information (e.g. IP address device ID, general location information, etc.) and deliver advertisements on the Services that we believe are more relevant to you and your interests. For example, we may use targeting or advertising cookies to limit the number of times you see the same advertisement on our Services and to help measure the effectiveness of our advertising campaigns. These cookies remember what you have looked at on the Services and we may share this information with other organizations, such as advertisers.
 
-  
-  
-
 You can choose to prevent your device’s advertisement identifier being used for interest-based advertising by updating the settings on your device. For more information about targeting and advertising cookies and technologies and how you can opt out and otherwise control these, you can visit [https://www.youronlinechoices.eu/](https://www.youronlinechoices.eu/) or [https://www.allaboutcookies.org/manage-cookies/index.html](https://www.allaboutcookies.org/manage-cookies/index.html). Opting out does not mean you will not receive advertisements; it just means the advertisements may be less relevant to your interests. Targeting and advertising cookies on the Services may include:
 
 **Provider**  
@@ -288,9 +285,44 @@ Used by Yandex.Metrica to provide depersonalized information about the site's tr
 
 VK.com
 
-Remixlang  
+  
+Remixlang
 
 Used by vk to help customize the site content based on preferences. For more information, see [https://vk.com/privacy/cookies](https://vk.com/privacy/cookies)  
+
+Future
+
+IDE – domain is .doubleclick.net 
+
+RUL – domain is .doubleclick.net 
+
+The Future pixel enables us to retarget you with products and services viewed on our Digital Property, and to measure you when you have clicked through to our Digital Property after seeing one of our advertisements on Future Properties. Information about how Future collects, uses, and protects information collected using their pixel can be found in Future’s privacy policy at [https://www.futureplc.com/privacy-policy/](https://www.futureplc.com/privacy-policy/) 
+
+Fandom
+
+IDE – domain is .doubleclick.net 
+
+RUL – domain is .doubleclick.net 
+
+The Fandom pixel will allow us to follow users that have clicked or been exposed to one of our advertisements on Fandom and record advertisement view-based and click-based conversions. Information about how Fandom collects, uses, and protects information collected using their pixel can be found in Fandom’s privacy policy at [https://www.fandom.com/privacy-policy](https://www.fandom.com/privacy-policy) 
+
+Dexerto
+
+IDE – domain is .doubleclick.net 
+
+RUL – domain is .doubleclick.net 
+
+The Dexerto pixel enables us to retarget you with products and services viewed on our Digital Property, and to measure you when you have clicked through to our Digital Property after seeing one of our advertisements on Dexerto. Information about how Dexerto collects, uses, and protects information collected using their pixel can be found in Dexerto’s privacy and acceptable use policies at 
+
+ [https://www.dexerto.com/privacy-policy/](https://www.dexerto.com/privacy-policy/) 
+
+[https://www.dexerto.com/acceptable-use-policy/](https://www.dexerto.com/acceptable-use-policy/) 
+
+Nano
+
+audiencemanager.de
+
+Nano Interactive collects data events related to the internet users’ browsing behavior on the client’s websites or apps. This allows us to understand behavior patterns and show advertising that is more relevant to users while analyzing and measuring the effectiveness of advertising. Information about how Nano collects, uses, and protects information collected using their pixel can be found in Nano’s privacy policy at [https://www.nanointeractive.com/privacy-statement/](https://www.nanointeractive.com/privacy-statement/) 
 
 ### 4\. HOW DO I CONTROL COOKIES?
 
