@@ -266,3 +266,86 @@ The Ubisoft+ Services are subject to change at anytime and limitations and exclu
 **15.** **Personal Data.** Ubisoft processes your personal data in compliance with all applicable regulations regarding personal data and in particular the General Data Protection Regulation (EU) 2016/679 (GDPR), the California Consumer Privacy Act (CCPA) to proceed with your subscription and provide you with Ubisoft + Services. To learn more about the processing of your personal data and to exercise your rights, please refer to the [Ubisoft Privacy Policy.](https://legal.ubi.com/privacypolicy/fr-FR)
 
 **16**. **Miscellaneous.** If Ubisoft fails to act with respect to your breach of these Ubisoft+ Terms for any reason, Ubisoft shall not be deemed to have waived its right to act with respect to future or similar breaches.  If a court finds any of these Ubisoft+ Terms to be unenforceable or invalid, such term will be enforced to the fullest extent permitted by applicable law, and the other terms will remain valid and enforceable.   Nothing in these Ubisoft+ Terms shall be deemed to exclude or restrict any of your statutory rights as a consumer.
+
+**3/ Rocksmith+ Subscription Terms**
+------------------------------------
+
+Last Updated: September 6, 2022
+
+Rocksmith+ is a subscription program provided to you by Ubisoft and, if applicable, purchased from an authorized third party seller (“Third Party Seller”).  These terms (“Rocksmith+ Subscription Terms”) describe your rights and obligations with respect to the Rocksmith+ subscription (“Subscription” or “Rocksmith+”) and any of the Ubisoft content (including, without limitation, the game and additional content, if any) accessible to you as part of the Subscription (collectively, the “Rocksmith+ Services").  These Rocksmith+ Terms are incorporated by reference into the Ubisoft Terms of Use available at [https://legal.ubi.com/termsofuse](https://legal.ubi.com/termsofuse) (“Terms of Use”) and together make up the entire agreement between Ubisoft and you relating to the Subscription, and replace any prior understandings or agreements (whether oral or written) regarding such.  All capitalized terms used but not defined herein shall have the meaning given to them in the Terms of Use.
+
+**1.           Eligibilty**.  You must have a valid and active Ubisoft Account to access Rocksmith+.  Please note that Rocksmith+, and/or some features or songs, are not available in all countries and age restrictions apply and vary by country. 
+
+**2**.           **Rocksmith+ Services.** Ubisoft Account holders with an active Subscription purchased from Ubisoft may be offered the following Subscription benefits: 
+
+a)       access to guitar learning and additional content on the platform on which you subscribed, for unlimited online play as long as the content is still available on Rocksmith+. Please note that connection equipment, including the guitar, bass, real tone cable or other connection adapter, are not included.  Further, to the extent offered, physical add-ons, in-game purchases, boosts and other digital consumables are excluded, unless otherwise specifically indicated to the contrary.; and
+
+b)       access to the features included with the Rocksmith Workshop (at [https://rocksmith.com/workshop](https://rocksmith.com/workshop)), creation of a Creator Page, and the ability to upload arrangements and play arrangements submitted by other community members in Rocksmith, subject to the posted limitations, availability, and Ubisoft’s authorization.  Please note that all arrangements are considered User Generated Content as described in Ubisoft’s Terms of Use. 
+
+The Rocksmith+ Services are subject to change at any time and limitations and exclusions apply.  Ubisoft is entitled to remove at any time at its sole discretion any content from Rocksmith+. For current details on the specific Rocksmith+ Services available as part of your Subscription, please regularly visit [https://rocksmith.com](https://rocksmith.com).  **Please note that the Rocksmith+ Services may vary depending on your age and country, and may change depending on our access to the library of licensed songs.**
+
+**3**.           **AUTOMATIC RENEWAL FOR SUBSCRIPTIONS PURCHASED FROM UBISOFT.**   PLEASE NOTE THAT, SUBJECT TO APPLICABLE LAW, IF YOU CHOOSE TO SUBSCRIBE TO ROCKSMITH+, YOUR SUBSCRIPTION WILL **AUTOMATICALLY RENEW AT THE DURATION YOU SELECT DURING CHECK OUT** AT THE SUBSCRIPTION PRICE YOU AGREE TO DURING CHECKOUT (PLUS APPLICABLE TAX OR INCLUSIVE OF APPLICABLE TAXES BASED ON BILLING ADDRESS) ON EACH RENEWAL DATE WITHOUT ANY ADDITIONAL ACTION BY YOU -- **UNLESS AND UNTIL YOU CANCEL YOUR SUBSCRIPTION PRIOR TO YOUR NEXT BILLING DATE**. YOU CAN CANCEL YOUR SUBSCRIPTION OR CHECK YOUR NEXT BILLING DATE BY VISITING “MY ACCOUNT” at [https://store.ubi.com](https://store.ubi.com).
+
+**4**.           **Price,** **Billing and Payment Methods for Subscriptions Purchased from Ubisoft**. The Subscription fee for Rocksmith+ Services will be charged on the specific billing date indicated on your Ubisoft Store Account page.  You must provide a valid payment method to register for a Subscription, and Ubisoft may ask you to update your payment method at any time if it becomes invalid. Recurring renewal payments will be taken from the payment method you selected at sign-up, unless and until you change your payment method and/or it becomes invalid.  You authorize Ubisoft to charge any payment method associated with your Account in case your primary payment method is expired or otherwise declined. If a payment is not successfully settled, due to expiration of the payment method, insufficient funds, or otherwise, Ubisoft may suspend your access to Rocksmith+ until we have successfully charged a valid payment method. Ubisoft will notify you before any price changes to your Subscription is effective, in a manner to be determined by Ubisoft in its sole discretion, subject to applicable law.  Unless required by applicable law, the Subscription is non-refundable and non-transferable.
+
+**5**.           **Free Trials Offered by Ubisoft.** Ubisoft may, from time to time provide you access to a free trial of some or all of the Rocksmith+ Services (the “Free Trial”). The duration of, and conditions/restrictions associated with, such Free Trial will be specified on the product page on [https://store.ubi.com/rocksmith-plus/](https://store.ubi.com/rocksmith-plus/).  Account holders with an existing or previous Subscription may not be eligible for a Free Trial.  Entering a payment method may be required to participate in a Free Trial.  Subject to applicable law, after a Free Trial your Subscription **will automatically renew unless you have cancelled it prior to the end of the Free Trial.  If you have not cancelled your Subscription, Ubisoft will charge the then-current Subscription fee for the billing cycle you selected to the payment method you chose when subscribing, for the next subscription period/billing cycle.  Please note: your Subscription will auto-renew until you cancel it, pursuant to the conditions set forth in Article 3 above.** 
+
+**6.**           **Cancelling Your Subscription Purchased from Ubisoft**.  You may cancel your Subscription at any time, and for any reason, by visiting “My Account” at [https://store.ubi.com](https://store.ubi.com) and following the instructions to cancel your Subscription.  After cancellation, you will not get a refund, but you will still have full access to all then current Rocksmith+ Services until the end of the Subscription period in which you cancelled.  After that current Subscription period ends, you will no longer have access to the Rocksmith+ Services, including without limitation, any in-game purchases made within Rocksmith+, editing your Creator Page (if applicable), nor the arrangements you uploaded (though such arrangements will continue to be playable by others).  
+
+**7.            Different Terms Applicable for Subscription Purchased from Third Party Sellers.** If you purchased your Subscription (or accessed a limited time reduced price/free trial) from a Third Party Seller, the billing terms, fees, pament methods, payment procedures, cancellation and refund terms that apply to you may differ and are as set forth by the applicable Third Party Seller.  You will need to contact that Third Party Seller to adjust your payment method, cancel your Subscription or receive a refund under its applicable policies.
+
+**8.            Updates**.   Ubisoft reserves the right to change and update the Rocksmith+ Services available as part of the Subscription anytime, and for any reason.  In particular, Ubisoft may add or remove services and/or content from the Rocksmith+ Services at any time and for any reason. Please regularly check [https://rocksmith.com](https://rocksmith.com) for current details about the Subscription. 
+
+    
+  
+**9**.           **Suspension and Termination**.  Ubisoft reserves the right to cancel, suspend, terminate or otherwise limit your use and/or access to the Subscription and any or all of the Rocksmith+ Services (regardless of where you purchased your Subscription) at any time if we suspect fraudulent, abusive, or unlawful activity, and/or activity that is otherwise contrary to the Terms of Use, these Rocksmith+ Terms, any code of conduct applicable to the Rocksmith+ Services, any other terms between you and Ubisoft and/or any applicable law or regulation.  If your Subscription is cancelled or otherwise terminated by Ubisoft, you may immediately lose access to the Rocksmith+ Services.  In addition, please note that if Ubisoft suspends or terminates your Ubisoft Account per the Terms of Use, you may no longer be able to access any Rocksmith+ Services or your Subscription.  Similarly, if your Account is banned from Rocksmith+ in accordance with the Terms of Use, these Rocksmith+ Terms and/or any applicable code of conduct, please note that you may not have access to content should you purchase it separately from the Subscription, using your Account. If your Subscription is suspended, cancelled or otherwise terminated in whole or in part, you will not be entitled to any pro-rata refund for the remaining Subscription period (if any). Notwithstanding the foregoing, Ubisoft reserves the right to terminate Rocksmith+ or any of the Rocksmith+ Services, at any time and for any reason, with notice to you as required by applicable law.
+
+**10**.         **Personal Use**.  Unless otherwise expressly authorized by Ubisoft, Rocksmith+ is provided to you in your individual capacity. You may not combine, transfer or exchange Rocksmith+ and/or the Rocksmith+ Services with or to other users or Accounts for any reason.  Failure to comply with this provision may result in the suspension or termination of your Subscription and/or Account.
+
+**11**.         **Limited License.** Notwithstanding any provision to the contrary contained herein or in the Terms of Use, and regardless of terminology used, the  Rocksmith+ Services represent limited license rights, have no monetary or “real world” value, and are not transferable or redeemable by you for any sum of money or monetary value from Ubisoft at any time.  
+
+**12**.         **Revision and Termination of These Rocksmith+ Terms**.   Ubisoft may revise these Rocksmith+ Terms at any time and for any reason in its sole discretion, changes to be effective as indicated. If you have any questions regarding any changes, please contact Customer Support at [https://support.ubi.com](https://support.ubi.com).   Of course, if you do not wish to participate in Rocksmith+ after the changes are effective, you may cancel your Subscription by visiting “My Account” at [https://store.ubi.com](https://store.ubi.com) and click on “Cancel Subscription”; all such cancellations being effective at the end of the Subscription period in which you cancelled.
+
+**13.**         **Connection Equipment,** **Persistent Internet Connection and Other System Requirements for PC Access.**  Rocksmith+ requires a persistent Internet connection, connection equipment, and a guitar or bass to play (all sold separately).  Current system requirements:
+
+a)       PC MINIMUM SPECS FOR ROCKSMITH+ (INTEGRATED GRAPHICS):
+
+Requires a 64-bit processor and operating system
+
+OS: Windows 10 (64-bit versions only)
+
+Processor: Intel Core i5-4670K or equivalent
+
+Memory: 8 GB RAM
+
+Graphics: Intel HD 4600 or equivalent
+
+b)       PC MINIMUM SPECS FOR ROCKSMITH+ (DEDICATED GRAPHICS CARD):
+
+Requires a 64-bit processor and operating system
+
+OS: Windows 10 (64-bit versions only)
+
+Processor: Intel Core i5 2400 / AMD FX 4320 or equivalent
+
+Memory: 6 GB RAM
+
+Graphics: NVIDIA GeForce GTX 560Ti / GTX 650 / GTX 750 / GTX 950 / GTX 1050 / AMD Radeon HD 7850 / R9 270 / R9 370 / RX 460
+
+c)       PC RECOMMENDED SPECS FOR ROCKSMITH+:
+
+Requires a 64-bit processor and operating system
+
+OS: Windows 10 (64-bit versions only)
+
+Processor: Intel Core i5-4690K / AMD FX-8350 or equivalent
+
+Memory: 8 GB RAM
+
+Graphics: NVIDIA GeForce GTX 670 / GTX 750ti / GTX 960 / GTX 1060 / AMD Radeon R9 280X / R9 380 / RX 470
+
+Certain Rocksmith+ Services may require account linking, additional fees, additional content protection technology, as well as the installation of anti-cheat software.  Content and system requirements are subject to change at any time.  Please check all requirements with respect to the Rocksmith+ Services prior to signing up for the Subscription.
+
+**14.**         **Personal Data.** Ubisoft processes your personal data in compliance with all applicable regulations regarding personal data and in particular the General Data Protection Regulation (EU) 2016/679 (GDPR), the California Consumer Privacy Act (CCPA) to proceed with your subscription and provide you with Rocksmith+. To learn more about the processig of your personal data and to exercise your rights, please refer to the [Ubisoft Privacy Policy.](https://legal.ubi.com/privacypolicy)
+
+**15**.         **Miscellaneous.** If Ubisoft fails to act with respect to your breach of these Rocksmith+ Terms for any reason, Ubisoft shall not be deemed to have waived its right to act with respect to future or similar breaches.  If a court finds any of these Rocksmith+ Terms to be unenforceable or invalid, such term will be enforced to the fullest extent permitted by applicable law, and the other terms will remain valid and enforceable.   Nothing in these Rocksmith+ Terms shall be deemed to exclude or restrict any of your statutory rights as a consumer.
