@@ -1,4 +1,4 @@
-### Cookie PolicyLast Updated: 17 days ago
+### Cookie PolicyLast Updated: 18 days ago
 
 We (meaning Bungie Inc.) use technologies on our website and online services (which we'll call the ‘Services’) to collect information that helps us improve your online experience. We refer to these technologies, which include cookies, collectively as “cookies.” This policy explains the different types of cookies used on the Services and how you can control them. We hope that this policy helps you understand and feel more confident about our use of cookies. If you have any further queries, please contact us at privacyrequests@bungie.com. Please also see our Privacy Policy ([https://www.bungie.net/7/en/legal/privacypolicy](https://www.bungie.net/7/en/legal/privacypolicy)) and our Terms of Use ([https://www.bungie.net/7/en/legal/terms](https://www.bungie.net/7/en/legal/terms)). 
 
