@@ -4,7 +4,7 @@ Blizzard End User License Agreement
 Blizzard® End User License Agreement
 ------------------------------------
 
-LAST REVISED JUNE 1, 2021
+LAST REVISED SEPTEMBER 19, 2022
 
 **IMPORTANT NOTICE:**
 
@@ -17,6 +17,8 @@ THIS AGREEMENT CONTAINS A **BINDING INDIVIDUAL ARBITRATION AGREEMENT AND CLASS A
 Thank you for your interest in Blizzard’s online gaming services and interactive games, and the interactive games from other developers (“Licensors”) who make their games available through the Battle.net gaming service (Blizzard’s and the Licensors’ games are collectively referred to herein as the “Games”). This Agreement sets forth the terms and conditions under which you are licensed to install and use the Platform, and it governs other aspects of the relationship between you and Blizzard as set forth below. As used in this Agreement, the term “Platform” refers collectively, and at times individually, to (1) the Battle.net desktop app software, (2) the Battle.net gaming service, (3) each of the Games, (4) authorized Mobile Apps relating to the Games and the Battle.net service, and (5) all features and components of each of them, whether installed or used on a computer, console, or mobile device. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, YOU ARE NOT PERMITTED TO INSTALL, COPY, OR USE THE BLIZZARD PLATFORM. IF YOU REJECT THE TERMS OF THIS AGREEMENT WITHIN FOURTEEN (14) DAYS AFTER YOUR PURCHASE OF A GAME FROM BLIZZARD, YOU MAY CONTACT BLIZZARD THROUGH [https://us.battle.net/support/en/](https://us.battle.net/support/en/) TO INQUIRE ABOUT A FULL REFUND OF THE PURCHASE PRICE OF THAT GAME. IF YOU PURCHASED A GAME AT RETAIL, YOUR RIGHT TO RETURN THE GAME IS SUBJECT TO THE RETAILER’S RETURN POLICY.
 
 Your use of the Platform is licensed, not sold, to you, and you hereby acknowledge that no title or ownership with respect to the Platform or the Games is being transferred or assigned and this Agreement should not be construed as a sale of any rights. All access to and use of the Platform and the Games is subject to this Agreement, the applicable software documentation, and our Privacy Policy (accessible at [https://www.blizzard.com/en-us/legal/](https://www.blizzard.com/en-us/legal/)) (collectively, the “Complete Terms”). The Complete Terms are hereby incorporated into this Agreement by reference (with this Agreement controlling any conflicting terms) and represent the complete agreement between you and us relating to use of the Platform, the Games, and related services and products, superseding any prior agreements between you and us, whether written or oral.
+
+Specific Terms Applicable to Items Purchased from Sony Interactive Entertainment America. Purchase and use of items are subject to the Network Terms of Service and User Agreement. This online service has been sublicensed to you by Sony Interactive Entertainment America.
 
 Except as otherwise provided below, if you reside in the United States, Canada, or Mexico, use of the Platform is licensed to you by Blizzard Entertainment, Inc., a Delaware corporation, 1 Blizzard Way, Irvine, CA 92618, and if you are not a resident of the United States, Canada, or Mexico, use of the Platform is licensed to you by Activision Blizzard International B.V., Stroombaan 16, 1181 VX Amstelveen, the Netherlands (Blizzard Entertainment, Inc., and Activision Blizzard International B.V. are referred to herein as “Blizzard”, “we,” or “us”).
 
