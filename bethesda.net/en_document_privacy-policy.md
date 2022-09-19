@@ -8,7 +8,7 @@ print
 ZENIMAX MEDIA ONLINE PRIVACY POLICY
 -----------------------------------
 
-Last Updated: January 1, 2021
+Last Updated: August 5, 2022
 
 This ZeniMax Media Online Privacy Policy ("Policy") describes how ZeniMax Media Inc. and our affiliates and subsidiaries (collectively, "**ZeniMax**", "**we**" or "**us**") collect, use and otherwise process the personal information we collect about our customers, purchasers, subscribers, and/or users (each a "**User**") of our mobile applications, games, websites and other online services (collectively, our "**Services**").
 
@@ -251,11 +251,11 @@ Attn: ZeniMax Customer Service/Privacy
 1370 Piccard Drive  
 Rockville, Maryland 20850 USA
 
-**Controller and Representative.** The controller for your personal information is ZeniMax Media Inc.,1370 Piccard Drive, Rockville, MD 20850 USA. In addition, for purchases made by Users in the EEA and the UK, ZeniMax Europe Ltd, Reg. No. 06333300, Haymarket House, 28-29 Haymarket, London SW1Y 4SP, is also a controller for your transaction data. This Policy applies to both ZeniMax Media Inc. and ZeniMax Europe Ltd., and data subjects may exercise their rights with respect to their EEA and UK transaction data with both entities by contacting ZeniMax Media Inc. online, by email or by postal mail, as set forth above.
+**Controller and Representative.** The controller for your personal information is ZeniMax Media Inc.,1370 Piccard Drive, Rockville, MD 20850 USA. In addition, for purchases made by Users in the EEA and the UK, ZeniMax Europe Ltd, Reg. No. 06333300, 4th floor, The Lantern, 75 Hampstead Road, London NW1 2PL, United Kingdom, is also a controller for your transaction data. This Policy applies to both ZeniMax Media Inc. and ZeniMax Europe Ltd., and data subjects may exercise their rights with respect to their EEA and UK transaction data with both entities by contacting ZeniMax Media Inc. online, by email or by postal mail, as set forth above.
 
 EU Representative: ZeniMax Media Inc. and ZeniMax Europe Ltd have appointed ZeniMax Benelux BV, Grote Berg 18E, 5611 KK Eindhoven, the Netherlands, as representative office for purposes of the GDPR.
 
-UK Representative: ZeniMax Media Inc. has appointed its subsidiary ZeniMax Europe Ltd, Haymarket House, 28-29 Haymarket, London SW1Y 4SP, United Kingdom, as its representative office for purposes of UK data protection laws.
+UK Representative: ZeniMax Media Inc. has appointed its subsidiary ZeniMax Europe Ltd, 4th floor, The Lantern, 75 Hampstead Road, London NW1 2PL, United Kingdom, as its representative office for purposes of UK data protection laws.
 
 **ESRB Privacy Certified**. As previously mentioned, we are a member of ESRB's Privacy Certified Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB Privacy Certified at [privacy@esrb.org](mailto:privacy@esrb.org). or [https://www.esrb.org/privacy/contact/](https://www.esrb.org/privacy/contact/).
 
@@ -449,4 +449,4 @@ Subject to the conditions set out in the applicable law, Users in in the Europea
 
 Please note that some of these rights may be limited, such as where we have an overriding interest or legal obligation to continue to process the data. Please contact us using the information set out above, in Section 13. Contact Details, if you wish to exercise any of your rights or if you have any enquiries or complaints regarding the processing of your personal information by us.
 
-Last Updated January 1, 2021
+Last Updated August 5, 2022
