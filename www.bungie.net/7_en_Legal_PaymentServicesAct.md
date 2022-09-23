@@ -1,4 +1,4 @@
-### Payment Services Act (Japan)Last Updated: a year ago
+### Payment Services Act (Japan)Last Updated: 2 years ago
 
 **Notice in Accordance with the Payment Services Act:**  
 The Payment Services Act applies to the following products from Destiny and Destiny 2. Please refer to each notice when using these products.  
