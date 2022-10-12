@@ -83,7 +83,9 @@ We won’t refund subscription time lost due to a suspension and/or permanent ac
 
 ### Pre-Purchases
 
-We’ll typically refund any pre-purchased game or product prior to its release. Some exceptions may apply in cases where the pre-purchase includes in-game benefits that can be claimed for other products. If you’ve already claimed or used those added benefits, the purchase would become non-refundable.
+We’ll typically refund any pre-purchased game or product prior to its release, provided you haven't played the game or expansion for more than two hours via pre-purchase early access.
+
+Some exceptions may apply in cases where the pre-purchase includes in-game benefits that can be claimed for other products. If you’ve already claimed or used those added benefits, the purchase would become non-refundable.
 
 ### Gift Purchases
 
