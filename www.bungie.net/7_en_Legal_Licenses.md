@@ -1,4 +1,4 @@
-### LicensesLast Updated: a year ago
+### LicensesLast Updated: Aug 16 2021 at 12:00AM
 
 **caniuse-lite**  
 [caniuse-lite](https://github.com/ben-eb/caniuse-lite) by [ben-en](https://github.com/ben-eb) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) and is sourced by data from [caniuse.com](https://caniuse.com/). It has not been modified.  
