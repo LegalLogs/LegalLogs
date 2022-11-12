@@ -1,4 +1,4 @@
-### Intellectual PropertyLast Updated: a year ago
+### Intellectual PropertyLast Updated: Jun 18 2021 at 12:00AM
 
 ### Guidelines On Fan-Created Media And Art
 
