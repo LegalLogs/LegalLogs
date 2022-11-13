@@ -1,4 +1,4 @@
-### Terms of UseLast Updated: a year ago
+### Terms of UseLast Updated: Jun 18 2021 at 12:00AM
 
 ### Bungie.net Terms of Use (Last updated June 18, 2021)
 
