@@ -18,36 +18,21 @@ This ZeniMax Media Privacy Policy (“**Policy**”) describes how ZeniMax Media
 
 You can review information about our privacy practices and your rights and choices below in the following sections:
 
-1.  Scope of Our Policy
-    
-2.  Personal Information We Collect
-    
-3.  Purposes of Use and Legal Bases for Processing of Personal Information
-    
-4.  Disclosure and Sharing of Personal Information
-    
-5.  Cookies, Analytics, and Personalization
-    
-6.  Targeting and Advertising
-    
-7.  Third-Party Links and Features
-    
-8.  User Generated Content
-    
-9.  Security of Your Information
-    
-10.  Data Retention
-    
-11.  International Transfers of Data
-    
-12.  User Rights and Choices
-    
-13.  Contact Details
-    
-14.  Changes to this Policy
-    
-15.  Additional Information for Users in Certain Jurisdictions
-    
+1\. Scope of Our Policy  
+2\. Personal Information We Collect  
+3\. Purposes of Use and Legal Bases for Processing of Personal Information  
+4\. Disclosure and Sharing of Personal Information  
+5\. Cookies, Analytics, and Personalization  
+6\. Targeting and Advertising  
+7\. Third-Party Links and Features  
+8\. User Generated Content  
+9\. Security of Your Information  
+10\. Data Retention  
+11\. International Transfers of Data  
+12\. User Rights and Choices  
+13\. Contact Details  
+14\. Changes to this Policy  
+15\. Additional Information for Users in Certain Jurisdictions
 
 **1\. Scope of Our Policy**
 
@@ -181,7 +166,7 @@ Below is a summary of these activities. For more detailed information about thes
 
 **Preferences.** You can review or change your preferences for most cookies and tags on our websites (other than those that are necessary to the proper functioning of our websites) by adjusting your cookie settings:
 
-Cookie Settings
+[Cookie Settings](#)
 
 **6\. Targeting and Advertising**
 
@@ -190,7 +175,7 @@ We work with third-party ad networks, channel partners, mobile ad networks, anal
 **Preferences.** We make available multiple ways for you to manage your preferences regarding targeting cookies, advertising, and personalization:
 
 *   _Our websites_: You can review or change your preferences for targeting cookies and tags on our websites by adjusting your cookie settings:  
-    Cookie Settings
+    [Cookie Settings](#)
     
 *   _Mobile_: Some of our mobile games and apps may include third-party advertising and analytics. You can opt out of targeted advertising from third parties in our mobile games by adjusting your device privacy settings (please refer to your device settings for more information). This means that you will no longer get targeted ads; however, you may still receive contextual or general ads.
     
@@ -249,7 +234,7 @@ ZeniMax gives Users several ways to access, amend, and exercise their choices an
 
 **Cookies and Advertising.** As noted in Section 5. Cookies, Analytics, and Personalization and Section 6. Targeting and Advertising, you can manage your preferences for cookies (including advertising cookies) on our websites and in our online games by adjusting your cookie preferences:
 
-Cookie Settings
+[Cookie Settings](#)
 
 For our mobile games and apps that include third-party advertising and analytics, you can opt out of targeted advertising in our mobile games by adjusting your device privacy settings, as explained in Section 6. Targeting and Advertising. In certain of our mobile games, you may also be able to opt out through the in-app settings for that game.
 
