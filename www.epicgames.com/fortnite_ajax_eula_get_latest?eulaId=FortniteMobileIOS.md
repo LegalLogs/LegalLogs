@@ -18,7 +18,7 @@ TO ENTER INTO THIS LICENSE AGREEMENT, YOU MUST BE AN ADULT OF THE LEGAL AGE OF M
   
 Certain words or phrases are defined to have certain meanings when used in this Agreement. Those words and phrases are defined below in Section 16.  
   
-If your primary residence is in the United States of America, your agreement is with Epic Games, Inc. If it is not in the United States of America, your agreement is with Epic Games International S.à r.l., acting through its Swiss branch.  
+If your primary residence is in the United States of America, your agreement is with Epic Games, Inc. If it is not in the United States of America, your agreement is with Epic Games Entertainment International GmbH.  
   
 **1\. License Grant**  
   
@@ -251,7 +251,7 @@ As used in this Agreement, the following capitalized words have the following me
   
 a. Epic Games, Inc., a Maryland Corporation having its principal business offices at Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, U.S.A.; or  
   
-b. Epic Games International S.à r.l., a Luxembourg Société à Responsibilité Limitée, located at Atrium Business Park, 33 rue du Puits Romain, L8070 Bertrange, Grand-Duchy of Luxembourg, acting through its Swiss branch, having its principal business offices at Platz 10, 6039 Root, Switzerland.  
+b. Epic Games Entertainment International GmbH, a limited liability company organized under the laws of Switzerland, having its registered office at Platz 10 6039 Root, Switzerland.  
   
 “**Feedback**” means any feedback or suggestions that you provide to Epic regarding the Software, Services or other Epic products and services.  
   
