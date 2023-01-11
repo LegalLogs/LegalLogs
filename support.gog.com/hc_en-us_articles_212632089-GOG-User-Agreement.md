@@ -243,9 +243,7 @@ You click on a link on GOG services taking you outside of our little kingdom = w
 
 You can also use your GOG account to access GOG approved external services, like our sister company CD PROJEKT RED’s cool stuff. It’s totally optional though.
 
-15.3 A quick word about GOG Connect (which you can read more about [here](https://www.gog.com/connect)). This (optional) feature is provided subject to Valve’s Steam Web API Terms of Use and therefore access to this feature and how it works may change if necessary to reflect those Terms of Use. Please also see section 11.3 of our Privacy Policy, which explains how we use ‘Steam Data’ and contains important liability provisions regarding it. Please also see our GOG Connect FAQs which contain further information about GOG Connect and how to use it.
-
-We offer an optional GOG Connect service (see link opposite). Check out the GOG Connect section of our Privacy Policy too.  
+  
   
 
 ### 16\. WARRANTIES AND LIMITATION OF LIABILITY REGARDING GOG SERVICES
