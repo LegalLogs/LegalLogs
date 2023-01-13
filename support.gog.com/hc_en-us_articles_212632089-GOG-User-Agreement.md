@@ -51,7 +51,7 @@ You can use GOG GALAXY, which is optional and contains cool features like bringi
 
 ### 3\. GOG ACCOUNT
 
-3.1 To buy GOG content from GOG services, and in some cases to play/use GOG content where our partners require use of a GOG account, you will need to set up a GOG account. This will involve creating a password (which is encrypted so we can’t access it) and a username, plus giving us (for identification purposes) your email address. Please make sure your login credentials are kept secure and your account is used properly. In your GOG account settings you can also optionally set your country of residence, birthday and avatar. Our Privacy Policy gives more detail about the information we collect from you and how we use it and protect it. It's [here](https://support.gog.com/hc/articles/212632109-Privacy-Policy).
+3.1 To buy GOG content from GOG services, and in some cases to play/use GOG content where our partners require use of a GOG account, you will need to set up a GOG account. This will involve creating a password (which is encrypted so we can’t access it) and a username, plus giving us (for identification purposes) your email address. Please make sure your login credentials are kept secure and your account is used properly. In your GOG account settings you can also optionally set your country of residence, birthday and avatar. Our Privacy Policy gives more detail about the information we collect from you and how we use it and protect it. It's [here](https://support.gog.com/hc/articles/212632109).
 
 To buy GOG content you will need to set up a GOG account. Make sure to keep your password safe! Check out our Privacy Policy too (link opposite).
 
@@ -59,7 +59,7 @@ To buy GOG content you will need to set up a GOG account. Make sure to keep your
 
 Your GOG account will have a public profile and you can communicate with other GOG users. Be sensible and careful!
 
-3.3 Your GOG account and GOG content are personal to you and cannot be shared with, sold, gifted or transferred to anyone else. Your access to and use of them is subject to GOG’s rules which are set out here, as updated or amended when necessary.
+3.3 Your GOG account and GOG content are personal to you and cannot be shared with, sold, gifted or transferred to anyone else. Your access to and use of them is subject to GOG’s rules which are set out [here](https://support.gog.com/hc/articles/212632109), as updated or amended when necessary.
 
 Your GOG account and content are for you only – there are rules about how to use them (see opposite).
 
